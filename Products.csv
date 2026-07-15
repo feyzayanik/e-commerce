@@ -1,0 +1,1001 @@
+﻿ProductID;ProductName;ProductPrice;ProductStock;ProductDescription;ProductCreatedDate;ProductIsActive;ProductBarcode;CategoryID
+1;Kompakt Siyah Web Kamera Standart 01-0001;30294.00;687;Elektronik kategorisi için siyah renkli, kompakt web kamera ürünü.;2026-07-16 11:06:02.000;1;8,69E+12;1
+2;Yeni Nesil Bej Telefon Kılıfı Eco 01-0002;2643686.00;385;Elektronik kategorisi için bej renkli, yeni nesil telefon kılıfı ürünü.;2026-07-30 13:04:23.000;1;8,69E+12;1
+3;Günlük Turuncu Bluetooth Hoparlör Max 01-0003;1846793.00;418;Elektronik kategorisi için turuncu renkli, günlük bluetooth hoparlör ürünü.;2026-07-17 00:42:39.000;1;8,69E+12;1
+4;Modern Gri HDMI Kablo Nova 01-0004;3285978.00;54;Elektronik kategorisi için gri renkli, modern hdmi kablo ürünü.;2026-07-25 21:22:37.000;1;8,69E+12;1
+5;Dayanıklı Siyah Akıllı Saat Standart 01-0005;1856843.00;308;Elektronik kategorisi için siyah renkli, dayanıklı akıllı saat ürünü.;2026-07-27 00:11:13.000;1;8,69E+12;1
+6;Ekonomik Mavi Kablosuz Kulaklık Plus 01-0006;3165026.00;148;Elektronik kategorisi için mavi renkli, ekonomik kablosuz kulaklık ürünü.;2026-07-15 04:51:13.000;1;8,69E+12;1
+7;Premium Yeşil Web Kamera B Serisi 01-0007;3174317.00;114;Elektronik kategorisi için yeşil renkli, premium web kamera ürünü.;2026-07-27 09:59:16.000;1;8,69E+12;1
+8;Yeni Nesil Lacivert Kablosuz Kulaklık A Serisi 01-0008;525089.00;803;Elektronik kategorisi için lacivert renkli, yeni nesil kablosuz kulaklık ürünü.;2026-07-24 08:23:17.000;1;8,69E+12;1
+9;Kaliteli Pembe Akıllı Saat Nova 01-0009;2287982.00;912;Elektronik kategorisi için pembe renkli, kaliteli akıllı saat ürünü.;2026-07-27 15:08:51.000;1;8,69E+12;1
+10;Profesyonel Mavi HDMI Kablo C Serisi 01-0010;935754.00;336;Elektronik kategorisi için mavi renkli, profesyonel hdmi kablo ürünü.;2026-07-18 20:53:13.000;1;8,69E+12;1
+11;Kompakt Gri Oyuncu Mouse Standart 01-0011;1488101.00;581;Elektronik kategorisi için gri renkli, kompakt oyuncu mouse ürünü.;2026-08-01 09:43:13.000;1;8,69E+12;1
+12;Ekonomik Beyaz Laptop Soğutucu A Serisi 01-0012;1672273.00;236;Elektronik kategorisi için beyaz renkli, ekonomik laptop soğutucu ürünü.;2026-07-29 20:36:05.000;1;8,69E+12;1
+13;Premium Mor Tablet Standı C Serisi 01-0013;1534139.00;670;Elektronik kategorisi için mor renkli, premium tablet standı ürünü.;2026-07-19 16:33:14.000;1;8,69E+12;1
+14;Hafif Pembe Taşınabilir Şarj Cihazı Max 01-0014;1249180.00;691;Elektronik kategorisi için pembe renkli, hafif taşınabilir şarj cihazı ürünü.;2026-08-01 19:31:37.000;1;8,69E+12;1
+15;Kompakt Beyaz USB Bellek A Serisi 01-0015;2779209.00;302;Elektronik kategorisi için beyaz renkli, kompakt usb bellek ürünü.;2026-07-30 12:05:44.000;1;8,69E+12;1
+16;Kaliteli Lacivert USB Bellek Max 01-0016;2073786.00;591;Elektronik kategorisi için lacivert renkli, kaliteli usb bellek ürünü.;2026-07-11 17:34:39.000;1;8,69E+12;1
+17;Pratik Pembe Web Kamera Elite 01-0017;954564.00;792;Elektronik kategorisi için pembe renkli, pratik web kamera ürünü.;2026-07-16 22:10:35.000;1;8,69E+12;1
+18;Kompakt Lacivert Laptop Soğutucu Max 01-0018;3063664.00;12;Elektronik kategorisi için lacivert renkli, kompakt laptop soğutucu ürünü.;2026-07-20 14:07:42.000;1;8,69E+12;1
+19;Kompakt Beyaz Akıllı Saat C Serisi 01-0019;785221.00;746;Elektronik kategorisi için beyaz renkli, kompakt akıllı saat ürünü.;2026-07-23 01:14:11.000;1;8,69E+12;1
+20;Yeni Nesil Mavi Bluetooth Hoparlör Standart 01-0020;2184718.00;279;Elektronik kategorisi için mavi renkli, yeni nesil bluetooth hoparlör ürünü.;2026-07-07 00:54:00.000;1;8,69E+12;1
+21;Premium Lacivert Kablosuz Kulaklık C Serisi 01-0021;477531.00;255;Elektronik kategorisi için lacivert renkli, premium kablosuz kulaklık ürünü.;2026-07-16 08:04:41.000;1;8,69E+12;1
+22;Dayanıklı Kırmızı Taşınabilir Şarj Cihazı Elite 01-0022;155811.00;41;Elektronik kategorisi için kırmızı renkli, dayanıklı taşınabilir şarj cihazı ürünü.;2026-07-28 11:26:54.000;1;8,69E+12;1
+23;Premium Kahverengi Mekanik Klavye Mini 01-0023;768945.00;202;Elektronik kategorisi için kahverengi renkli, premium mekanik klavye ürünü.;2026-07-18 09:15:49.000;1;8,69E+12;1
+24;Ekonomik Bej USB Bellek Eco 01-0024;22621.00;763;Elektronik kategorisi için bej renkli, ekonomik usb bellek ürünü.;2026-07-06 22:39:48.000;1;8,69E+12;1
+25;Premium Siyah USB Bellek Nova 01-0025;2101358.00;775;Elektronik kategorisi için siyah renkli, premium usb bellek ürünü.;2026-07-18 20:40:12.000;1;8,69E+12;1
+26;Profesyonel Kırmızı HDMI Kablo Eco 01-0026;436157.00;718;Elektronik kategorisi için kırmızı renkli, profesyonel hdmi kablo ürünü.;2026-07-30 23:18:00.000;1;8,69E+12;1
+27;Yeni Nesil Kırmızı Akıllı Saat Standart 01-0027;2774460.00;551;Elektronik kategorisi için kırmızı renkli, yeni nesil akıllı saat ürünü.;2026-07-15 22:08:16.000;1;8,69E+12;1
+28;Şık Yeşil Kablosuz Kulaklık Plus 01-0028;1087421.00;236;Elektronik kategorisi için yeşil renkli, şık kablosuz kulaklık ürünü.;2026-07-24 08:49:27.000;1;8,69E+12;1
+29;Pratik Bej Bluetooth Hoparlör B Serisi 01-0029;1636428.00;774;Elektronik kategorisi için bej renkli, pratik bluetooth hoparlör ürünü.;2026-07-16 05:02:33.000;1;8,69E+12;1
+30;Şık Turuncu Oyuncu Mouse Pro 01-0030;3367983.00;724;Elektronik kategorisi için turuncu renkli, şık oyuncu mouse ürünü.;2026-07-24 08:24:24.000;1;8,69E+12;1
+31;Yeni Nesil Turuncu HDMI Kablo Luna 01-0031;2216235.00;310;Elektronik kategorisi için turuncu renkli, yeni nesil hdmi kablo ürünü.;2026-07-03 03:32:37.000;1;8,69E+12;1
+32;Ekonomik Beyaz Akıllı Saat B Serisi 01-0032;2455468.00;670;Elektronik kategorisi için beyaz renkli, ekonomik akıllı saat ürünü.;2026-07-19 19:22:22.000;1;8,69E+12;1
+33;Şık Beyaz Oyuncu Mouse Standart 01-0033;880402.00;666;Elektronik kategorisi için beyaz renkli, şık oyuncu mouse ürünü.;2026-07-27 16:10:27.000;1;8,69E+12;1
+34;Yeni Nesil Siyah USB Bellek Nova 01-0034;1502171.00;255;Elektronik kategorisi için siyah renkli, yeni nesil usb bellek ürünü.;2026-07-19 22:27:13.000;1;8,69E+12;1
+35;Şık Yeşil HDMI Kablo Mini 01-0035;1988339.00;932;Elektronik kategorisi için yeşil renkli, şık hdmi kablo ürünü.;2026-07-01 07:03:23.000;1;8,69E+12;1
+36;Premium Turuncu Kablosuz Kulaklık Luna 01-0036;1285482.00;405;Elektronik kategorisi için turuncu renkli, premium kablosuz kulaklık ürünü.;2026-07-28 06:19:58.000;1;8,69E+12;1
+37;Yeni Nesil Kırmızı USB Bellek Pro 01-0037;347173.00;556;Elektronik kategorisi için kırmızı renkli, yeni nesil usb bellek ürünü.;2026-07-01 12:35:15.000;1;8,69E+12;1
+38;Kompakt Beyaz Mekanik Klavye Elite 01-0038;2303613.00;853;Elektronik kategorisi için beyaz renkli, kompakt mekanik klavye ürünü.;2026-07-07 17:42:32.000;1;8,69E+12;1
+39;Kompakt Turuncu Kablosuz Kulaklık Plus 01-0039;2603677.00;592;Elektronik kategorisi için turuncu renkli, kompakt kablosuz kulaklık ürünü.;2026-07-13 14:52:04.000;1;8,69E+12;1
+40;Ekonomik Mor Bluetooth Hoparlör C Serisi 01-0040;3152121.00;348;Elektronik kategorisi için mor renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-08 13:44:14.000;1;8,69E+12;1
+41;Profesyonel Turuncu Laptop Soğutucu Max 01-0041;3051742.00;683;Elektronik kategorisi için turuncu renkli, profesyonel laptop soğutucu ürünü.;2026-07-27 04:33:32.000;1;8,69E+12;1
+42;Modern Bej HDMI Kablo Max 01-0042;56468.00;764;Elektronik kategorisi için bej renkli, modern hdmi kablo ürünü.;2026-07-20 08:37:51.000;1;8,69E+12;1
+43;Pratik Siyah Mekanik Klavye Max 01-0043;1443567.00;629;Elektronik kategorisi için siyah renkli, pratik mekanik klavye ürünü.;2026-07-05 18:15:21.000;1;8,69E+12;1
+44;Yeni Nesil Yeşil Mekanik Klavye Pro 01-0044;3121926.00;268;Elektronik kategorisi için yeşil renkli, yeni nesil mekanik klavye ürünü.;2026-07-13 01:44:20.000;1;8,69E+12;1
+45;Premium Lacivert Mekanik Klavye Elite 01-0045;2583071.00;949;Elektronik kategorisi için lacivert renkli, premium mekanik klavye ürünü.;2026-07-30 09:02:25.000;1;8,69E+12;1
+46;Pratik Yeşil Web Kamera Eco 01-0046;3424203.00;652;Elektronik kategorisi için yeşil renkli, pratik web kamera ürünü.;2026-07-05 13:01:20.000;1;8,69E+12;1
+47;Kaliteli Turuncu HDMI Kablo Eco 01-0047;2988712.00;632;Elektronik kategorisi için turuncu renkli, kaliteli hdmi kablo ürünü.;2026-07-31 04:54:12.000;1;8,69E+12;1
+48;Yeni Nesil Mavi Taşınabilir Şarj Cihazı Plus 01-0048;2237539.00;149;Elektronik kategorisi için mavi renkli, yeni nesil taşınabilir şarj cihazı ürünü.;2026-07-30 08:29:48.000;1;8,69E+12;1
+49;Şık Lacivert Kablosuz Kulaklık Standart 01-0049;1767104.00;984;Elektronik kategorisi için lacivert renkli, şık kablosuz kulaklık ürünü.;2026-07-30 02:17:42.000;1;8,69E+12;1
+50;Yeni Nesil Siyah Akıllı Saat Pro 01-0050;2866547.00;754;Elektronik kategorisi için siyah renkli, yeni nesil akıllı saat ürünü.;2026-07-07 08:30:50.000;1;8,69E+12;1
+51;Şık Kahverengi USB Bellek Elite 01-0051;1223633.00;428;Elektronik kategorisi için kahverengi renkli, şık usb bellek ürünü.;2026-07-12 07:12:04.000;1;8,69E+12;1
+52;Dayanıklı Gri Laptop Soğutucu Luna 01-0052;1115813.00;527;Elektronik kategorisi için gri renkli, dayanıklı laptop soğutucu ürünü.;2026-07-09 01:54:23.000;1;8,69E+12;1
+53;Hafif Pembe Akıllı Saat Plus 01-0053;1941319.00;161;Elektronik kategorisi için pembe renkli, hafif akıllı saat ürünü.;2026-07-28 04:41:31.000;1;8,69E+12;1
+54;Dayanıklı Gri Telefon Kılıfı B Serisi 01-0054;218903.00;678;Elektronik kategorisi için gri renkli, dayanıklı telefon kılıfı ürünü.;2026-07-26 15:09:42.000;1;8,69E+12;1
+55;Şık Lacivert Mekanik Klavye A Serisi 01-0055;3179469.00;425;Elektronik kategorisi için lacivert renkli, şık mekanik klavye ürünü.;2026-07-23 04:55:37.000;1;8,69E+12;1
+56;Dayanıklı Pembe Oyuncu Mouse Plus 01-0056;1908703.00;485;Elektronik kategorisi için pembe renkli, dayanıklı oyuncu mouse ürünü.;2026-07-24 17:04:10.000;1;8,69E+12;1
+57;Profesyonel Turuncu Telefon Kılıfı Max 01-0057;1852213.00;11;Elektronik kategorisi için turuncu renkli, profesyonel telefon kılıfı ürünü.;2026-08-01 09:35:26.000;1;8,69E+12;1
+58;Premium Mor Laptop Soğutucu Mini 01-0058;2751886.00;287;Elektronik kategorisi için mor renkli, premium laptop soğutucu ürünü.;2026-07-19 10:38:19.000;1;8,69E+12;1
+59;Premium Turuncu Tablet Standı Plus 01-0059;3111803.00;804;Elektronik kategorisi için turuncu renkli, premium tablet standı ürünü.;2026-07-06 02:30:25.000;1;8,69E+12;1
+60;Yeni Nesil Lacivert Taşınabilir Şarj Cihazı Elite 01-0060;3376089.00;884;Elektronik kategorisi için lacivert renkli, yeni nesil taşınabilir şarj cihazı ürünü.;2026-07-14 21:53:13.000;1;8,69E+12;1
+61;Günlük Gri Bluetooth Hoparlör Pro 01-0061;533967.00;858;Elektronik kategorisi için gri renkli, günlük bluetooth hoparlör ürünü.;2026-07-11 09:46:05.000;1;8,69E+12;1
+62;Dayanıklı Kırmızı Tablet Standı Mini 01-0062;2681047.00;837;Elektronik kategorisi için kırmızı renkli, dayanıklı tablet standı ürünü.;2026-07-08 22:34:28.000;1;8,69E+12;1
+63;Yeni Nesil Mor Oyuncu Mouse Mini 01-0063;1362286.00;883;Elektronik kategorisi için mor renkli, yeni nesil oyuncu mouse ürünü.;2026-07-26 21:20:13.000;1;8,69E+12;1
+64;Günlük Bej Akıllı Saat Max 01-0064;1956874.00;249;Elektronik kategorisi için bej renkli, günlük akıllı saat ürünü.;2026-07-19 18:00:07.000;1;8,69E+12;1
+65;Dayanıklı Mavi Kablosuz Kulaklık Luna 01-0065;2606418.00;413;Elektronik kategorisi için mavi renkli, dayanıklı kablosuz kulaklık ürünü.;2026-07-21 07:51:17.000;1;8,69E+12;1
+66;Hafif Lacivert Bluetooth Hoparlör Elite 01-0066;3053357.00;996;Elektronik kategorisi için lacivert renkli, hafif bluetooth hoparlör ürünü.;2026-07-05 04:28:45.000;1;8,69E+12;1
+67;Ekonomik Siyah Bluetooth Hoparlör B Serisi 01-0067;3016120.00;338;Elektronik kategorisi için siyah renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-18 15:19:10.000;1;8,69E+12;1
+68;Dayanıklı Yeşil Taşınabilir Şarj Cihazı Eco 01-0068;2852743.00;221;Elektronik kategorisi için yeşil renkli, dayanıklı taşınabilir şarj cihazı ürünü.;2026-07-12 16:19:55.000;1;8,69E+12;1
+69;Günlük Bej Telefon Kılıfı Plus 01-0069;3473230.00;778;Elektronik kategorisi için bej renkli, günlük telefon kılıfı ürünü.;2026-07-20 23:26:40.000;1;8,69E+12;1
+70;Pratik Lacivert Kablosuz Kulaklık C Serisi 01-0070;539371.00;143;Elektronik kategorisi için lacivert renkli, pratik kablosuz kulaklık ürünü.;2026-07-04 06:31:05.000;1;8,69E+12;1
+71;Günlük Siyah Telefon Kılıfı Standart 01-0071;2002979.00;578;Elektronik kategorisi için siyah renkli, günlük telefon kılıfı ürünü.;2026-07-17 19:57:34.000;1;8,69E+12;1
+72;Pratik Bej Telefon Kılıfı Nova 01-0072;1531092.00;455;Elektronik kategorisi için bej renkli, pratik telefon kılıfı ürünü.;2026-07-29 00:14:48.000;1;8,69E+12;1
+73;Yeni Nesil Mavi Kablosuz Kulaklık Mini 01-0073;2771033.00;63;Elektronik kategorisi için mavi renkli, yeni nesil kablosuz kulaklık ürünü.;2026-07-19 00:18:32.000;1;8,69E+12;1
+74;Ekonomik Kırmızı Web Kamera Nova 01-0074;191465.00;315;Elektronik kategorisi için kırmızı renkli, ekonomik web kamera ürünü.;2026-07-30 18:33:02.000;1;8,69E+12;1
+75;Şık Beyaz Tablet Standı A Serisi 01-0075;1284416.00;20;Elektronik kategorisi için beyaz renkli, şık tablet standı ürünü.;2026-07-14 18:59:56.000;1;8,69E+12;1
+76;Şık Bej Oyuncu Mouse Elite 01-0076;2567573.00;11;Elektronik kategorisi için bej renkli, şık oyuncu mouse ürünü.;2026-07-12 03:39:48.000;1;8,69E+12;1
+77;Şık Mavi USB Bellek Mini 01-0077;3069123.00;767;Elektronik kategorisi için mavi renkli, şık usb bellek ürünü.;2026-07-12 10:43:06.000;1;8,69E+12;1
+78;Dayanıklı Mor Kablosuz Kulaklık Max 01-0078;3344918.00;736;Elektronik kategorisi için mor renkli, dayanıklı kablosuz kulaklık ürünü.;2026-07-31 11:57:14.000;1;8,69E+12;1
+79;Premium Pembe Telefon Kılıfı Standart 01-0079;415384.00;778;Elektronik kategorisi için pembe renkli, premium telefon kılıfı ürünü.;2026-07-24 02:18:30.000;1;8,69E+12;1
+80;Günlük Mavi HDMI Kablo Pro 01-0080;529778.00;257;Elektronik kategorisi için mavi renkli, günlük hdmi kablo ürünü.;2026-07-20 02:35:04.000;1;8,69E+12;1
+81;Pratik Pembe Telefon Kılıfı B Serisi 01-0081;786198.00;489;Elektronik kategorisi için pembe renkli, pratik telefon kılıfı ürünü.;2026-07-31 22:15:45.000;1;8,69E+12;1
+82;Premium Siyah HDMI Kablo Standart 01-0082;1740851.00;225;Elektronik kategorisi için siyah renkli, premium hdmi kablo ürünü.;2026-07-19 22:38:27.000;1;8,69E+12;1
+83;Şık Gri Akıllı Saat Max 01-0083;140746.00;170;Elektronik kategorisi için gri renkli, şık akıllı saat ürünü.;2026-07-22 21:12:43.000;1;8,69E+12;1
+84;Kompakt Lacivert Taşınabilir Şarj Cihazı Plus 01-0084;2128629.00;661;Elektronik kategorisi için lacivert renkli, kompakt taşınabilir şarj cihazı ürünü.;2026-07-05 23:57:23.000;1;8,69E+12;1
+85;Dayanıklı Yeşil Tablet Standı Nova 01-0085;2471965.00;981;Elektronik kategorisi için yeşil renkli, dayanıklı tablet standı ürünü.;2026-07-22 10:38:28.000;1;8,69E+12;1
+86;Premium Mor Oyuncu Mouse Nova 01-0086;526728.00;444;Elektronik kategorisi için mor renkli, premium oyuncu mouse ürünü.;2026-07-25 13:21:45.000;1;8,69E+12;1
+87;Yeni Nesil Mor HDMI Kablo Eco 01-0087;1416238.00;858;Elektronik kategorisi için mor renkli, yeni nesil hdmi kablo ürünü.;2026-07-23 16:08:12.000;1;8,69E+12;1
+88;Hafif Yeşil Taşınabilir Şarj Cihazı Standart 01-0088;617416.00;724;Elektronik kategorisi için yeşil renkli, hafif taşınabilir şarj cihazı ürünü.;2026-07-27 16:23:39.000;1;8,69E+12;1
+89;Yeni Nesil Yeşil Telefon Kılıfı Max 01-0089;3068314.00;596;Elektronik kategorisi için yeşil renkli, yeni nesil telefon kılıfı ürünü.;2026-07-07 17:34:49.000;1;8,69E+12;1
+90;Premium Siyah Taşınabilir Şarj Cihazı Max 01-0090;394704.00;274;Elektronik kategorisi için siyah renkli, premium taşınabilir şarj cihazı ürünü.;2026-07-03 22:12:30.000;1;8,69E+12;1
+91;Hafif Bej Taşınabilir Şarj Cihazı Mini 01-0091;1392570.00;242;Elektronik kategorisi için bej renkli, hafif taşınabilir şarj cihazı ürünü.;2026-07-11 10:49:01.000;1;8,69E+12;1
+92;Modern Kahverengi Web Kamera Pro 01-0092;3436654.00;850;Elektronik kategorisi için kahverengi renkli, modern web kamera ürünü.;2026-07-31 03:48:20.000;1;8,69E+12;1
+93;Premium Yeşil Laptop Soğutucu A Serisi 01-0093;3432551.00;603;Elektronik kategorisi için yeşil renkli, premium laptop soğutucu ürünü.;2026-07-31 03:08:18.000;1;8,69E+12;1
+94;Pratik Bej HDMI Kablo Mini 01-0094;3351712.00;558;Elektronik kategorisi için bej renkli, pratik hdmi kablo ürünü.;2026-07-21 07:10:52.000;1;8,69E+12;1
+95;Kaliteli Siyah Oyuncu Mouse Max 01-0095;1164054.00;260;Elektronik kategorisi için siyah renkli, kaliteli oyuncu mouse ürünü.;2026-07-17 08:55:02.000;1;8,69E+12;1
+96;Kompakt Bej Telefon Kılıfı Elite 01-0096;716235.00;771;Elektronik kategorisi için bej renkli, kompakt telefon kılıfı ürünü.;2026-07-22 05:09:31.000;1;8,69E+12;1
+97;Premium Beyaz Mekanik Klavye Elite 01-0097;639021.00;707;Elektronik kategorisi için beyaz renkli, premium mekanik klavye ürünü.;2026-07-17 15:03:03.000;1;8,69E+12;1
+98;Kaliteli Mor HDMI Kablo C Serisi 01-0098;116351.00;364;Elektronik kategorisi için mor renkli, kaliteli hdmi kablo ürünü.;2026-07-11 08:40:56.000;1;8,69E+12;1
+99;Dayanıklı Siyah Kablosuz Kulaklık Luna 01-0099;1165569.00;906;Elektronik kategorisi için siyah renkli, dayanıklı kablosuz kulaklık ürünü.;2026-07-16 12:58:15.000;1;8,69E+12;1
+100;Ekonomik Mor Web Kamera B Serisi 01-0100;967460.00;792;Elektronik kategorisi için mor renkli, ekonomik web kamera ürünü.;2026-07-12 23:00:08.000;1;8,69E+12;1
+101;Şık Pembe Tablet Standı C Serisi 01-0101;1704590.00;978;Elektronik kategorisi için pembe renkli, şık tablet standı ürünü.;2026-07-25 13:32:05.000;1;8,69E+12;1
+102;Yeni Nesil Mor Kablosuz Kulaklık Eco 01-0102;3128654.00;85;Elektronik kategorisi için mor renkli, yeni nesil kablosuz kulaklık ürünü.;2026-07-13 18:31:14.000;1;8,69E+12;1
+103;Modern Turuncu Taşınabilir Şarj Cihazı Nova 01-0103;3224371.00;607;Elektronik kategorisi için turuncu renkli, modern taşınabilir şarj cihazı ürünü.;2026-07-29 10:47:25.000;1;8,69E+12;1
+104;Kaliteli Mavi Bluetooth Hoparlör B Serisi 01-0104;3239479.00;68;Elektronik kategorisi için mavi renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-03 05:13:21.000;1;8,69E+12;1
+105;Premium Mavi Mekanik Klavye Plus 01-0105;2649688.00;711;Elektronik kategorisi için mavi renkli, premium mekanik klavye ürünü.;2026-07-18 00:25:00.000;1;8,69E+12;1
+106;Kaliteli Mor Oyuncu Mouse Plus 01-0106;582941.00;575;Elektronik kategorisi için mor renkli, kaliteli oyuncu mouse ürünü.;2026-07-31 00:45:53.000;1;8,69E+12;1
+107;Dayanıklı Lacivert Telefon Kılıfı Standart 01-0107;2276753.00;108;Elektronik kategorisi için lacivert renkli, dayanıklı telefon kılıfı ürünü.;2026-07-21 14:31:22.000;1;8,69E+12;1
+108;Kaliteli Siyah Taşınabilir Şarj Cihazı B Serisi 01-0108;2536018.00;399;Elektronik kategorisi için siyah renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-22 04:43:16.000;1;8,69E+12;1
+109;Dayanıklı Siyah Telefon Kılıfı Luna 01-0109;648330.00;265;Elektronik kategorisi için siyah renkli, dayanıklı telefon kılıfı ürünü.;2026-07-22 02:18:12.000;1;8,69E+12;1
+110;Günlük Bej Kablosuz Kulaklık Nova 01-0110;3313045.00;389;Elektronik kategorisi için bej renkli, günlük kablosuz kulaklık ürünü.;2026-07-08 20:50:18.000;1;8,69E+12;1
+111;Ekonomik Lacivert Oyuncu Mouse Luna 01-0111;2074198.00;379;Elektronik kategorisi için lacivert renkli, ekonomik oyuncu mouse ürünü.;2026-07-19 02:09:20.000;1;8,69E+12;1
+112;Modern Mavi Oyuncu Mouse Luna 01-0112;1701887.00;322;Elektronik kategorisi için mavi renkli, modern oyuncu mouse ürünü.;2026-07-09 06:01:09.000;1;8,69E+12;1
+113;Dayanıklı Beyaz Kablosuz Kulaklık Eco 01-0113;3243726.00;227;Elektronik kategorisi için beyaz renkli, dayanıklı kablosuz kulaklık ürünü.;2026-07-13 21:33:34.000;1;8,69E+12;1
+114;Yeni Nesil Pembe Tablet Standı Plus 01-0114;3189746.00;417;Elektronik kategorisi için pembe renkli, yeni nesil tablet standı ürünü.;2026-07-05 05:18:11.000;1;8,69E+12;1
+115;Şık Beyaz Mekanik Klavye C Serisi 01-0115;1466348.00;521;Elektronik kategorisi için beyaz renkli, şık mekanik klavye ürünü.;2026-07-09 16:06:41.000;1;8,69E+12;1
+116;Yeni Nesil Gri Telefon Kılıfı Plus 01-0116;2188394.00;292;Elektronik kategorisi için gri renkli, yeni nesil telefon kılıfı ürünü.;2026-07-31 19:31:14.000;1;8,69E+12;1
+117;Profesyonel Bej Web Kamera Standart 01-0117;1283716.00;731;Elektronik kategorisi için bej renkli, profesyonel web kamera ürünü.;2026-07-23 05:44:15.000;1;8,69E+12;1
+118;Şık Lacivert USB Bellek Standart 01-0118;165958.00;264;Elektronik kategorisi için lacivert renkli, şık usb bellek ürünü.;2026-07-19 19:06:47.000;1;8,69E+12;1
+119;Premium Kahverengi Oyuncu Mouse Pro 01-0119;3329608.00;271;Elektronik kategorisi için kahverengi renkli, premium oyuncu mouse ürünü.;2026-07-10 07:23:34.000;1;8,69E+12;1
+120;Kaliteli Gri Laptop Soğutucu A Serisi 01-0120;612383.00;52;Elektronik kategorisi için gri renkli, kaliteli laptop soğutucu ürünü.;2026-07-30 13:31:48.000;1;8,69E+12;1
+121;Ekonomik Mavi Web Kamera Pro 01-0121;1232904.00;596;Elektronik kategorisi için mavi renkli, ekonomik web kamera ürünü.;2026-07-18 07:05:39.000;1;8,69E+12;1
+122;Ekonomik Bej Web Kamera Mini 01-0122;788873.00;377;Elektronik kategorisi için bej renkli, ekonomik web kamera ürünü.;2026-07-02 06:06:17.000;1;8,69E+12;1
+123;Premium Gri Taşınabilir Şarj Cihazı A Serisi 01-0123;97818.00;614;Elektronik kategorisi için gri renkli, premium taşınabilir şarj cihazı ürünü.;2026-07-07 00:41:35.000;1;8,69E+12;1
+124;Ekonomik Mavi Mekanik Klavye Standart 01-0124;593010.00;159;Elektronik kategorisi için mavi renkli, ekonomik mekanik klavye ürünü.;2026-07-26 02:26:44.000;1;8,69E+12;1
+125;Kompakt Mavi Laptop Soğutucu Elite 01-0125;1553919.00;391;Elektronik kategorisi için mavi renkli, kompakt laptop soğutucu ürünü.;2026-07-16 19:04:05.000;1;8,69E+12;1
+126;Şık Siyah HDMI Kablo Pro 01-0126;2774638.00;432;Elektronik kategorisi için siyah renkli, şık hdmi kablo ürünü.;2026-07-25 22:35:48.000;1;8,69E+12;1
+127;Şık Lacivert Oyuncu Mouse C Serisi 01-0127;2088954.00;374;Elektronik kategorisi için lacivert renkli, şık oyuncu mouse ürünü.;2026-07-24 10:29:52.000;1;8,69E+12;1
+128;Pratik Kırmızı Web Kamera Luna 01-0128;2625723.00;873;Elektronik kategorisi için kırmızı renkli, pratik web kamera ürünü.;2026-07-24 15:52:29.000;1;8,69E+12;1
+129;Kaliteli Kırmızı USB Bellek Luna 01-0129;841875.00;114;Elektronik kategorisi için kırmızı renkli, kaliteli usb bellek ürünü.;2026-07-12 11:43:05.000;1;8,69E+12;1
+130;Profesyonel Pembe Web Kamera Nova 01-0130;3341215.00;350;Elektronik kategorisi için pembe renkli, profesyonel web kamera ürünü.;2026-07-22 07:16:58.000;1;8,69E+12;1
+131;Pratik Siyah Bluetooth Hoparlör A Serisi 01-0131;1976273.00;107;Elektronik kategorisi için siyah renkli, pratik bluetooth hoparlör ürünü.;2026-07-31 05:52:45.000;1;8,69E+12;1
+132;Profesyonel Mavi Kablosuz Kulaklık Plus 01-0132;2968648.00;762;Elektronik kategorisi için mavi renkli, profesyonel kablosuz kulaklık ürünü.;2026-07-23 20:23:49.000;1;8,69E+12;1
+133;Profesyonel Mor Taşınabilir Şarj Cihazı Mini 01-0133;2900372.00;616;Elektronik kategorisi için mor renkli, profesyonel taşınabilir şarj cihazı ürünü.;2026-07-30 04:36:04.000;1;8,69E+12;1
+134;Dayanıklı Turuncu Tablet Standı B Serisi 01-0134;2868814.00;624;Elektronik kategorisi için turuncu renkli, dayanıklı tablet standı ürünü.;2026-07-16 21:27:00.000;1;8,69E+12;1
+135;Pratik Siyah Taşınabilir Şarj Cihazı Max 01-0135;2986268.00;462;Elektronik kategorisi için siyah renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-20 14:21:49.000;1;8,69E+12;1
+136;Kaliteli Bej HDMI Kablo B Serisi 01-0136;839964.00;411;Elektronik kategorisi için bej renkli, kaliteli hdmi kablo ürünü.;2026-07-16 19:41:28.000;1;8,69E+12;1
+137;Dayanıklı Lacivert Mekanik Klavye Mini 01-0137;3123330.00;279;Elektronik kategorisi için lacivert renkli, dayanıklı mekanik klavye ürünü.;2026-07-01 12:29:44.000;1;8,69E+12;1
+138;Şık Beyaz HDMI Kablo C Serisi 01-0138;2648211.00;961;Elektronik kategorisi için beyaz renkli, şık hdmi kablo ürünü.;2026-07-16 21:53:04.000;1;8,69E+12;1
+139;Premium Kahverengi Oyuncu Mouse Nova 01-0139;1401836.00;969;Elektronik kategorisi için kahverengi renkli, premium oyuncu mouse ürünü.;2026-07-17 12:14:48.000;1;8,69E+12;1
+140;Modern Bej Bluetooth Hoparlör C Serisi 01-0140;3122595.00;25;Elektronik kategorisi için bej renkli, modern bluetooth hoparlör ürünü.;2026-07-28 01:15:17.000;1;8,69E+12;1
+141;Günlük Turuncu HDMI Kablo Elite 01-0141;169643.00;815;Elektronik kategorisi için turuncu renkli, günlük hdmi kablo ürünü.;2026-07-14 03:54:10.000;1;8,69E+12;1
+142;Şık Kahverengi Taşınabilir Şarj Cihazı Pro 01-0142;1293762.00;448;Elektronik kategorisi için kahverengi renkli, şık taşınabilir şarj cihazı ürünü.;2026-07-24 16:45:37.000;1;8,69E+12;1
+143;Profesyonel Mor Kablosuz Kulaklık Elite 01-0143;2579720.00;162;Elektronik kategorisi için mor renkli, profesyonel kablosuz kulaklık ürünü.;2026-07-17 20:58:56.000;1;8,69E+12;1
+144;Ekonomik Beyaz Bluetooth Hoparlör Luna 01-0144;2131916.00;627;Elektronik kategorisi için beyaz renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-14 06:33:52.000;1;8,69E+12;1
+145;Profesyonel Kırmızı Tablet Standı Standart 01-0145;2140745.00;971;Elektronik kategorisi için kırmızı renkli, profesyonel tablet standı ürünü.;2026-07-14 13:06:17.000;1;8,69E+12;1
+146;Günlük Mavi Akıllı Saat Eco 01-0146;1107062.00;229;Elektronik kategorisi için mavi renkli, günlük akıllı saat ürünü.;2026-07-11 19:52:55.000;1;8,69E+12;1
+147;Kaliteli Gri Telefon Kılıfı C Serisi 01-0147;3439586.00;694;Elektronik kategorisi için gri renkli, kaliteli telefon kılıfı ürünü.;2026-07-11 05:22:56.000;1;8,69E+12;1
+148;Kompakt Gri Tablet Standı Luna 01-0148;2665705.00;807;Elektronik kategorisi için gri renkli, kompakt tablet standı ürünü.;2026-07-05 22:44:12.000;1;8,69E+12;1
+149;Premium Kırmızı Mekanik Klavye A Serisi 01-0149;3373258.00;115;Elektronik kategorisi için kırmızı renkli, premium mekanik klavye ürünü.;2026-07-12 03:50:20.000;1;8,69E+12;1
+150;Günlük Beyaz Laptop Soğutucu Eco 01-0150;1427848.00;915;Elektronik kategorisi için beyaz renkli, günlük laptop soğutucu ürünü.;2026-07-27 22:30:59.000;1;8,69E+12;1
+151;Modern Pembe Web Kamera Standart 01-0151;989142.00;66;Elektronik kategorisi için pembe renkli, modern web kamera ürünü.;2026-07-05 09:17:46.000;1;8,69E+12;1
+152;Profesyonel Yeşil Taşınabilir Şarj Cihazı C Serisi 01-0152;2099303.00;52;Elektronik kategorisi için yeşil renkli, profesyonel taşınabilir şarj cihazı ürünü.;2026-07-19 12:44:51.000;1;8,69E+12;1
+153;Ekonomik Bej USB Bellek A Serisi 01-0153;2366819.00;285;Elektronik kategorisi için bej renkli, ekonomik usb bellek ürünü.;2026-07-31 21:42:41.000;1;8,69E+12;1
+154;Hafif Kırmızı Akıllı Saat Standart 01-0154;1105900.00;535;Elektronik kategorisi için kırmızı renkli, hafif akıllı saat ürünü.;2026-07-15 10:27:43.000;1;8,69E+12;1
+155;Yeni Nesil Yeşil Web Kamera Luna 01-0155;3495705.00;942;Elektronik kategorisi için yeşil renkli, yeni nesil web kamera ürünü.;2026-07-02 20:26:26.000;1;8,69E+12;1
+156;Şık Mavi Web Kamera Eco 01-0156;2563803.00;161;Elektronik kategorisi için mavi renkli, şık web kamera ürünü.;2026-07-14 02:50:28.000;1;8,69E+12;1
+157;Yeni Nesil Bej Taşınabilir Şarj Cihazı Mini 01-0157;2940469.00;772;Elektronik kategorisi için bej renkli, yeni nesil taşınabilir şarj cihazı ürünü.;2026-07-18 14:37:30.000;1;8,69E+12;1
+158;Hafif Kırmızı Bluetooth Hoparlör Pro 01-0158;2123544.00;935;Elektronik kategorisi için kırmızı renkli, hafif bluetooth hoparlör ürünü.;2026-07-18 13:18:16.000;1;8,69E+12;1
+159;Premium Gri Telefon Kılıfı Plus 01-0159;3109510.00;665;Elektronik kategorisi için gri renkli, premium telefon kılıfı ürünü.;2026-07-11 08:56:57.000;1;8,69E+12;1
+160;Yeni Nesil Kırmızı Laptop Soğutucu B Serisi 01-0160;2224389.00;47;Elektronik kategorisi için kırmızı renkli, yeni nesil laptop soğutucu ürünü.;2026-07-18 21:07:29.000;1;8,69E+12;1
+161;Günlük Turuncu Taşınabilir Şarj Cihazı Pro 01-0161;3053429.00;375;Elektronik kategorisi için turuncu renkli, günlük taşınabilir şarj cihazı ürünü.;2026-07-27 12:24:15.000;1;8,69E+12;1
+162;Dayanıklı Mor Laptop Soğutucu C Serisi 01-0162;1337664.00;585;Elektronik kategorisi için mor renkli, dayanıklı laptop soğutucu ürünü.;2026-07-20 16:56:04.000;1;8,69E+12;1
+163;Premium Bej Taşınabilir Şarj Cihazı Nova 01-0163;1035730.00;672;Elektronik kategorisi için bej renkli, premium taşınabilir şarj cihazı ürünü.;2026-07-13 16:33:57.000;1;8,69E+12;1
+164;Modern Mor HDMI Kablo Elite 01-0164;665029.00;514;Elektronik kategorisi için mor renkli, modern hdmi kablo ürünü.;2026-07-05 08:24:01.000;1;8,69E+12;1
+165;Dayanıklı Bej USB Bellek Standart 01-0165;252035.00;310;Elektronik kategorisi için bej renkli, dayanıklı usb bellek ürünü.;2026-07-12 06:43:03.000;1;8,69E+12;1
+166;Ekonomik Pembe Tablet Standı Max 01-0166;272062.00;84;Elektronik kategorisi için pembe renkli, ekonomik tablet standı ürünü.;2026-07-16 05:35:15.000;1;8,69E+12;1
+167;Pratik Siyah Web Kamera Plus 01-0167;2107452.00;450;Elektronik kategorisi için siyah renkli, pratik web kamera ürünü.;2026-07-19 04:33:40.000;1;8,69E+12;1
+168;Şık Beyaz Kablosuz Kulaklık Luna 01-0168;3194590.00;627;Elektronik kategorisi için beyaz renkli, şık kablosuz kulaklık ürünü.;2026-07-15 23:28:32.000;1;8,69E+12;1
+169;Günlük Mor Oyuncu Mouse Pro 01-0169;817380.00;309;Elektronik kategorisi için mor renkli, günlük oyuncu mouse ürünü.;2026-07-09 04:14:32.000;1;8,69E+12;1
+170;Hafif Turuncu Laptop Soğutucu Pro 01-0170;170910.00;419;Elektronik kategorisi için turuncu renkli, hafif laptop soğutucu ürünü.;2026-07-21 01:28:53.000;1;8,69E+12;1
+171;Yeni Nesil Yeşil Tablet Standı A Serisi 01-0171;1817936.00;770;Elektronik kategorisi için yeşil renkli, yeni nesil tablet standı ürünü.;2026-07-03 13:09:29.000;1;8,69E+12;1
+172;Premium Pembe Web Kamera Plus 01-0172;778200.00;663;Elektronik kategorisi için pembe renkli, premium web kamera ürünü.;2026-07-31 21:08:23.000;1;8,69E+12;1
+173;Yeni Nesil Beyaz Akıllı Saat A Serisi 01-0173;2494080.00;283;Elektronik kategorisi için beyaz renkli, yeni nesil akıllı saat ürünü.;2026-07-19 16:47:48.000;1;8,69E+12;1
+174;Hafif Kahverengi Bluetooth Hoparlör Max 01-0174;2813863.00;678;Elektronik kategorisi için kahverengi renkli, hafif bluetooth hoparlör ürünü.;2026-07-30 15:21:58.000;1;8,69E+12;1
+175;Yeni Nesil Lacivert Bluetooth Hoparlör Pro 01-0175;51715.00;55;Elektronik kategorisi için lacivert renkli, yeni nesil bluetooth hoparlör ürünü.;2026-07-23 16:39:50.000;1;8,69E+12;1
+176;Şık Pembe USB Bellek C Serisi 01-0176;1950739.00;876;Elektronik kategorisi için pembe renkli, şık usb bellek ürünü.;2026-07-30 18:03:47.000;1;8,69E+12;1
+177;Kompakt Mor Telefon Kılıfı Elite 01-0177;2290185.00;629;Elektronik kategorisi için mor renkli, kompakt telefon kılıfı ürünü.;2026-07-24 20:41:48.000;1;8,69E+12;1
+178;Yeni Nesil Siyah HDMI Kablo Elite 01-0178;473657.00;804;Elektronik kategorisi için siyah renkli, yeni nesil hdmi kablo ürünü.;2026-07-27 17:08:27.000;1;8,69E+12;1
+179;Premium Bej Web Kamera Luna 01-0179;3307944.00;696;Elektronik kategorisi için bej renkli, premium web kamera ürünü.;2026-07-19 23:38:59.000;1;8,69E+12;1
+180;Kaliteli Kırmızı Laptop Soğutucu B Serisi 01-0180;2356057.00;453;Elektronik kategorisi için kırmızı renkli, kaliteli laptop soğutucu ürünü.;2026-07-24 17:42:24.000;1;8,69E+12;1
+181;Günlük Pembe Akıllı Saat A Serisi 01-0181;3064109.00;390;Elektronik kategorisi için pembe renkli, günlük akıllı saat ürünü.;2026-07-16 13:35:05.000;1;8,69E+12;1
+182;Profesyonel Bej Telefon Kılıfı C Serisi 01-0182;2751713.00;963;Elektronik kategorisi için bej renkli, profesyonel telefon kılıfı ürünü.;2026-07-28 15:00:04.000;1;8,69E+12;1
+183;Yeni Nesil Lacivert Bluetooth Hoparlör Pro 01-0183;339581.00;134;Elektronik kategorisi için lacivert renkli, yeni nesil bluetooth hoparlör ürünü.;2026-07-27 12:45:01.000;1;8,69E+12;1
+184;Kompakt Gri Oyuncu Mouse Plus 01-0184;1520935.00;328;Elektronik kategorisi için gri renkli, kompakt oyuncu mouse ürünü.;2026-07-15 08:37:44.000;1;8,69E+12;1
+185;Hafif Yeşil Telefon Kılıfı Standart 01-0185;1670547.00;717;Elektronik kategorisi için yeşil renkli, hafif telefon kılıfı ürünü.;2026-07-04 19:35:12.000;1;8,69E+12;1
+186;Premium Kırmızı Bluetooth Hoparlör Elite 01-0186;167589.00;288;Elektronik kategorisi için kırmızı renkli, premium bluetooth hoparlör ürünü.;2026-07-25 13:26:26.000;1;8,69E+12;1
+187;Günlük Gri Mekanik Klavye Mini 01-0187;2234152.00;204;Elektronik kategorisi için gri renkli, günlük mekanik klavye ürünü.;2026-07-02 16:23:20.000;1;8,69E+12;1
+188;Premium Bej Akıllı Saat Mini 01-0188;746213.00;141;Elektronik kategorisi için bej renkli, premium akıllı saat ürünü.;2026-07-14 09:09:39.000;1;8,69E+12;1
+189;Ekonomik Yeşil HDMI Kablo Plus 01-0189;188495.00;259;Elektronik kategorisi için yeşil renkli, ekonomik hdmi kablo ürünü.;2026-07-07 03:03:01.000;1;8,69E+12;1
+190;Modern Beyaz Web Kamera Eco 01-0190;1384423.00;595;Elektronik kategorisi için beyaz renkli, modern web kamera ürünü.;2026-07-23 01:32:31.000;1;8,69E+12;1
+191;Ekonomik Turuncu Laptop Soğutucu A Serisi 01-0191;1850226.00;646;Elektronik kategorisi için turuncu renkli, ekonomik laptop soğutucu ürünü.;2026-07-05 06:28:06.000;1;8,69E+12;1
+192;Pratik Yeşil Mekanik Klavye C Serisi 01-0192;2495510.00;135;Elektronik kategorisi için yeşil renkli, pratik mekanik klavye ürünü.;2026-07-22 02:37:39.000;1;8,69E+12;1
+193;Şık Kahverengi Web Kamera Luna 01-0193;523669.00;645;Elektronik kategorisi için kahverengi renkli, şık web kamera ürünü.;2026-07-28 05:46:07.000;1;8,69E+12;1
+194;Hafif Beyaz USB Bellek Mini 01-0194;248391.00;99;Elektronik kategorisi için beyaz renkli, hafif usb bellek ürünü.;2026-07-24 03:33:47.000;1;8,69E+12;1
+195;Premium Siyah Oyuncu Mouse Luna 01-0195;243529.00;413;Elektronik kategorisi için siyah renkli, premium oyuncu mouse ürünü.;2026-07-20 08:50:00.000;1;8,69E+12;1
+196;Kompakt Kırmızı Telefon Kılıfı Standart 01-0196;715410.00;362;Elektronik kategorisi için kırmızı renkli, kompakt telefon kılıfı ürünü.;2026-07-06 18:39:19.000;1;8,69E+12;1
+197;Kaliteli Turuncu Bluetooth Hoparlör Pro 01-0197;2938671.00;625;Elektronik kategorisi için turuncu renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-21 22:15:06.000;1;8,69E+12;1
+198;Profesyonel Mor Web Kamera Max 01-0198;666719.00;261;Elektronik kategorisi için mor renkli, profesyonel web kamera ürünü.;2026-07-03 00:56:35.000;1;8,69E+12;1
+199;Pratik Bej Oyuncu Mouse Standart 01-0199;1906789.00;497;Elektronik kategorisi için bej renkli, pratik oyuncu mouse ürünü.;2026-07-10 12:33:40.000;1;8,69E+12;1
+200;Kompakt Yeşil Laptop Soğutucu Elite 01-0200;1212958.00;158;Elektronik kategorisi için yeşil renkli, kompakt laptop soğutucu ürünü.;2026-07-12 10:09:18.000;1;8,69E+12;1
+201;Modern Kırmızı Oyuncu Mouse Elite 01-0201;2002827.00;169;Elektronik kategorisi için kırmızı renkli, modern oyuncu mouse ürünü.;2026-07-03 08:20:07.000;1;8,69E+12;1
+202;Kompakt Beyaz HDMI Kablo Luna 01-0202;94138.00;629;Elektronik kategorisi için beyaz renkli, kompakt hdmi kablo ürünü.;2026-07-05 06:43:39.000;1;8,69E+12;1
+203;Yeni Nesil Beyaz Tablet Standı Luna 01-0203;2378118.00;691;Elektronik kategorisi için beyaz renkli, yeni nesil tablet standı ürünü.;2026-07-17 18:28:03.000;1;8,69E+12;1
+204;Premium Mavi Telefon Kılıfı Standart 01-0204;2485422.00;36;Elektronik kategorisi için mavi renkli, premium telefon kılıfı ürünü.;2026-07-09 23:28:26.000;1;8,69E+12;1
+205;Profesyonel Lacivert Taşınabilir Şarj Cihazı Elite 01-0205;1795767.00;161;Elektronik kategorisi için lacivert renkli, profesyonel taşınabilir şarj cihazı ürünü.;2026-07-02 01:06:32.000;1;8,69E+12;1
+206;Pratik Yeşil Web Kamera A Serisi 01-0206;804741.00;535;Elektronik kategorisi için yeşil renkli, pratik web kamera ürünü.;2026-07-10 22:00:45.000;1;8,69E+12;1
+207;Kaliteli Bej Akıllı Saat Pro 01-0207;1697432.00;905;Elektronik kategorisi için bej renkli, kaliteli akıllı saat ürünü.;2026-07-13 12:34:19.000;1;8,69E+12;1
+208;Modern Bej Taşınabilir Şarj Cihazı A Serisi 01-0208;3250425.00;361;Elektronik kategorisi için bej renkli, modern taşınabilir şarj cihazı ürünü.;2026-07-01 04:56:36.000;1;8,69E+12;1
+209;Şık Beyaz Laptop Soğutucu Max 01-0209;1973688.00;373;Elektronik kategorisi için beyaz renkli, şık laptop soğutucu ürünü.;2026-07-02 17:06:58.000;1;8,69E+12;1
+210;Günlük Pembe Oyuncu Mouse Mini 01-0210;1619303.00;945;Elektronik kategorisi için pembe renkli, günlük oyuncu mouse ürünü.;2026-07-07 20:11:12.000;1;8,69E+12;1
+211;Pratik Bej Akıllı Saat Max 01-0211;397678.00;56;Elektronik kategorisi için bej renkli, pratik akıllı saat ürünü.;2026-07-24 20:56:28.000;1;8,69E+12;1
+212;Premium Lacivert USB Bellek Max 01-0212;746799.00;708;Elektronik kategorisi için lacivert renkli, premium usb bellek ürünü.;2026-07-28 16:05:19.000;1;8,69E+12;1
+213;Profesyonel Kahverengi Web Kamera Elite 01-0213;1704869.00;316;Elektronik kategorisi için kahverengi renkli, profesyonel web kamera ürünü.;2026-07-07 05:56:59.000;1;8,69E+12;1
+214;Ekonomik Pembe Bluetooth Hoparlör Elite 01-0214;1663217.00;775;Elektronik kategorisi için pembe renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-13 15:22:04.000;1;8,69E+12;1
+215;Kaliteli Turuncu Kablosuz Kulaklık Nova 01-0215;1458669.00;40;Elektronik kategorisi için turuncu renkli, kaliteli kablosuz kulaklık ürünü.;2026-07-12 14:33:40.000;1;8,69E+12;1
+216;Ekonomik Yeşil Telefon Kılıfı Plus 01-0216;3498646.00;592;Elektronik kategorisi için yeşil renkli, ekonomik telefon kılıfı ürünü.;2026-07-17 05:29:39.000;1;8,69E+12;1
+217;Pratik Kırmızı Web Kamera Nova 01-0217;149358.00;537;Elektronik kategorisi için kırmızı renkli, pratik web kamera ürünü.;2026-07-24 13:27:53.000;1;8,69E+12;1
+218;Dayanıklı Mavi Taşınabilir Şarj Cihazı Max 01-0218;1069479.00;441;Elektronik kategorisi için mavi renkli, dayanıklı taşınabilir şarj cihazı ürünü.;2026-07-17 14:05:13.000;1;8,69E+12;1
+219;Hafif Mor Web Kamera Mini 01-0219;1518186.00;567;Elektronik kategorisi için mor renkli, hafif web kamera ürünü.;2026-07-10 12:19:57.000;1;8,69E+12;1
+220;Dayanıklı Lacivert USB Bellek Eco 01-0220;2361769.00;13;Elektronik kategorisi için lacivert renkli, dayanıklı usb bellek ürünü.;2026-07-17 15:12:47.000;1;8,69E+12;1
+221;Günlük Kırmızı Mekanik Klavye Standart 01-0221;2369457.00;610;Elektronik kategorisi için kırmızı renkli, günlük mekanik klavye ürünü.;2026-07-14 07:08:39.000;1;8,69E+12;1
+222;Şık Kahverengi Taşınabilir Şarj Cihazı Pro 01-0222;1760517.00;491;Elektronik kategorisi için kahverengi renkli, şık taşınabilir şarj cihazı ürünü.;2026-07-01 08:15:26.000;1;8,69E+12;1
+223;Hafif Bej Kablosuz Kulaklık Luna 01-0223;1165838.00;923;Elektronik kategorisi için bej renkli, hafif kablosuz kulaklık ürünü.;2026-07-23 02:58:16.000;1;8,69E+12;1
+224;Modern Turuncu HDMI Kablo A Serisi 01-0224;876628.00;42;Elektronik kategorisi için turuncu renkli, modern hdmi kablo ürünü.;2026-07-04 18:19:31.000;1;8,69E+12;1
+225;Ekonomik Turuncu USB Bellek Elite 01-0225;286485.00;611;Elektronik kategorisi için turuncu renkli, ekonomik usb bellek ürünü.;2026-07-09 14:39:59.000;1;8,69E+12;1
+226;Premium Yeşil Laptop Soğutucu Standart 01-0226;164630.00;385;Elektronik kategorisi için yeşil renkli, premium laptop soğutucu ürünü.;2026-07-16 21:32:28.000;1;8,69E+12;1
+227;Ekonomik Bej Web Kamera A Serisi 01-0227;3461137.00;509;Elektronik kategorisi için bej renkli, ekonomik web kamera ürünü.;2026-07-04 07:30:12.000;1;8,69E+12;1
+228;Kompakt Siyah Akıllı Saat Mini 01-0228;1667658.00;566;Elektronik kategorisi için siyah renkli, kompakt akıllı saat ürünü.;2026-07-22 09:38:42.000;1;8,69E+12;1
+229;Pratik Beyaz Taşınabilir Şarj Cihazı Mini 01-0229;1057312.00;587;Elektronik kategorisi için beyaz renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-05 12:27:18.000;1;8,69E+12;1
+230;Dayanıklı Mavi Taşınabilir Şarj Cihazı Luna 01-0230;2877711.00;387;Elektronik kategorisi için mavi renkli, dayanıklı taşınabilir şarj cihazı ürünü.;2026-07-28 16:06:01.000;1;8,69E+12;1
+231;Günlük Lacivert Web Kamera Mini 01-0231;652132.00;994;Elektronik kategorisi için lacivert renkli, günlük web kamera ürünü.;2026-07-21 20:58:48.000;1;8,69E+12;1
+232;Pratik Siyah Telefon Kılıfı Pro 01-0232;2224173.00;709;Elektronik kategorisi için siyah renkli, pratik telefon kılıfı ürünü.;2026-07-29 18:41:35.000;1;8,69E+12;1
+233;Kaliteli Gri USB Bellek C Serisi 01-0233;2958492.00;193;Elektronik kategorisi için gri renkli, kaliteli usb bellek ürünü.;2026-07-18 00:04:51.000;1;8,69E+12;1
+234;Şık Beyaz Bluetooth Hoparlör A Serisi 01-0234;1737698.00;499;Elektronik kategorisi için beyaz renkli, şık bluetooth hoparlör ürünü.;2026-07-12 16:26:02.000;1;8,69E+12;1
+235;Kaliteli Siyah Tablet Standı Max 01-0235;2447062.00;369;Elektronik kategorisi için siyah renkli, kaliteli tablet standı ürünü.;2026-07-24 04:47:23.000;1;8,69E+12;1
+236;Kompakt Mor Web Kamera Standart 01-0236;16309.00;168;Elektronik kategorisi için mor renkli, kompakt web kamera ürünü.;2026-07-02 21:47:09.000;1;8,69E+12;1
+237;Kaliteli Turuncu Laptop Soğutucu C Serisi 01-0237;1436265.00;853;Elektronik kategorisi için turuncu renkli, kaliteli laptop soğutucu ürünü.;2026-08-01 19:11:36.000;1;8,69E+12;1
+238;Kaliteli Gri Oyuncu Mouse A Serisi 01-0238;2027579.00;730;Elektronik kategorisi için gri renkli, kaliteli oyuncu mouse ürünü.;2026-07-16 21:17:29.000;1;8,69E+12;1
+239;Şık Pembe Bluetooth Hoparlör Plus 01-0239;2742377.00;624;Elektronik kategorisi için pembe renkli, şık bluetooth hoparlör ürünü.;2026-07-04 14:45:31.000;1;8,69E+12;1
+240;Dayanıklı Siyah USB Bellek C Serisi 01-0240;2530431.00;761;Elektronik kategorisi için siyah renkli, dayanıklı usb bellek ürünü.;2026-07-09 08:14:08.000;1;8,69E+12;1
+241;Pratik Bej Mekanik Klavye Luna 01-0241;1977136.00;599;Elektronik kategorisi için bej renkli, pratik mekanik klavye ürünü.;2026-07-04 09:36:09.000;1;8,69E+12;1
+242;Dayanıklı Bej Laptop Soğutucu Elite 01-0242;1961319.00;73;Elektronik kategorisi için bej renkli, dayanıklı laptop soğutucu ürünü.;2026-07-13 11:49:07.000;1;8,69E+12;1
+243;Hafif Turuncu Akıllı Saat C Serisi 01-0243;35669.00;695;Elektronik kategorisi için turuncu renkli, hafif akıllı saat ürünü.;2026-07-07 17:31:39.000;1;8,69E+12;1
+244;Modern Turuncu Web Kamera Luna 01-0244;2949840.00;458;Elektronik kategorisi için turuncu renkli, modern web kamera ürünü.;2026-08-01 05:32:48.000;1;8,69E+12;1
+245;Pratik Kırmızı Kablosuz Kulaklık Eco 01-0245;413994.00;676;Elektronik kategorisi için kırmızı renkli, pratik kablosuz kulaklık ürünü.;2026-07-30 20:46:23.000;1;8,69E+12;1
+246;Yeni Nesil Lacivert Telefon Kılıfı Pro 01-0246;711739.00;27;Elektronik kategorisi için lacivert renkli, yeni nesil telefon kılıfı ürünü.;2026-07-22 19:08:19.000;1;8,69E+12;1
+247;Profesyonel Mavi Oyuncu Mouse C Serisi 01-0247;909978.00;224;Elektronik kategorisi için mavi renkli, profesyonel oyuncu mouse ürünü.;2026-07-24 06:32:06.000;1;8,69E+12;1
+248;Hafif Mor Telefon Kılıfı C Serisi 01-0248;2119211.00;729;Elektronik kategorisi için mor renkli, hafif telefon kılıfı ürünü.;2026-07-14 08:08:02.000;1;8,69E+12;1
+249;Kaliteli Kahverengi Taşınabilir Şarj Cihazı A Serisi 01-0249;1873239.00;70;Elektronik kategorisi için kahverengi renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-08-01 08:51:57.000;1;8,69E+12;1
+250;Şık Yeşil HDMI Kablo Elite 01-0250;2977529.00;914;Elektronik kategorisi için yeşil renkli, şık hdmi kablo ürünü.;2026-08-01 07:23:29.000;1;8,69E+12;1
+251;Ekonomik Bej Bluetooth Hoparlör Pro 01-0251;1274273.00;439;Elektronik kategorisi için bej renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-26 17:28:17.000;1;8,69E+12;1
+252;Şık Gri Kablosuz Kulaklık Mini 01-0252;2838487.00;327;Elektronik kategorisi için gri renkli, şık kablosuz kulaklık ürünü.;2026-07-06 03:48:35.000;1;8,69E+12;1
+253;Pratik Mavi Laptop Soğutucu Plus 01-0253;699464.00;399;Elektronik kategorisi için mavi renkli, pratik laptop soğutucu ürünü.;2026-07-08 04:54:55.000;1;8,69E+12;1
+254;Ekonomik Turuncu Oyuncu Mouse Mini 01-0254;2399382.00;790;Elektronik kategorisi için turuncu renkli, ekonomik oyuncu mouse ürünü.;2026-07-17 15:43:52.000;1;8,69E+12;1
+255;Yeni Nesil Kahverengi Taşınabilir Şarj Cihazı Elite 01-0255;2299533.00;330;Elektronik kategorisi için kahverengi renkli, yeni nesil taşınabilir şarj cihazı ürünü.;2026-07-05 16:54:34.000;1;8,69E+12;1
+256;Kompakt Turuncu Telefon Kılıfı A Serisi 01-0256;34558.00;197;Elektronik kategorisi için turuncu renkli, kompakt telefon kılıfı ürünü.;2026-07-23 20:36:15.000;1;8,69E+12;1
+257;Profesyonel Mor Web Kamera Max 01-0257;2831254.00;138;Elektronik kategorisi için mor renkli, profesyonel web kamera ürünü.;2026-07-24 18:44:57.000;1;8,69E+12;1
+258;Ekonomik Turuncu Taşınabilir Şarj Cihazı B Serisi 01-0258;1847225.00;896;Elektronik kategorisi için turuncu renkli, ekonomik taşınabilir şarj cihazı ürünü.;2026-07-31 15:23:45.000;1;8,69E+12;1
+259;Yeni Nesil Bej Laptop Soğutucu Max 01-0259;602210.00;861;Elektronik kategorisi için bej renkli, yeni nesil laptop soğutucu ürünü.;2026-07-30 04:22:49.000;1;8,69E+12;1
+260;Ekonomik Lacivert USB Bellek Pro 01-0260;2592584.00;813;Elektronik kategorisi için lacivert renkli, ekonomik usb bellek ürünü.;2026-07-26 11:51:58.000;1;8,69E+12;1
+261;Pratik Turuncu USB Bellek Luna 01-0261;3357949.00;28;Elektronik kategorisi için turuncu renkli, pratik usb bellek ürünü.;2026-07-27 08:30:35.000;1;8,69E+12;1
+262;Günlük Mavi Laptop Soğutucu B Serisi 01-0262;1760004.00;482;Elektronik kategorisi için mavi renkli, günlük laptop soğutucu ürünü.;2026-07-29 10:23:22.000;1;8,69E+12;1
+263;Pratik Turuncu Laptop Soğutucu Luna 01-0263;275735.00;109;Elektronik kategorisi için turuncu renkli, pratik laptop soğutucu ürünü.;2026-07-23 17:21:00.000;1;8,69E+12;1
+264;Yeni Nesil Lacivert Web Kamera Plus 01-0264;2001795.00;584;Elektronik kategorisi için lacivert renkli, yeni nesil web kamera ürünü.;2026-08-01 19:09:58.000;1;8,69E+12;1
+265;Hafif Kahverengi HDMI Kablo Luna 01-0265;1297057.00;823;Elektronik kategorisi için kahverengi renkli, hafif hdmi kablo ürünü.;2026-07-27 04:31:48.000;1;8,69E+12;1
+266;Pratik Pembe USB Bellek Nova 01-0266;1901589.00;456;Elektronik kategorisi için pembe renkli, pratik usb bellek ürünü.;2026-07-27 10:25:54.000;1;8,69E+12;1
+267;Şık Mor USB Bellek B Serisi 01-0267;1856667.00;452;Elektronik kategorisi için mor renkli, şık usb bellek ürünü.;2026-07-26 17:32:06.000;1;8,69E+12;1
+268;Dayanıklı Mavi Oyuncu Mouse Standart 01-0268;2630081.00;515;Elektronik kategorisi için mavi renkli, dayanıklı oyuncu mouse ürünü.;2026-07-14 18:41:34.000;1;8,69E+12;1
+269;Hafif Siyah HDMI Kablo C Serisi 01-0269;92122.00;142;Elektronik kategorisi için siyah renkli, hafif hdmi kablo ürünü.;2026-07-17 05:22:09.000;1;8,69E+12;1
+270;Kaliteli Kahverengi Laptop Soğutucu Plus 01-0270;3373636.00;108;Elektronik kategorisi için kahverengi renkli, kaliteli laptop soğutucu ürünü.;2026-07-03 11:21:12.000;1;8,69E+12;1
+271;Profesyonel Siyah Kablosuz Kulaklık Plus 01-0271;2945988.00;485;Elektronik kategorisi için siyah renkli, profesyonel kablosuz kulaklık ürünü.;2026-07-16 03:13:58.000;1;8,69E+12;1
+272;Ekonomik Bej Laptop Soğutucu Eco 01-0272;574830.00;856;Elektronik kategorisi için bej renkli, ekonomik laptop soğutucu ürünü.;2026-07-26 03:46:48.000;1;8,69E+12;1
+273;Ekonomik Lacivert Telefon Kılıfı Mini 01-0273;991094.00;951;Elektronik kategorisi için lacivert renkli, ekonomik telefon kılıfı ürünü.;2026-07-07 20:40:41.000;1;8,69E+12;1
+274;Şık Kahverengi Oyuncu Mouse B Serisi 01-0274;3051461.00;632;Elektronik kategorisi için kahverengi renkli, şık oyuncu mouse ürünü.;2026-07-08 03:56:11.000;1;8,69E+12;1
+275;Günlük Lacivert Laptop Soğutucu B Serisi 01-0275;3257337.00;452;Elektronik kategorisi için lacivert renkli, günlük laptop soğutucu ürünü.;2026-07-17 05:15:52.000;1;8,69E+12;1
+276;Kaliteli Gri USB Bellek Pro 01-0276;2177189.00;182;Elektronik kategorisi için gri renkli, kaliteli usb bellek ürünü.;2026-07-23 18:20:55.000;1;8,69E+12;1
+277;Modern Gri Tablet Standı Max 01-0277;1342012.00;587;Elektronik kategorisi için gri renkli, modern tablet standı ürünü.;2026-07-19 22:27:42.000;1;8,69E+12;1
+278;Modern Beyaz Telefon Kılıfı Plus 01-0278;1197770.00;254;Elektronik kategorisi için beyaz renkli, modern telefon kılıfı ürünü.;2026-07-06 13:07:11.000;1;8,69E+12;1
+279;Günlük Kırmızı Web Kamera B Serisi 01-0279;1406791.00;146;Elektronik kategorisi için kırmızı renkli, günlük web kamera ürünü.;2026-07-02 19:09:31.000;1;8,69E+12;1
+280;Premium Turuncu Kablosuz Kulaklık Pro 01-0280;1228051.00;10;Elektronik kategorisi için turuncu renkli, premium kablosuz kulaklık ürünü.;2026-07-31 12:06:01.000;1;8,69E+12;1
+281;Modern Mor USB Bellek Standart 01-0281;313170.00;682;Elektronik kategorisi için mor renkli, modern usb bellek ürünü.;2026-07-30 02:02:54.000;1;8,69E+12;1
+282;Ekonomik Turuncu Bluetooth Hoparlör Eco 01-0282;902399.00;726;Elektronik kategorisi için turuncu renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-01 09:07:29.000;1;8,69E+12;1
+283;Premium Beyaz Web Kamera Eco 01-0283;303317.00;700;Elektronik kategorisi için beyaz renkli, premium web kamera ürünü.;2026-07-02 03:22:41.000;1;8,69E+12;1
+284;Yeni Nesil Gri Telefon Kılıfı Plus 01-0284;1035569.00;625;Elektronik kategorisi için gri renkli, yeni nesil telefon kılıfı ürünü.;2026-07-22 18:58:01.000;1;8,69E+12;1
+285;Profesyonel Bej Mekanik Klavye Mini 01-0285;2582640.00;299;Elektronik kategorisi için bej renkli, profesyonel mekanik klavye ürünü.;2026-07-16 23:02:47.000;1;8,69E+12;1
+286;Premium Kahverengi Laptop Soğutucu B Serisi 01-0286;1508957.00;529;Elektronik kategorisi için kahverengi renkli, premium laptop soğutucu ürünü.;2026-07-09 14:05:19.000;1;8,69E+12;1
+287;Kaliteli Siyah Telefon Kılıfı Max 01-0287;59234.00;954;Elektronik kategorisi için siyah renkli, kaliteli telefon kılıfı ürünü.;2026-07-19 06:47:48.000;1;8,69E+12;1
+288;Şık Siyah Web Kamera Plus 01-0288;2733190.00;762;Elektronik kategorisi için siyah renkli, şık web kamera ürünü.;2026-07-13 09:58:32.000;1;8,69E+12;1
+289;Ekonomik Kahverengi Mekanik Klavye A Serisi 01-0289;2957802.00;993;Elektronik kategorisi için kahverengi renkli, ekonomik mekanik klavye ürünü.;2026-07-04 05:04:30.000;1;8,69E+12;1
+290;Günlük Pembe Bluetooth Hoparlör Mini 01-0290;2098317.00;688;Elektronik kategorisi için pembe renkli, günlük bluetooth hoparlör ürünü.;2026-07-31 05:17:17.000;1;8,69E+12;1
+291;Kaliteli Mor Web Kamera Max 01-0291;1502897.00;14;Elektronik kategorisi için mor renkli, kaliteli web kamera ürünü.;2026-07-19 18:36:10.000;1;8,69E+12;1
+292;Pratik Beyaz Telefon Kılıfı Eco 01-0292;2177154.00;335;Elektronik kategorisi için beyaz renkli, pratik telefon kılıfı ürünü.;2026-07-07 11:10:46.000;1;8,69E+12;1
+293;Premium Beyaz Telefon Kılıfı Nova 01-0293;3082874.00;528;Elektronik kategorisi için beyaz renkli, premium telefon kılıfı ürünü.;2026-07-25 20:02:23.000;1;8,69E+12;1
+294;Günlük Gri Bluetooth Hoparlör Eco 01-0294;3131530.00;310;Elektronik kategorisi için gri renkli, günlük bluetooth hoparlör ürünü.;2026-07-01 01:37:18.000;1;8,69E+12;1
+295;Günlük Mor HDMI Kablo Nova 01-0295;658291.00;19;Elektronik kategorisi için mor renkli, günlük hdmi kablo ürünü.;2026-07-04 11:54:28.000;1;8,69E+12;1
+296;Premium Beyaz Oyuncu Mouse Pro 01-0296;485600.00;904;Elektronik kategorisi için beyaz renkli, premium oyuncu mouse ürünü.;2026-07-22 21:09:52.000;1;8,69E+12;1
+297;Dayanıklı Bej Mekanik Klavye B Serisi 01-0297;2029182.00;371;Elektronik kategorisi için bej renkli, dayanıklı mekanik klavye ürünü.;2026-07-30 21:54:45.000;1;8,69E+12;1
+298;Günlük Kırmızı Web Kamera C Serisi 01-0298;3220067.00;644;Elektronik kategorisi için kırmızı renkli, günlük web kamera ürünü.;2026-07-16 21:22:14.000;1;8,69E+12;1
+299;Modern Kahverengi Laptop Soğutucu Luna 01-0299;3465814.00;500;Elektronik kategorisi için kahverengi renkli, modern laptop soğutucu ürünü.;2026-07-26 10:42:10.000;1;8,69E+12;1
+300;Dayanıklı Mavi HDMI Kablo Pro 01-0300;1267472.00;889;Elektronik kategorisi için mavi renkli, dayanıklı hdmi kablo ürünü.;2026-07-04 10:16:50.000;1;8,69E+12;1
+301;Günlük Gri Akıllı Saat C Serisi 01-0301;1032893.00;517;Elektronik kategorisi için gri renkli, günlük akıllı saat ürünü.;2026-07-21 04:30:08.000;1;8,69E+12;1
+302;Profesyonel Yeşil USB Bellek Eco 01-0302;3387996.00;866;Elektronik kategorisi için yeşil renkli, profesyonel usb bellek ürünü.;2026-07-23 08:44:59.000;1;8,69E+12;1
+303;Premium Mor Mekanik Klavye Nova 01-0303;1562322.00;966;Elektronik kategorisi için mor renkli, premium mekanik klavye ürünü.;2026-07-01 22:28:53.000;1;8,69E+12;1
+304;Ekonomik Turuncu Akıllı Saat A Serisi 01-0304;623033.00;408;Elektronik kategorisi için turuncu renkli, ekonomik akıllı saat ürünü.;2026-07-31 19:33:26.000;1;8,69E+12;1
+305;Yeni Nesil Gri Telefon Kılıfı Pro 01-0305;2507454.00;762;Elektronik kategorisi için gri renkli, yeni nesil telefon kılıfı ürünü.;2026-07-11 10:15:41.000;1;8,69E+12;1
+306;Pratik Turuncu Akıllı Saat Elite 01-0306;212646.00;115;Elektronik kategorisi için turuncu renkli, pratik akıllı saat ürünü.;2026-07-06 20:47:33.000;1;8,69E+12;1
+307;Premium Bej USB Bellek C Serisi 01-0307;996053.00;103;Elektronik kategorisi için bej renkli, premium usb bellek ürünü.;2026-07-15 22:44:22.000;1;8,69E+12;1
+308;Pratik Kırmızı Mekanik Klavye Luna 01-0308;2134776.00;880;Elektronik kategorisi için kırmızı renkli, pratik mekanik klavye ürünü.;2026-07-30 21:53:09.000;1;8,69E+12;1
+309;Günlük Beyaz Telefon Kılıfı Mini 01-0309;1508130.00;838;Elektronik kategorisi için beyaz renkli, günlük telefon kılıfı ürünü.;2026-07-27 22:15:43.000;1;8,69E+12;1
+310;Hafif Turuncu Bluetooth Hoparlör Plus 01-0310;312427.00;112;Elektronik kategorisi için turuncu renkli, hafif bluetooth hoparlör ürünü.;2026-07-06 03:14:30.000;1;8,69E+12;1
+311;Modern Yeşil Telefon Kılıfı A Serisi 01-0311;1213749.00;583;Elektronik kategorisi için yeşil renkli, modern telefon kılıfı ürünü.;2026-07-21 22:00:38.000;1;8,69E+12;1
+312;Pratik Yeşil Telefon Kılıfı Max 01-0312;966489.00;643;Elektronik kategorisi için yeşil renkli, pratik telefon kılıfı ürünü.;2026-07-27 23:37:28.000;1;8,69E+12;1
+313;Profesyonel Siyah Laptop Soğutucu Elite 01-0313;119480.00;859;Elektronik kategorisi için siyah renkli, profesyonel laptop soğutucu ürünü.;2026-07-22 13:32:53.000;1;8,69E+12;1
+314;Modern Kırmızı Web Kamera Mini 01-0314;2611970.00;944;Elektronik kategorisi için kırmızı renkli, modern web kamera ürünü.;2026-07-17 06:44:12.000;1;8,69E+12;1
+315;Ekonomik Lacivert Mekanik Klavye Pro 01-0315;1524841.00;254;Elektronik kategorisi için lacivert renkli, ekonomik mekanik klavye ürünü.;2026-07-22 08:14:36.000;1;8,69E+12;1
+316;Kompakt Bej Tablet Standı Standart 01-0316;2383728.00;88;Elektronik kategorisi için bej renkli, kompakt tablet standı ürünü.;2026-07-04 23:35:24.000;1;8,69E+12;1
+317;Hafif Turuncu Bluetooth Hoparlör Standart 01-0317;2239801.00;836;Elektronik kategorisi için turuncu renkli, hafif bluetooth hoparlör ürünü.;2026-07-24 03:47:54.000;1;8,69E+12;1
+318;Pratik Mavi USB Bellek A Serisi 01-0318;1457690.00;685;Elektronik kategorisi için mavi renkli, pratik usb bellek ürünü.;2026-07-28 07:39:44.000;1;8,69E+12;1
+319;Yeni Nesil Gri Tablet Standı Eco 01-0319;1449663.00;194;Elektronik kategorisi için gri renkli, yeni nesil tablet standı ürünü.;2026-07-24 12:17:37.000;1;8,69E+12;1
+320;Kaliteli Yeşil Web Kamera Nova 01-0320;343842.00;185;Elektronik kategorisi için yeşil renkli, kaliteli web kamera ürünü.;2026-07-24 00:16:23.000;1;8,69E+12;1
+321;Ekonomik Beyaz Oyuncu Mouse Standart 01-0321;741121.00;30;Elektronik kategorisi için beyaz renkli, ekonomik oyuncu mouse ürünü.;2026-07-16 03:36:07.000;1;8,69E+12;1
+322;Kaliteli Yeşil Telefon Kılıfı Max 01-0322;438510.00;584;Elektronik kategorisi için yeşil renkli, kaliteli telefon kılıfı ürünü.;2026-07-16 04:35:24.000;1;8,69E+12;1
+323;Modern Gri Telefon Kılıfı Luna 01-0323;2286892.00;806;Elektronik kategorisi için gri renkli, modern telefon kılıfı ürünü.;2026-07-10 13:22:40.000;1;8,69E+12;1
+324;Ekonomik Kahverengi USB Bellek Mini 01-0324;1719332.00;986;Elektronik kategorisi için kahverengi renkli, ekonomik usb bellek ürünü.;2026-07-28 07:30:00.000;1;8,69E+12;1
+325;Ekonomik Beyaz Kablosuz Kulaklık Elite 01-0325;2764454.00;759;Elektronik kategorisi için beyaz renkli, ekonomik kablosuz kulaklık ürünü.;2026-07-06 16:30:58.000;1;8,69E+12;1
+326;Kompakt Yeşil Web Kamera C Serisi 01-0326;1006022.00;884;Elektronik kategorisi için yeşil renkli, kompakt web kamera ürünü.;2026-07-13 08:44:33.000;1;8,69E+12;1
+327;Dayanıklı Turuncu Laptop Soğutucu Standart 01-0327;2845053.00;628;Elektronik kategorisi için turuncu renkli, dayanıklı laptop soğutucu ürünü.;2026-07-23 20:47:06.000;1;8,69E+12;1
+328;Hafif Gri USB Bellek C Serisi 01-0328;858355.00;678;Elektronik kategorisi için gri renkli, hafif usb bellek ürünü.;2026-07-02 14:41:03.000;1;8,69E+12;1
+329;Şık Yeşil Oyuncu Mouse B Serisi 01-0329;1158890.00;987;Elektronik kategorisi için yeşil renkli, şık oyuncu mouse ürünü.;2026-07-08 12:59:30.000;1;8,69E+12;1
+330;Günlük Yeşil Tablet Standı C Serisi 01-0330;1966371.00;674;Elektronik kategorisi için yeşil renkli, günlük tablet standı ürünü.;2026-07-10 03:19:07.000;1;8,69E+12;1
+331;Profesyonel Siyah Bluetooth Hoparlör C Serisi 01-0331;2097595.00;717;Elektronik kategorisi için siyah renkli, profesyonel bluetooth hoparlör ürünü.;2026-07-06 16:07:18.000;1;8,69E+12;1
+332;Hafif Kahverengi Taşınabilir Şarj Cihazı Nova 01-0332;2613925.00;788;Elektronik kategorisi için kahverengi renkli, hafif taşınabilir şarj cihazı ürünü.;2026-07-16 07:27:29.000;1;8,69E+12;1
+333;Kaliteli Gri Mekanik Klavye Nova 01-0333;2838539.00;261;Elektronik kategorisi için gri renkli, kaliteli mekanik klavye ürünü.;2026-07-16 10:28:03.000;1;8,69E+12;1
+334;Pratik Siyah Web Kamera Eco 01-0334;83487.00;25;Elektronik kategorisi için siyah renkli, pratik web kamera ürünü.;2026-07-07 18:28:22.000;1;8,69E+12;1
+335;Kompakt Yeşil HDMI Kablo B Serisi 01-0335;1726595.00;300;Elektronik kategorisi için yeşil renkli, kompakt hdmi kablo ürünü.;2026-07-29 20:47:43.000;1;8,69E+12;1
+336;Ekonomik Siyah Akıllı Saat Elite 01-0336;3433908.00;260;Elektronik kategorisi için siyah renkli, ekonomik akıllı saat ürünü.;2026-07-02 16:29:17.000;1;8,69E+12;1
+337;Dayanıklı Kırmızı Akıllı Saat Max 01-0337;2014469.00;629;Elektronik kategorisi için kırmızı renkli, dayanıklı akıllı saat ürünü.;2026-07-03 09:02:34.000;1;8,69E+12;1
+338;Pratik Pembe Telefon Kılıfı Pro 01-0338;2994177.00;91;Elektronik kategorisi için pembe renkli, pratik telefon kılıfı ürünü.;2026-07-22 03:14:52.000;1;8,69E+12;1
+339;Kaliteli Mavi Taşınabilir Şarj Cihazı Pro 01-0339;116702.00;192;Elektronik kategorisi için mavi renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-23 12:34:58.000;1;8,69E+12;1
+340;Hafif Gri Taşınabilir Şarj Cihazı Max 01-0340;894274.00;328;Elektronik kategorisi için gri renkli, hafif taşınabilir şarj cihazı ürünü.;2026-07-06 20:05:01.000;1;8,69E+12;1
+341;Pratik Lacivert HDMI Kablo Standart 01-0341;2691589.00;581;Elektronik kategorisi için lacivert renkli, pratik hdmi kablo ürünü.;2026-07-19 14:36:59.000;1;8,69E+12;1
+342;Kaliteli Mavi HDMI Kablo Mini 01-0342;1512648.00;199;Elektronik kategorisi için mavi renkli, kaliteli hdmi kablo ürünü.;2026-07-01 11:04:25.000;1;8,69E+12;1
+343;Pratik Beyaz HDMI Kablo B Serisi 01-0343;3300932.00;461;Elektronik kategorisi için beyaz renkli, pratik hdmi kablo ürünü.;2026-07-20 22:46:17.000;1;8,69E+12;1
+344;Pratik Yeşil Bluetooth Hoparlör Nova 01-0344;1523000.00;687;Elektronik kategorisi için yeşil renkli, pratik bluetooth hoparlör ürünü.;2026-07-15 05:38:45.000;1;8,69E+12;1
+345;Kaliteli Yeşil Akıllı Saat Mini 01-0345;2723455.00;299;Elektronik kategorisi için yeşil renkli, kaliteli akıllı saat ürünü.;2026-07-07 04:09:11.000;1;8,69E+12;1
+346;Ekonomik Mavi Taşınabilir Şarj Cihazı Plus 01-0346;2925292.00;323;Elektronik kategorisi için mavi renkli, ekonomik taşınabilir şarj cihazı ürünü.;2026-07-06 15:34:10.000;1;8,69E+12;1
+347;Premium Kırmızı Telefon Kılıfı Nova 01-0347;350391.00;170;Elektronik kategorisi için kırmızı renkli, premium telefon kılıfı ürünü.;2026-07-26 06:32:28.000;1;8,69E+12;1
+348;Pratik Yeşil Web Kamera Plus 01-0348;3412652.00;17;Elektronik kategorisi için yeşil renkli, pratik web kamera ürünü.;2026-07-02 01:03:31.000;1;8,69E+12;1
+349;Şık Turuncu Tablet Standı A Serisi 01-0349;466787.00;428;Elektronik kategorisi için turuncu renkli, şık tablet standı ürünü.;2026-07-24 00:27:15.000;1;8,69E+12;1
+350;Kaliteli Bej Oyuncu Mouse Luna 01-0350;2127449.00;322;Elektronik kategorisi için bej renkli, kaliteli oyuncu mouse ürünü.;2026-07-26 06:36:24.000;1;8,69E+12;1
+351;Günlük Kahverengi Web Kamera Standart 01-0351;321714.00;643;Elektronik kategorisi için kahverengi renkli, günlük web kamera ürünü.;2026-07-31 13:02:04.000;1;8,69E+12;1
+352;Günlük Siyah Telefon Kılıfı Mini 01-0352;3199226.00;438;Elektronik kategorisi için siyah renkli, günlük telefon kılıfı ürünü.;2026-07-28 03:17:35.000;1;8,69E+12;1
+353;Kompakt Kırmızı Bluetooth Hoparlör Pro 01-0353;1558282.00;128;Elektronik kategorisi için kırmızı renkli, kompakt bluetooth hoparlör ürünü.;2026-07-13 13:51:32.000;1;8,69E+12;1
+354;Dayanıklı Bej Web Kamera Luna 01-0354;3294523.00;366;Elektronik kategorisi için bej renkli, dayanıklı web kamera ürünü.;2026-07-01 14:00:03.000;1;8,69E+12;1
+355;Premium Mavi USB Bellek B Serisi 01-0355;1717733.00;291;Elektronik kategorisi için mavi renkli, premium usb bellek ürünü.;2026-07-10 15:50:04.000;1;8,69E+12;1
+356;Premium Kırmızı Kablosuz Kulaklık A Serisi 01-0356;3350609.00;253;Elektronik kategorisi için kırmızı renkli, premium kablosuz kulaklık ürünü.;2026-07-12 10:59:47.000;1;8,69E+12;1
+357;Profesyonel Kırmızı Kablosuz Kulaklık Nova 01-0357;2599719.00;594;Elektronik kategorisi için kırmızı renkli, profesyonel kablosuz kulaklık ürünü.;2026-07-12 03:16:57.000;1;8,69E+12;1
+358;Şık Beyaz Bluetooth Hoparlör Max 01-0358;2512492.00;730;Elektronik kategorisi için beyaz renkli, şık bluetooth hoparlör ürünü.;2026-07-30 02:19:41.000;1;8,69E+12;1
+359;Kaliteli Mavi Laptop Soğutucu A Serisi 01-0359;3092545.00;753;Elektronik kategorisi için mavi renkli, kaliteli laptop soğutucu ürünü.;2026-07-17 23:57:21.000;1;8,69E+12;1
+360;Kompakt Kırmızı Laptop Soğutucu B Serisi 01-0360;1834602.00;972;Elektronik kategorisi için kırmızı renkli, kompakt laptop soğutucu ürünü.;2026-07-30 01:56:47.000;1;8,69E+12;1
+361;Yeni Nesil Mor HDMI Kablo Eco 01-0361;3360106.00;811;Elektronik kategorisi için mor renkli, yeni nesil hdmi kablo ürünü.;2026-07-15 19:16:47.000;1;8,69E+12;1
+362;Premium Bej HDMI Kablo Plus 01-0362;3328646.00;441;Elektronik kategorisi için bej renkli, premium hdmi kablo ürünü.;2026-07-10 20:52:17.000;1;8,69E+12;1
+363;Profesyonel Kırmızı Tablet Standı Plus 01-0363;1597034.00;309;Elektronik kategorisi için kırmızı renkli, profesyonel tablet standı ürünü.;2026-07-20 13:46:35.000;1;8,69E+12;1
+364;Pratik Lacivert Bluetooth Hoparlör Plus 01-0364;894643.00;726;Elektronik kategorisi için lacivert renkli, pratik bluetooth hoparlör ürünü.;2026-07-10 03:30:42.000;1;8,69E+12;1
+365;Profesyonel Mavi Mekanik Klavye Plus 01-0365;2533263.00;150;Elektronik kategorisi için mavi renkli, profesyonel mekanik klavye ürünü.;2026-07-18 07:20:40.000;1;8,69E+12;1
+366;Kaliteli Yeşil Telefon Kılıfı C Serisi 01-0366;999034.00;454;Elektronik kategorisi için yeşil renkli, kaliteli telefon kılıfı ürünü.;2026-07-23 23:36:36.000;1;8,69E+12;1
+367;Kompakt Siyah Mekanik Klavye Mini 01-0367;214174.00;142;Elektronik kategorisi için siyah renkli, kompakt mekanik klavye ürünü.;2026-07-16 18:47:20.000;1;8,69E+12;1
+368;Şık Kahverengi Akıllı Saat Plus 01-0368;3212063.00;365;Elektronik kategorisi için kahverengi renkli, şık akıllı saat ürünü.;2026-07-01 14:33:31.000;1;8,69E+12;1
+369;Şık Yeşil USB Bellek A Serisi 01-0369;2075822.00;569;Elektronik kategorisi için yeşil renkli, şık usb bellek ürünü.;2026-07-28 03:21:24.000;1;8,69E+12;1
+370;Yeni Nesil Mor Laptop Soğutucu Mini 01-0370;3173339.00;187;Elektronik kategorisi için mor renkli, yeni nesil laptop soğutucu ürünü.;2026-07-22 11:03:33.000;1;8,69E+12;1
+371;Yeni Nesil Pembe Telefon Kılıfı Mini 01-0371;158718.00;107;Elektronik kategorisi için pembe renkli, yeni nesil telefon kılıfı ürünü.;2026-07-23 20:05:40.000;1;8,69E+12;1
+372;Dayanıklı Turuncu USB Bellek C Serisi 01-0372;3339332.00;110;Elektronik kategorisi için turuncu renkli, dayanıklı usb bellek ürünü.;2026-07-26 16:53:04.000;1;8,69E+12;1
+373;Premium Yeşil Mekanik Klavye A Serisi 01-0373;489372.00;282;Elektronik kategorisi için yeşil renkli, premium mekanik klavye ürünü.;2026-07-07 12:41:51.000;1;8,69E+12;1
+374;Pratik Yeşil Web Kamera Standart 01-0374;587980.00;874;Elektronik kategorisi için yeşil renkli, pratik web kamera ürünü.;2026-07-13 16:05:38.000;1;8,69E+12;1
+375;Premium Beyaz Bluetooth Hoparlör Eco 01-0375;3218681.00;176;Elektronik kategorisi için beyaz renkli, premium bluetooth hoparlör ürünü.;2026-07-19 01:33:08.000;1;8,69E+12;1
+376;Kaliteli Siyah Oyuncu Mouse Max 01-0376;320105.00;744;Elektronik kategorisi için siyah renkli, kaliteli oyuncu mouse ürünü.;2026-07-20 21:38:32.000;1;8,69E+12;1
+377;Premium Lacivert Bluetooth Hoparlör A Serisi 01-0377;815987.00;213;Elektronik kategorisi için lacivert renkli, premium bluetooth hoparlör ürünü.;2026-07-21 11:12:10.000;1;8,69E+12;1
+378;Kaliteli Bej Laptop Soğutucu Eco 01-0378;1992565.00;658;Elektronik kategorisi için bej renkli, kaliteli laptop soğutucu ürünü.;2026-07-25 12:13:17.000;1;8,69E+12;1
+379;Modern Gri Tablet Standı B Serisi 01-0379;2010699.00;538;Elektronik kategorisi için gri renkli, modern tablet standı ürünü.;2026-07-29 04:14:12.000;1;8,69E+12;1
+380;Günlük Mavi Kablosuz Kulaklık Standart 01-0380;3476658.00;203;Elektronik kategorisi için mavi renkli, günlük kablosuz kulaklık ürünü.;2026-07-21 04:05:04.000;1;8,69E+12;1
+381;Kompakt Kırmızı Telefon Kılıfı A Serisi 01-0381;1634406.00;296;Elektronik kategorisi için kırmızı renkli, kompakt telefon kılıfı ürünü.;2026-07-05 19:43:08.000;1;8,69E+12;1
+382;Ekonomik Beyaz Tablet Standı Mini 01-0382;1611732.00;590;Elektronik kategorisi için beyaz renkli, ekonomik tablet standı ürünü.;2026-07-01 04:05:49.000;1;8,69E+12;1
+383;Premium Beyaz HDMI Kablo Mini 01-0383;2171914.00;159;Elektronik kategorisi için beyaz renkli, premium hdmi kablo ürünü.;2026-07-26 10:21:18.000;1;8,69E+12;1
+384;Pratik Yeşil HDMI Kablo C Serisi 01-0384;678251.00;209;Elektronik kategorisi için yeşil renkli, pratik hdmi kablo ürünü.;2026-07-10 09:58:47.000;1;8,69E+12;1
+385;Dayanıklı Siyah Tablet Standı C Serisi 01-0385;3337931.00;486;Elektronik kategorisi için siyah renkli, dayanıklı tablet standı ürünü.;2026-07-31 21:28:32.000;1;8,69E+12;1
+386;Modern Lacivert Laptop Soğutucu Nova 01-0386;844434.00;449;Elektronik kategorisi için lacivert renkli, modern laptop soğutucu ürünü.;2026-07-25 19:21:30.000;1;8,69E+12;1
+387;Yeni Nesil Kahverengi Telefon Kılıfı A Serisi 01-0387;1006455.00;277;Elektronik kategorisi için kahverengi renkli, yeni nesil telefon kılıfı ürünü.;2026-07-14 06:12:25.000;1;8,69E+12;1
+388;Kaliteli Gri Kablosuz Kulaklık Standart 01-0388;1794939.00;500;Elektronik kategorisi için gri renkli, kaliteli kablosuz kulaklık ürünü.;2026-07-14 21:36:10.000;1;8,69E+12;1
+389;Günlük Pembe Tablet Standı Mini 01-0389;1669405.00;885;Elektronik kategorisi için pembe renkli, günlük tablet standı ürünü.;2026-07-09 05:08:21.000;1;8,69E+12;1
+390;Şık Beyaz Telefon Kılıfı Standart 01-0390;1337163.00;969;Elektronik kategorisi için beyaz renkli, şık telefon kılıfı ürünü.;2026-07-11 02:39:18.000;1;8,69E+12;1
+391;Premium Mor Tablet Standı Pro 01-0391;1545400.00;804;Elektronik kategorisi için mor renkli, premium tablet standı ürünü.;2026-07-15 01:26:04.000;1;8,69E+12;1
+392;Günlük Mavi USB Bellek B Serisi 01-0392;2997726.00;345;Elektronik kategorisi için mavi renkli, günlük usb bellek ürünü.;2026-07-25 17:00:31.000;1;8,69E+12;1
+393;Profesyonel Pembe Akıllı Saat Standart 01-0393;3118971.00;314;Elektronik kategorisi için pembe renkli, profesyonel akıllı saat ürünü.;2026-07-03 18:35:32.000;1;8,69E+12;1
+394;Premium Mavi Laptop Soğutucu Elite 01-0394;3052673.00;158;Elektronik kategorisi için mavi renkli, premium laptop soğutucu ürünü.;2026-07-03 10:59:25.000;1;8,69E+12;1
+395;Dayanıklı Kahverengi HDMI Kablo Luna 01-0395;1056264.00;670;Elektronik kategorisi için kahverengi renkli, dayanıklı hdmi kablo ürünü.;2026-07-30 18:41:48.000;1;8,69E+12;1
+396;Ekonomik Kahverengi Tablet Standı Luna 01-0396;1292336.00;530;Elektronik kategorisi için kahverengi renkli, ekonomik tablet standı ürünü.;2026-07-22 16:01:27.000;1;8,69E+12;1
+397;Günlük Turuncu Akıllı Saat Elite 01-0397;494717.00;275;Elektronik kategorisi için turuncu renkli, günlük akıllı saat ürünü.;2026-07-26 19:16:55.000;1;8,69E+12;1
+398;Dayanıklı Yeşil Taşınabilir Şarj Cihazı Max 01-0398;987147.00;636;Elektronik kategorisi için yeşil renkli, dayanıklı taşınabilir şarj cihazı ürünü.;2026-07-08 15:56:27.000;1;8,69E+12;1
+399;Şık Beyaz Oyuncu Mouse Standart 01-0399;234456.00;449;Elektronik kategorisi için beyaz renkli, şık oyuncu mouse ürünü.;2026-07-23 21:37:08.000;1;8,69E+12;1
+400;Pratik Turuncu USB Bellek B Serisi 01-0400;1162745.00;403;Elektronik kategorisi için turuncu renkli, pratik usb bellek ürünü.;2026-07-05 18:56:59.000;1;8,69E+12;1
+401;Yeni Nesil Bej HDMI Kablo Mini 01-0401;3067238.00;888;Elektronik kategorisi için bej renkli, yeni nesil hdmi kablo ürünü.;2026-07-07 09:06:59.000;1;8,69E+12;1
+402;Şık Gri Oyuncu Mouse Luna 01-0402;1111196.00;403;Elektronik kategorisi için gri renkli, şık oyuncu mouse ürünü.;2026-07-15 17:22:18.000;1;8,69E+12;1
+403;Şık Beyaz Telefon Kılıfı A Serisi 01-0403;3185276.00;720;Elektronik kategorisi için beyaz renkli, şık telefon kılıfı ürünü.;2026-07-16 08:20:43.000;1;8,69E+12;1
+404;Şık Mor Akıllı Saat Plus 01-0404;285028.00;449;Elektronik kategorisi için mor renkli, şık akıllı saat ürünü.;2026-07-14 12:53:53.000;1;8,69E+12;1
+405;Profesyonel Siyah Taşınabilir Şarj Cihazı Nova 01-0405;1018049.00;832;Elektronik kategorisi için siyah renkli, profesyonel taşınabilir şarj cihazı ürünü.;2026-07-06 18:11:25.000;1;8,69E+12;1
+406;Modern Kırmızı Telefon Kılıfı Mini 01-0406;841989.00;49;Elektronik kategorisi için kırmızı renkli, modern telefon kılıfı ürünü.;2026-07-09 13:18:18.000;1;8,69E+12;1
+407;Hafif Beyaz Laptop Soğutucu Nova 01-0407;1286061.00;896;Elektronik kategorisi için beyaz renkli, hafif laptop soğutucu ürünü.;2026-07-22 18:58:17.000;1;8,69E+12;1
+408;Premium Siyah Oyuncu Mouse Mini 01-0408;2384131.00;901;Elektronik kategorisi için siyah renkli, premium oyuncu mouse ürünü.;2026-07-15 04:39:11.000;1;8,69E+12;1
+409;Premium Turuncu USB Bellek Pro 01-0409;2940864.00;800;Elektronik kategorisi için turuncu renkli, premium usb bellek ürünü.;2026-07-30 01:54:25.000;1;8,69E+12;1
+410;Profesyonel Lacivert USB Bellek Pro 01-0410;1811526.00;903;Elektronik kategorisi için lacivert renkli, profesyonel usb bellek ürünü.;2026-07-23 13:26:23.000;1;8,69E+12;1
+411;Dayanıklı Bej Kablosuz Kulaklık Mini 01-0411;339589.00;237;Elektronik kategorisi için bej renkli, dayanıklı kablosuz kulaklık ürünü.;2026-07-16 16:12:57.000;1;8,69E+12;1
+412;Pratik Mavi Kablosuz Kulaklık C Serisi 01-0412;1431660.00;665;Elektronik kategorisi için mavi renkli, pratik kablosuz kulaklık ürünü.;2026-07-05 01:27:59.000;1;8,69E+12;1
+413;Pratik Pembe USB Bellek Nova 01-0413;1389981.00;854;Elektronik kategorisi için pembe renkli, pratik usb bellek ürünü.;2026-07-11 11:31:26.000;1;8,69E+12;1
+414;Premium Mavi Telefon Kılıfı A Serisi 01-0414;2472486.00;192;Elektronik kategorisi için mavi renkli, premium telefon kılıfı ürünü.;2026-07-12 00:01:27.000;1;8,69E+12;1
+415;Ekonomik Kahverengi Taşınabilir Şarj Cihazı Pro 01-0415;874838.00;860;Elektronik kategorisi için kahverengi renkli, ekonomik taşınabilir şarj cihazı ürünü.;2026-07-09 22:49:37.000;1;8,69E+12;1
+416;Şık Kahverengi Kablosuz Kulaklık Elite 01-0416;1947311.00;989;Elektronik kategorisi için kahverengi renkli, şık kablosuz kulaklık ürünü.;2026-07-09 16:40:43.000;1;8,69E+12;1
+417;Kompakt Lacivert Telefon Kılıfı Pro 01-0417;2384866.00;516;Elektronik kategorisi için lacivert renkli, kompakt telefon kılıfı ürünü.;2026-07-25 23:01:35.000;1;8,69E+12;1
+418;Kompakt Beyaz Laptop Soğutucu C Serisi 01-0418;3099814.00;164;Elektronik kategorisi için beyaz renkli, kompakt laptop soğutucu ürünü.;2026-07-11 05:36:50.000;1;8,69E+12;1
+419;Dayanıklı Beyaz Akıllı Saat Pro 01-0419;1172709.00;987;Elektronik kategorisi için beyaz renkli, dayanıklı akıllı saat ürünü.;2026-07-23 16:39:22.000;1;8,69E+12;1
+420;Yeni Nesil Siyah Web Kamera Standart 01-0420;2757188.00;141;Elektronik kategorisi için siyah renkli, yeni nesil web kamera ürünü.;2026-07-17 17:02:39.000;1;8,69E+12;1
+421;Profesyonel Kırmızı Laptop Soğutucu Nova 01-0421;527794.00;519;Elektronik kategorisi için kırmızı renkli, profesyonel laptop soğutucu ürünü.;2026-07-12 19:49:03.000;1;8,69E+12;1
+422;Premium Mavi Laptop Soğutucu Nova 01-0422;1481267.00;385;Elektronik kategorisi için mavi renkli, premium laptop soğutucu ürünü.;2026-07-28 19:51:29.000;1;8,69E+12;1
+423;Kompakt Siyah Bluetooth Hoparlör A Serisi 01-0423;211686.00;804;Elektronik kategorisi için siyah renkli, kompakt bluetooth hoparlör ürünü.;2026-07-11 22:02:14.000;1;8,69E+12;1
+424;Premium Mavi HDMI Kablo Plus 01-0424;357745.00;318;Elektronik kategorisi için mavi renkli, premium hdmi kablo ürünü.;2026-07-25 04:26:57.000;1;8,69E+12;1
+425;Kaliteli Mavi Tablet Standı Standart 01-0425;3291733.00;460;Elektronik kategorisi için mavi renkli, kaliteli tablet standı ürünü.;2026-07-04 23:48:52.000;1;8,69E+12;1
+426;Pratik Yeşil Telefon Kılıfı B Serisi 01-0426;3337723.00;405;Elektronik kategorisi için yeşil renkli, pratik telefon kılıfı ürünü.;2026-07-14 20:17:49.000;1;8,69E+12;1
+427;Günlük Yeşil Web Kamera Standart 01-0427;64882.00;511;Elektronik kategorisi için yeşil renkli, günlük web kamera ürünü.;2026-07-12 17:04:44.000;1;8,69E+12;1
+428;Kaliteli Gri Bluetooth Hoparlör Standart 01-0428;2647407.00;241;Elektronik kategorisi için gri renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-05 02:30:15.000;1;8,69E+12;1
+429;Şık Pembe Web Kamera Nova 01-0429;3004025.00;805;Elektronik kategorisi için pembe renkli, şık web kamera ürünü.;2026-07-17 12:36:22.000;1;8,69E+12;1
+430;Kaliteli Kırmızı Akıllı Saat B Serisi 01-0430;428095.00;366;Elektronik kategorisi için kırmızı renkli, kaliteli akıllı saat ürünü.;2026-07-02 05:19:20.000;1;8,69E+12;1
+431;Şık Pembe Web Kamera B Serisi 01-0431;1073093.00;510;Elektronik kategorisi için pembe renkli, şık web kamera ürünü.;2026-07-19 09:54:06.000;1;8,69E+12;1
+432;Kaliteli Siyah Taşınabilir Şarj Cihazı C Serisi 01-0432;1355593.00;881;Elektronik kategorisi için siyah renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-17 09:24:37.000;1;8,69E+12;1
+433;Yeni Nesil Kahverengi Kablosuz Kulaklık Mini 01-0433;2705983.00;453;Elektronik kategorisi için kahverengi renkli, yeni nesil kablosuz kulaklık ürünü.;2026-07-15 11:14:03.000;1;8,69E+12;1
+434;Günlük Turuncu Web Kamera Luna 01-0434;421326.00;872;Elektronik kategorisi için turuncu renkli, günlük web kamera ürünü.;2026-07-19 15:17:40.000;1;8,69E+12;1
+435;Profesyonel Bej Telefon Kılıfı B Serisi 01-0435;203218.00;942;Elektronik kategorisi için bej renkli, profesyonel telefon kılıfı ürünü.;2026-07-27 20:06:19.000;1;8,69E+12;1
+436;Kompakt Kahverengi Web Kamera Mini 01-0436;873253.00;696;Elektronik kategorisi için kahverengi renkli, kompakt web kamera ürünü.;2026-07-28 10:35:55.000;1;8,69E+12;1
+437;Premium Turuncu Laptop Soğutucu Max 01-0437;3382754.00;41;Elektronik kategorisi için turuncu renkli, premium laptop soğutucu ürünü.;2026-07-17 09:01:29.000;1;8,69E+12;1
+438;Ekonomik Pembe Taşınabilir Şarj Cihazı B Serisi 01-0438;2218618.00;721;Elektronik kategorisi için pembe renkli, ekonomik taşınabilir şarj cihazı ürünü.;2026-07-11 00:56:46.000;1;8,69E+12;1
+439;Kaliteli Pembe Kablosuz Kulaklık Elite 01-0439;1657602.00;838;Elektronik kategorisi için pembe renkli, kaliteli kablosuz kulaklık ürünü.;2026-07-26 12:49:52.000;1;8,69E+12;1
+440;Ekonomik Lacivert Oyuncu Mouse Nova 01-0440;2612258.00;854;Elektronik kategorisi için lacivert renkli, ekonomik oyuncu mouse ürünü.;2026-07-15 00:03:41.000;1;8,69E+12;1
+441;Profesyonel Siyah USB Bellek A Serisi 01-0441;3269019.00;288;Elektronik kategorisi için siyah renkli, profesyonel usb bellek ürünü.;2026-07-01 09:28:36.000;1;8,69E+12;1
+442;Modern Kahverengi USB Bellek Max 01-0442;771849.00;923;Elektronik kategorisi için kahverengi renkli, modern usb bellek ürünü.;2026-07-03 04:48:31.000;1;8,69E+12;1
+443;Modern Pembe Telefon Kılıfı Eco 01-0443;487528.00;603;Elektronik kategorisi için pembe renkli, modern telefon kılıfı ürünü.;2026-07-26 20:52:13.000;1;8,69E+12;1
+444;Profesyonel Kahverengi Bluetooth Hoparlör Nova 01-0444;3118251.00;588;Elektronik kategorisi için kahverengi renkli, profesyonel bluetooth hoparlör ürünü.;2026-07-23 00:52:20.000;1;8,69E+12;1
+445;Hafif Pembe Oyuncu Mouse B Serisi 01-0445;1060472.00;273;Elektronik kategorisi için pembe renkli, hafif oyuncu mouse ürünü.;2026-07-06 08:44:22.000;1;8,69E+12;1
+446;Kompakt Mavi Kablosuz Kulaklık C Serisi 01-0446;3109197.00;338;Elektronik kategorisi için mavi renkli, kompakt kablosuz kulaklık ürünü.;2026-07-15 06:01:21.000;1;8,69E+12;1
+447;Şık Beyaz Mekanik Klavye Standart 01-0447;2710411.00;768;Elektronik kategorisi için beyaz renkli, şık mekanik klavye ürünü.;2026-07-24 15:02:53.000;1;8,69E+12;1
+448;Yeni Nesil Turuncu Tablet Standı B Serisi 01-0448;3124392.00;312;Elektronik kategorisi için turuncu renkli, yeni nesil tablet standı ürünü.;2026-07-02 09:32:18.000;1;8,69E+12;1
+449;Günlük Siyah Tablet Standı Luna 01-0449;624067.00;448;Elektronik kategorisi için siyah renkli, günlük tablet standı ürünü.;2026-07-17 06:21:08.000;1;8,69E+12;1
+450;Profesyonel Mor Laptop Soğutucu Max 01-0450;2517468.00;752;Elektronik kategorisi için mor renkli, profesyonel laptop soğutucu ürünü.;2026-07-21 09:01:06.000;1;8,69E+12;1
+451;Kompakt Lacivert Taşınabilir Şarj Cihazı A Serisi 01-0451;2938253.00;843;Elektronik kategorisi için lacivert renkli, kompakt taşınabilir şarj cihazı ürünü.;2026-07-29 23:57:10.000;1;8,69E+12;1
+452;Profesyonel Gri USB Bellek Nova 01-0452;1974854.00;378;Elektronik kategorisi için gri renkli, profesyonel usb bellek ürünü.;2026-07-12 08:18:05.000;1;8,69E+12;1
+453;Dayanıklı Kahverengi Tablet Standı Nova 01-0453;2060055.00;489;Elektronik kategorisi için kahverengi renkli, dayanıklı tablet standı ürünü.;2026-07-15 12:32:49.000;1;8,69E+12;1
+454;Günlük Lacivert Laptop Soğutucu Pro 01-0454;1469280.00;333;Elektronik kategorisi için lacivert renkli, günlük laptop soğutucu ürünü.;2026-07-02 18:22:07.000;1;8,69E+12;1
+455;Yeni Nesil Beyaz Telefon Kılıfı Elite 01-0455;1413801.00;57;Elektronik kategorisi için beyaz renkli, yeni nesil telefon kılıfı ürünü.;2026-07-19 00:38:29.000;1;8,69E+12;1
+456;Profesyonel Gri HDMI Kablo Max 01-0456;1853199.00;416;Elektronik kategorisi için gri renkli, profesyonel hdmi kablo ürünü.;2026-08-01 18:38:39.000;1;8,69E+12;1
+457;Kaliteli Yeşil Taşınabilir Şarj Cihazı A Serisi 01-0457;1724335.00;170;Elektronik kategorisi için yeşil renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-30 03:04:17.000;1;8,69E+12;1
+458;Ekonomik Bej Bluetooth Hoparlör C Serisi 01-0458;1112355.00;540;Elektronik kategorisi için bej renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-19 10:47:40.000;1;8,69E+12;1
+459;Pratik Pembe USB Bellek Eco 01-0459;2127157.00;422;Elektronik kategorisi için pembe renkli, pratik usb bellek ürünü.;2026-07-21 16:49:30.000;1;8,69E+12;1
+460;Yeni Nesil Beyaz Taşınabilir Şarj Cihazı Mini 01-0460;2089968.00;274;Elektronik kategorisi için beyaz renkli, yeni nesil taşınabilir şarj cihazı ürünü.;2026-07-06 18:06:36.000;1;8,69E+12;1
+461;Yeni Nesil Siyah Oyuncu Mouse Pro 01-0461;2664166.00;551;Elektronik kategorisi için siyah renkli, yeni nesil oyuncu mouse ürünü.;2026-07-17 01:41:10.000;1;8,69E+12;1
+462;Dayanıklı Bej Taşınabilir Şarj Cihazı Mini 01-0462;1854223.00;282;Elektronik kategorisi için bej renkli, dayanıklı taşınabilir şarj cihazı ürünü.;2026-07-01 18:42:57.000;1;8,69E+12;1
+463;Günlük Siyah Telefon Kılıfı Pro 01-0463;2219477.00;895;Elektronik kategorisi için siyah renkli, günlük telefon kılıfı ürünü.;2026-07-20 13:50:21.000;1;8,69E+12;1
+464;Şık Siyah Bluetooth Hoparlör Pro 01-0464;898844.00;193;Elektronik kategorisi için siyah renkli, şık bluetooth hoparlör ürünü.;2026-07-31 06:59:45.000;1;8,69E+12;1
+465;Günlük Mavi Web Kamera Luna 01-0465;1270530.00;178;Elektronik kategorisi için mavi renkli, günlük web kamera ürünü.;2026-07-05 07:11:30.000;1;8,69E+12;1
+466;Günlük Pembe Telefon Kılıfı Nova 01-0466;278471.00;902;Elektronik kategorisi için pembe renkli, günlük telefon kılıfı ürünü.;2026-07-03 21:16:32.000;1;8,69E+12;1
+467;Profesyonel Kırmızı Telefon Kılıfı Pro 01-0467;3282554.00;845;Elektronik kategorisi için kırmızı renkli, profesyonel telefon kılıfı ürünü.;2026-07-23 10:47:10.000;1;8,69E+12;1
+468;Kompakt Turuncu USB Bellek Eco 01-0468;144520.00;152;Elektronik kategorisi için turuncu renkli, kompakt usb bellek ürünü.;2026-07-10 22:10:39.000;1;8,69E+12;1
+469;Modern Gri Tablet Standı Max 01-0469;2147933.00;909;Elektronik kategorisi için gri renkli, modern tablet standı ürünü.;2026-08-01 14:18:40.000;1;8,69E+12;1
+470;Kaliteli Siyah Oyuncu Mouse Elite 01-0470;366822.00;662;Elektronik kategorisi için siyah renkli, kaliteli oyuncu mouse ürünü.;2026-07-06 08:04:19.000;1;8,69E+12;1
+471;Ekonomik Gri HDMI Kablo Eco 01-0471;1480132.00;37;Elektronik kategorisi için gri renkli, ekonomik hdmi kablo ürünü.;2026-07-19 04:42:48.000;1;8,69E+12;1
+472;Profesyonel Kahverengi Taşınabilir Şarj Cihazı Mini 01-0472;2265093.00;175;Elektronik kategorisi için kahverengi renkli, profesyonel taşınabilir şarj cihazı ürünü.;2026-07-08 17:50:25.000;1;8,69E+12;1
+473;Kompakt Mor Bluetooth Hoparlör Pro 01-0473;2597646.00;804;Elektronik kategorisi için mor renkli, kompakt bluetooth hoparlör ürünü.;2026-07-18 03:01:46.000;1;8,69E+12;1
+474;Ekonomik Siyah HDMI Kablo Eco 01-0474;1383652.00;832;Elektronik kategorisi için siyah renkli, ekonomik hdmi kablo ürünü.;2026-07-30 15:58:11.000;1;8,69E+12;1
+475;Günlük Yeşil Mekanik Klavye Pro 01-0475;2301079.00;876;Elektronik kategorisi için yeşil renkli, günlük mekanik klavye ürünü.;2026-07-15 02:16:55.000;1;8,69E+12;1
+476;Şık Kırmızı Akıllı Saat Mini 01-0476;1483771.00;766;Elektronik kategorisi için kırmızı renkli, şık akıllı saat ürünü.;2026-07-16 07:02:31.000;1;8,69E+12;1
+477;Kaliteli Kırmızı Telefon Kılıfı Luna 01-0477;1226328.00;935;Elektronik kategorisi için kırmızı renkli, kaliteli telefon kılıfı ürünü.;2026-07-12 03:15:42.000;1;8,69E+12;1
+478;Yeni Nesil Lacivert Laptop Soğutucu Plus 01-0478;392675.00;779;Elektronik kategorisi için lacivert renkli, yeni nesil laptop soğutucu ürünü.;2026-07-07 10:46:46.000;1;8,69E+12;1
+479;Günlük Pembe USB Bellek A Serisi 01-0479;2903904.00;173;Elektronik kategorisi için pembe renkli, günlük usb bellek ürünü.;2026-07-23 11:21:04.000;1;8,69E+12;1
+480;Modern Beyaz USB Bellek Pro 01-0480;192442.00;431;Elektronik kategorisi için beyaz renkli, modern usb bellek ürünü.;2026-08-01 17:22:51.000;1;8,69E+12;1
+481;Kaliteli Mor Tablet Standı C Serisi 01-0481;1706604.00;161;Elektronik kategorisi için mor renkli, kaliteli tablet standı ürünü.;2026-07-15 09:07:28.000;1;8,69E+12;1
+482;Hafif Yeşil Web Kamera Max 01-0482;575786.00;726;Elektronik kategorisi için yeşil renkli, hafif web kamera ürünü.;2026-07-31 11:11:06.000;1;8,69E+12;1
+483;Profesyonel Kahverengi USB Bellek Standart 01-0483;1260237.00;363;Elektronik kategorisi için kahverengi renkli, profesyonel usb bellek ürünü.;2026-07-21 15:58:40.000;1;8,69E+12;1
+484;Günlük Yeşil Mekanik Klavye Standart 01-0484;1644158.00;999;Elektronik kategorisi için yeşil renkli, günlük mekanik klavye ürünü.;2026-07-10 16:49:05.000;1;8,69E+12;1
+485;Günlük Kahverengi Telefon Kılıfı A Serisi 01-0485;3476650.00;719;Elektronik kategorisi için kahverengi renkli, günlük telefon kılıfı ürünü.;2026-07-12 07:29:31.000;1;8,69E+12;1
+486;Premium Yeşil Telefon Kılıfı C Serisi 01-0486;1291867.00;908;Elektronik kategorisi için yeşil renkli, premium telefon kılıfı ürünü.;2026-07-12 10:27:31.000;1;8,69E+12;1
+487;Hafif Mor Oyuncu Mouse Pro 01-0487;2725244.00;847;Elektronik kategorisi için mor renkli, hafif oyuncu mouse ürünü.;2026-07-31 15:39:44.000;1;8,69E+12;1
+488;Profesyonel Kahverengi Web Kamera Plus 01-0488;194053.00;774;Elektronik kategorisi için kahverengi renkli, profesyonel web kamera ürünü.;2026-07-31 20:32:22.000;1;8,69E+12;1
+489;Kompakt Kırmızı Tablet Standı Luna 01-0489;2992795.00;856;Elektronik kategorisi için kırmızı renkli, kompakt tablet standı ürünü.;2026-07-11 02:57:57.000;1;8,69E+12;1
+490;Yeni Nesil Gri Kablosuz Kulaklık Plus 01-0490;768741.00;406;Elektronik kategorisi için gri renkli, yeni nesil kablosuz kulaklık ürünü.;2026-07-08 01:49:18.000;1;8,69E+12;1
+491;Profesyonel Mor USB Bellek Eco 01-0491;1886157.00;86;Elektronik kategorisi için mor renkli, profesyonel usb bellek ürünü.;2026-07-26 19:09:10.000;1;8,69E+12;1
+492;Hafif Mor HDMI Kablo Pro 01-0492;1065918.00;128;Elektronik kategorisi için mor renkli, hafif hdmi kablo ürünü.;2026-07-10 23:35:30.000;1;8,69E+12;1
+493;Modern Kahverengi HDMI Kablo Elite 01-0493;1111109.00;891;Elektronik kategorisi için kahverengi renkli, modern hdmi kablo ürünü.;2026-07-09 18:54:07.000;1;8,69E+12;1
+494;Dayanıklı Turuncu Kablosuz Kulaklık A Serisi 01-0494;99762.00;937;Elektronik kategorisi için turuncu renkli, dayanıklı kablosuz kulaklık ürünü.;2026-07-21 13:30:05.000;1;8,69E+12;1
+495;Kompakt Lacivert Bluetooth Hoparlör Nova 01-0495;1066227.00;827;Elektronik kategorisi için lacivert renkli, kompakt bluetooth hoparlör ürünü.;2026-07-05 07:38:49.000;1;8,69E+12;1
+496;Kompakt Yeşil Laptop Soğutucu Plus 01-0496;1525787.00;498;Elektronik kategorisi için yeşil renkli, kompakt laptop soğutucu ürünü.;2026-07-26 04:46:33.000;1;8,69E+12;1
+497;Dayanıklı Beyaz Telefon Kılıfı Nova 01-0497;1420201.00;570;Elektronik kategorisi için beyaz renkli, dayanıklı telefon kılıfı ürünü.;2026-07-22 06:42:01.000;1;8,69E+12;1
+498;Pratik Lacivert USB Bellek B Serisi 01-0498;920565.00;365;Elektronik kategorisi için lacivert renkli, pratik usb bellek ürünü.;2026-07-02 06:07:22.000;1;8,69E+12;1
+499;Profesyonel Yeşil Bluetooth Hoparlör Nova 01-0499;2245508.00;442;Elektronik kategorisi için yeşil renkli, profesyonel bluetooth hoparlör ürünü.;2026-07-14 07:46:13.000;1;8,69E+12;1
+500;Dayanıklı Bej Mekanik Klavye Nova 01-0500;3281455.00;49;Elektronik kategorisi için bej renkli, dayanıklı mekanik klavye ürünü.;2026-07-16 22:07:16.000;1;8,69E+12;1
+501;Kompakt Turuncu Mekanik Klavye Max 01-0501;1963741.00;518;Elektronik kategorisi için turuncu renkli, kompakt mekanik klavye ürünü.;2026-08-01 08:02:49.000;1;8,69E+12;1
+502;Profesyonel Mavi Laptop Soğutucu Standart 01-0502;2311935.00;523;Elektronik kategorisi için mavi renkli, profesyonel laptop soğutucu ürünü.;2026-07-04 16:32:05.000;1;8,69E+12;1
+503;Profesyonel Gri USB Bellek Luna 01-0503;1260719.00;349;Elektronik kategorisi için gri renkli, profesyonel usb bellek ürünü.;2026-07-01 10:39:08.000;1;8,69E+12;1
+504;Kompakt Mor Oyuncu Mouse Pro 01-0504;3161959.00;134;Elektronik kategorisi için mor renkli, kompakt oyuncu mouse ürünü.;2026-07-03 00:08:30.000;1;8,69E+12;1
+505;Dayanıklı Kırmızı Tablet Standı Max 01-0505;2891246.00;564;Elektronik kategorisi için kırmızı renkli, dayanıklı tablet standı ürünü.;2026-07-06 11:12:49.000;1;8,69E+12;1
+506;Günlük Siyah Bluetooth Hoparlör C Serisi 01-0506;2547025.00;248;Elektronik kategorisi için siyah renkli, günlük bluetooth hoparlör ürünü.;2026-07-13 13:34:05.000;1;8,69E+12;1
+507;Modern Siyah Kablosuz Kulaklık A Serisi 01-0507;2179046.00;46;Elektronik kategorisi için siyah renkli, modern kablosuz kulaklık ürünü.;2026-08-01 16:40:24.000;1;8,69E+12;1
+508;Günlük Lacivert Laptop Soğutucu Nova 01-0508;1127354.00;440;Elektronik kategorisi için lacivert renkli, günlük laptop soğutucu ürünü.;2026-07-14 07:29:20.000;1;8,69E+12;1
+509;Premium Pembe Tablet Standı Standart 01-0509;965695.00;372;Elektronik kategorisi için pembe renkli, premium tablet standı ürünü.;2026-07-13 00:08:20.000;1;8,69E+12;1
+510;Hafif Kırmızı Akıllı Saat Plus 01-0510;3471502.00;261;Elektronik kategorisi için kırmızı renkli, hafif akıllı saat ürünü.;2026-07-27 07:43:28.000;1;8,69E+12;1
+511;Modern Kahverengi HDMI Kablo Mini 01-0511;2674659.00;573;Elektronik kategorisi için kahverengi renkli, modern hdmi kablo ürünü.;2026-07-21 22:44:30.000;1;8,69E+12;1
+512;Dayanıklı Lacivert Laptop Soğutucu Eco 01-0512;2961125.00;613;Elektronik kategorisi için lacivert renkli, dayanıklı laptop soğutucu ürünü.;2026-07-03 08:34:42.000;1;8,69E+12;1
+513;Pratik Beyaz USB Bellek Plus 01-0513;3272931.00;186;Elektronik kategorisi için beyaz renkli, pratik usb bellek ürünü.;2026-07-24 11:54:07.000;1;8,69E+12;1
+514;Hafif Siyah Akıllı Saat Mini 01-0514;132118.00;494;Elektronik kategorisi için siyah renkli, hafif akıllı saat ürünü.;2026-07-09 18:07:34.000;1;8,69E+12;1
+515;Dayanıklı Pembe Taşınabilir Şarj Cihazı Max 01-0515;2013917.00;865;Elektronik kategorisi için pembe renkli, dayanıklı taşınabilir şarj cihazı ürünü.;2026-07-19 08:19:14.000;1;8,69E+12;1
+516;Modern Kırmızı Tablet Standı Eco 01-0516;141874.00;886;Elektronik kategorisi için kırmızı renkli, modern tablet standı ürünü.;2026-07-06 16:32:37.000;1;8,69E+12;1
+517;Premium Kahverengi Akıllı Saat Nova 01-0517;2177480.00;972;Elektronik kategorisi için kahverengi renkli, premium akıllı saat ürünü.;2026-07-14 11:46:00.000;1;8,69E+12;1
+518;Ekonomik Gri Oyuncu Mouse Luna 01-0518;1232100.00;159;Elektronik kategorisi için gri renkli, ekonomik oyuncu mouse ürünü.;2026-07-06 03:57:06.000;1;8,69E+12;1
+519;Profesyonel Bej Tablet Standı Mini 01-0519;1853022.00;982;Elektronik kategorisi için bej renkli, profesyonel tablet standı ürünü.;2026-07-15 00:57:20.000;1;8,69E+12;1
+520;Premium Yeşil Akıllı Saat A Serisi 01-0520;3262933.00;986;Elektronik kategorisi için yeşil renkli, premium akıllı saat ürünü.;2026-07-24 22:44:19.000;1;8,69E+12;1
+521;Pratik Turuncu Taşınabilir Şarj Cihazı Max 01-0521;1854033.00;129;Elektronik kategorisi için turuncu renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-18 05:20:35.000;1;8,69E+12;1
+522;Hafif Mavi Oyuncu Mouse Plus 01-0522;2126314.00;118;Elektronik kategorisi için mavi renkli, hafif oyuncu mouse ürünü.;2026-07-05 23:53:10.000;1;8,69E+12;1
+523;Profesyonel Beyaz HDMI Kablo A Serisi 01-0523;2351107.00;150;Elektronik kategorisi için beyaz renkli, profesyonel hdmi kablo ürünü.;2026-07-19 15:18:11.000;1;8,69E+12;1
+524;Ekonomik Kahverengi USB Bellek Pro 01-0524;3463164.00;986;Elektronik kategorisi için kahverengi renkli, ekonomik usb bellek ürünü.;2026-07-27 01:15:50.000;1;8,69E+12;1
+525;Premium Pembe Tablet Standı Standart 01-0525;2953165.00;487;Elektronik kategorisi için pembe renkli, premium tablet standı ürünü.;2026-07-29 03:54:10.000;1;8,69E+12;1
+526;Ekonomik Kırmızı Mekanik Klavye A Serisi 01-0526;561122.00;1000;Elektronik kategorisi için kırmızı renkli, ekonomik mekanik klavye ürünü.;2026-07-13 19:03:58.000;1;8,69E+12;1
+527;Premium Bej USB Bellek C Serisi 01-0527;627504.00;57;Elektronik kategorisi için bej renkli, premium usb bellek ürünü.;2026-07-25 08:34:34.000;1;8,69E+12;1
+528;Yeni Nesil Siyah Oyuncu Mouse Elite 01-0528;2209085.00;826;Elektronik kategorisi için siyah renkli, yeni nesil oyuncu mouse ürünü.;2026-07-25 03:14:58.000;1;8,69E+12;1
+529;Premium Yeşil Kablosuz Kulaklık Mini 01-0529;310383.00;193;Elektronik kategorisi için yeşil renkli, premium kablosuz kulaklık ürünü.;2026-07-11 16:07:18.000;1;8,69E+12;1
+530;Kaliteli Mor USB Bellek Mini 01-0530;265288.00;445;Elektronik kategorisi için mor renkli, kaliteli usb bellek ürünü.;2026-07-15 07:10:13.000;1;8,69E+12;1
+531;Premium Mor HDMI Kablo A Serisi 01-0531;568895.00;266;Elektronik kategorisi için mor renkli, premium hdmi kablo ürünü.;2026-07-30 08:12:21.000;1;8,69E+12;1
+532;Yeni Nesil Lacivert USB Bellek Elite 01-0532;2219994.00;843;Elektronik kategorisi için lacivert renkli, yeni nesil usb bellek ürünü.;2026-07-06 21:18:03.000;1;8,69E+12;1
+533;Premium Siyah Taşınabilir Şarj Cihazı Mini 01-0533;3115508.00;867;Elektronik kategorisi için siyah renkli, premium taşınabilir şarj cihazı ürünü.;2026-07-14 18:47:24.000;1;8,69E+12;1
+534;Premium Lacivert Web Kamera Pro 01-0534;1947369.00;919;Elektronik kategorisi için lacivert renkli, premium web kamera ürünü.;2026-07-22 04:00:53.000;1;8,69E+12;1
+535;Kompakt Pembe Mekanik Klavye Pro 01-0535;1873055.00;310;Elektronik kategorisi için pembe renkli, kompakt mekanik klavye ürünü.;2026-07-11 22:16:20.000;1;8,69E+12;1
+536;Kompakt Kırmızı Akıllı Saat Mini 01-0536;576156.00;434;Elektronik kategorisi için kırmızı renkli, kompakt akıllı saat ürünü.;2026-07-18 04:39:22.000;1;8,69E+12;1
+537;Modern Kırmızı Oyuncu Mouse Luna 01-0537;2741697.00;721;Elektronik kategorisi için kırmızı renkli, modern oyuncu mouse ürünü.;2026-07-18 22:05:19.000;1;8,69E+12;1
+538;Yeni Nesil Turuncu Web Kamera Nova 01-0538;3264553.00;581;Elektronik kategorisi için turuncu renkli, yeni nesil web kamera ürünü.;2026-07-01 18:28:58.000;1;8,69E+12;1
+539;Premium Turuncu HDMI Kablo Eco 01-0539;600032.00;70;Elektronik kategorisi için turuncu renkli, premium hdmi kablo ürünü.;2026-07-08 20:09:49.000;1;8,69E+12;1
+540;Premium Turuncu Tablet Standı Eco 01-0540;2437579.00;68;Elektronik kategorisi için turuncu renkli, premium tablet standı ürünü.;2026-07-17 17:07:09.000;1;8,69E+12;1
+541;Pratik Turuncu Kablosuz Kulaklık B Serisi 01-0541;921616.00;57;Elektronik kategorisi için turuncu renkli, pratik kablosuz kulaklık ürünü.;2026-07-30 12:40:13.000;1;8,69E+12;1
+542;Pratik Turuncu Tablet Standı Mini 01-0542;1653008.00;455;Elektronik kategorisi için turuncu renkli, pratik tablet standı ürünü.;2026-07-17 16:56:12.000;1;8,69E+12;1
+543;Pratik Mavi Taşınabilir Şarj Cihazı Luna 01-0543;2049872.00;734;Elektronik kategorisi için mavi renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-30 09:56:50.000;1;8,69E+12;1
+544;Modern Pembe HDMI Kablo Max 01-0544;1950926.00;819;Elektronik kategorisi için pembe renkli, modern hdmi kablo ürünü.;2026-07-17 15:57:06.000;1;8,69E+12;1
+545;Kompakt Bej Mekanik Klavye C Serisi 01-0545;1905796.00;701;Elektronik kategorisi için bej renkli, kompakt mekanik klavye ürünü.;2026-07-02 13:01:50.000;1;8,69E+12;1
+546;Kaliteli Beyaz Bluetooth Hoparlör Mini 01-0546;1285639.00;887;Elektronik kategorisi için beyaz renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-10 14:25:02.000;1;8,69E+12;1
+547;Pratik Bej Web Kamera Luna 01-0547;1153435.00;850;Elektronik kategorisi için bej renkli, pratik web kamera ürünü.;2026-07-29 07:43:24.000;1;8,69E+12;1
+548;Günlük Beyaz HDMI Kablo Mini 01-0548;393683.00;939;Elektronik kategorisi için beyaz renkli, günlük hdmi kablo ürünü.;2026-07-22 19:25:22.000;1;8,69E+12;1
+549;Profesyonel Turuncu Telefon Kılıfı Mini 01-0549;294926.00;419;Elektronik kategorisi için turuncu renkli, profesyonel telefon kılıfı ürünü.;2026-07-30 14:16:59.000;1;8,69E+12;1
+550;Kaliteli Mavi Mekanik Klavye Luna 01-0550;1059600.00;817;Elektronik kategorisi için mavi renkli, kaliteli mekanik klavye ürünü.;2026-07-19 04:45:55.000;1;8,69E+12;1
+551;Hafif Kırmızı USB Bellek Plus 01-0551;586464.00;958;Elektronik kategorisi için kırmızı renkli, hafif usb bellek ürünü.;2026-07-31 03:44:12.000;1;8,69E+12;1
+552;Kompakt Yeşil Tablet Standı Elite 01-0552;2059432.00;348;Elektronik kategorisi için yeşil renkli, kompakt tablet standı ürünü.;2026-07-10 10:11:36.000;1;8,69E+12;1
+553;Premium Yeşil HDMI Kablo Plus 01-0553;2270033.00;392;Elektronik kategorisi için yeşil renkli, premium hdmi kablo ürünü.;2026-07-07 22:32:38.000;1;8,69E+12;1
+554;Pratik Lacivert Oyuncu Mouse A Serisi 01-0554;2647745.00;745;Elektronik kategorisi için lacivert renkli, pratik oyuncu mouse ürünü.;2026-07-07 08:13:37.000;1;8,69E+12;1
+555;Profesyonel Pembe USB Bellek Nova 01-0555;3070758.00;520;Elektronik kategorisi için pembe renkli, profesyonel usb bellek ürünü.;2026-07-28 21:10:58.000;1;8,69E+12;1
+556;Ekonomik Kırmızı Telefon Kılıfı B Serisi 01-0556;1706121.00;129;Elektronik kategorisi için kırmızı renkli, ekonomik telefon kılıfı ürünü.;2026-07-14 10:39:39.000;1;8,69E+12;1
+557;Modern Kırmızı Telefon Kılıfı B Serisi 01-0557;921728.00;42;Elektronik kategorisi için kırmızı renkli, modern telefon kılıfı ürünü.;2026-07-06 08:33:21.000;1;8,69E+12;1
+558;Hafif Kahverengi Laptop Soğutucu A Serisi 01-0558;2715677.00;933;Elektronik kategorisi için kahverengi renkli, hafif laptop soğutucu ürünü.;2026-07-14 21:06:29.000;1;8,69E+12;1
+559;Profesyonel Pembe Taşınabilir Şarj Cihazı Standart 01-0559;2574425.00;514;Elektronik kategorisi için pembe renkli, profesyonel taşınabilir şarj cihazı ürünü.;2026-07-24 02:02:44.000;1;8,69E+12;1
+560;Profesyonel Kahverengi HDMI Kablo Standart 01-0560;3279863.00;776;Elektronik kategorisi için kahverengi renkli, profesyonel hdmi kablo ürünü.;2026-07-04 14:36:42.000;1;8,69E+12;1
+561;Yeni Nesil Beyaz Telefon Kılıfı Mini 01-0561;2416451.00;484;Elektronik kategorisi için beyaz renkli, yeni nesil telefon kılıfı ürünü.;2026-07-28 02:25:31.000;1;8,69E+12;1
+562;Kaliteli Mor Mekanik Klavye A Serisi 01-0562;922879.00;318;Elektronik kategorisi için mor renkli, kaliteli mekanik klavye ürünü.;2026-07-19 01:23:15.000;1;8,69E+12;1
+563;Kaliteli Siyah USB Bellek Nova 01-0563;3096587.00;538;Elektronik kategorisi için siyah renkli, kaliteli usb bellek ürünü.;2026-07-08 14:55:00.000;1;8,69E+12;1
+564;Şık Mor Taşınabilir Şarj Cihazı Mini 01-0564;3470592.00;451;Elektronik kategorisi için mor renkli, şık taşınabilir şarj cihazı ürünü.;2026-07-03 09:56:10.000;1;8,69E+12;1
+565;Hafif Yeşil Kablosuz Kulaklık Mini 01-0565;1762232.00;751;Elektronik kategorisi için yeşil renkli, hafif kablosuz kulaklık ürünü.;2026-07-20 21:40:45.000;1;8,69E+12;1
+566;Şık Mor USB Bellek Pro 01-0566;623468.00;601;Elektronik kategorisi için mor renkli, şık usb bellek ürünü.;2026-07-12 13:06:53.000;1;8,69E+12;1
+567;Dayanıklı Pembe Akıllı Saat Eco 01-0567;140260.00;454;Elektronik kategorisi için pembe renkli, dayanıklı akıllı saat ürünü.;2026-07-06 17:04:55.000;1;8,69E+12;1
+568;Ekonomik Lacivert HDMI Kablo A Serisi 01-0568;2993793.00;356;Elektronik kategorisi için lacivert renkli, ekonomik hdmi kablo ürünü.;2026-07-08 05:29:30.000;1;8,69E+12;1
+569;Şık Kahverengi Bluetooth Hoparlör A Serisi 01-0569;1452321.00;993;Elektronik kategorisi için kahverengi renkli, şık bluetooth hoparlör ürünü.;2026-07-26 04:17:49.000;1;8,69E+12;1
+570;Premium Lacivert HDMI Kablo Standart 01-0570;3278700.00;505;Elektronik kategorisi için lacivert renkli, premium hdmi kablo ürünü.;2026-07-01 10:58:31.000;1;8,69E+12;1
+571;Profesyonel Turuncu HDMI Kablo Nova 01-0571;3049244.00;462;Elektronik kategorisi için turuncu renkli, profesyonel hdmi kablo ürünü.;2026-07-31 03:11:55.000;1;8,69E+12;1
+572;Günlük Gri Laptop Soğutucu Eco 01-0572;1616785.00;848;Elektronik kategorisi için gri renkli, günlük laptop soğutucu ürünü.;2026-07-18 10:31:13.000;1;8,69E+12;1
+573;Dayanıklı Mor Akıllı Saat Eco 01-0573;259658.00;97;Elektronik kategorisi için mor renkli, dayanıklı akıllı saat ürünü.;2026-07-22 14:10:20.000;1;8,69E+12;1
+574;Hafif Lacivert Laptop Soğutucu Luna 01-0574;1471330.00;865;Elektronik kategorisi için lacivert renkli, hafif laptop soğutucu ürünü.;2026-07-23 11:03:52.000;1;8,69E+12;1
+575;Modern Yeşil Laptop Soğutucu Luna 01-0575;713829.00;57;Elektronik kategorisi için yeşil renkli, modern laptop soğutucu ürünü.;2026-07-17 22:53:32.000;1;8,69E+12;1
+576;Yeni Nesil Kahverengi HDMI Kablo Standart 01-0576;1837367.00;361;Elektronik kategorisi için kahverengi renkli, yeni nesil hdmi kablo ürünü.;2026-07-22 09:50:29.000;1;8,69E+12;1
+577;Modern Pembe Web Kamera Pro 01-0577;2048512.00;460;Elektronik kategorisi için pembe renkli, modern web kamera ürünü.;2026-08-01 19:18:17.000;1;8,69E+12;1
+578;Kaliteli Turuncu Tablet Standı Pro 01-0578;895403.00;717;Elektronik kategorisi için turuncu renkli, kaliteli tablet standı ürünü.;2026-07-18 19:55:29.000;1;8,69E+12;1
+579;Yeni Nesil Kahverengi HDMI Kablo C Serisi 01-0579;3194625.00;420;Elektronik kategorisi için kahverengi renkli, yeni nesil hdmi kablo ürünü.;2026-07-07 19:01:19.000;1;8,69E+12;1
+580;Yeni Nesil Mavi Akıllı Saat A Serisi 01-0580;1366123.00;256;Elektronik kategorisi için mavi renkli, yeni nesil akıllı saat ürünü.;2026-07-06 04:28:58.000;1;8,69E+12;1
+581;Modern Kırmızı HDMI Kablo Plus 01-0581;2367694.00;569;Elektronik kategorisi için kırmızı renkli, modern hdmi kablo ürünü.;2026-07-02 22:05:28.000;1;8,69E+12;1
+582;Dayanıklı Gri Tablet Standı Plus 01-0582;1062192.00;247;Elektronik kategorisi için gri renkli, dayanıklı tablet standı ürünü.;2026-07-19 00:39:02.000;1;8,69E+12;1
+583;Hafif Yeşil Oyuncu Mouse B Serisi 01-0583;2485586.00;432;Elektronik kategorisi için yeşil renkli, hafif oyuncu mouse ürünü.;2026-07-23 12:50:19.000;1;8,69E+12;1
+584;Ekonomik Lacivert Mekanik Klavye Mini 01-0584;2778519.00;472;Elektronik kategorisi için lacivert renkli, ekonomik mekanik klavye ürünü.;2026-07-07 03:59:44.000;1;8,69E+12;1
+585;Günlük Turuncu Taşınabilir Şarj Cihazı B Serisi 01-0585;2802234.00;108;Elektronik kategorisi için turuncu renkli, günlük taşınabilir şarj cihazı ürünü.;2026-07-11 15:54:15.000;1;8,69E+12;1
+586;Yeni Nesil Kahverengi Telefon Kılıfı Luna 01-0586;1383659.00;747;Elektronik kategorisi için kahverengi renkli, yeni nesil telefon kılıfı ürünü.;2026-07-28 20:06:29.000;1;8,69E+12;1
+587;Modern Lacivert Oyuncu Mouse Standart 01-0587;612577.00;818;Elektronik kategorisi için lacivert renkli, modern oyuncu mouse ürünü.;2026-07-14 23:21:38.000;1;8,69E+12;1
+588;Premium Mavi Tablet Standı B Serisi 01-0588;1334437.00;373;Elektronik kategorisi için mavi renkli, premium tablet standı ürünü.;2026-07-05 14:44:33.000;1;8,69E+12;1
+589;Premium Bej Taşınabilir Şarj Cihazı Max 01-0589;3457269.00;405;Elektronik kategorisi için bej renkli, premium taşınabilir şarj cihazı ürünü.;2026-07-07 01:24:45.000;1;8,69E+12;1
+590;Pratik Pembe Mekanik Klavye Max 01-0590;1265598.00;272;Elektronik kategorisi için pembe renkli, pratik mekanik klavye ürünü.;2026-07-22 09:38:04.000;1;8,69E+12;1
+591;Profesyonel Beyaz Akıllı Saat Elite 01-0591;2893962.00;315;Elektronik kategorisi için beyaz renkli, profesyonel akıllı saat ürünü.;2026-07-01 06:31:12.000;1;8,69E+12;1
+592;Hafif Turuncu Bluetooth Hoparlör A Serisi 01-0592;335737.00;635;Elektronik kategorisi için turuncu renkli, hafif bluetooth hoparlör ürünü.;2026-07-23 20:54:42.000;1;8,69E+12;1
+593;Şık Mavi Web Kamera A Serisi 01-0593;3389502.00;38;Elektronik kategorisi için mavi renkli, şık web kamera ürünü.;2026-07-11 10:35:15.000;1;8,69E+12;1
+594;Yeni Nesil Lacivert Kablosuz Kulaklık Mini 01-0594;2173187.00;841;Elektronik kategorisi için lacivert renkli, yeni nesil kablosuz kulaklık ürünü.;2026-07-10 19:41:12.000;1;8,69E+12;1
+595;Şık Turuncu USB Bellek Luna 01-0595;766555.00;537;Elektronik kategorisi için turuncu renkli, şık usb bellek ürünü.;2026-07-09 05:57:57.000;1;8,69E+12;1
+596;Kompakt Pembe Web Kamera Pro 01-0596;3371617.00;302;Elektronik kategorisi için pembe renkli, kompakt web kamera ürünü.;2026-07-27 18:05:12.000;1;8,69E+12;1
+597;Premium Mavi Laptop Soğutucu Max 01-0597;3143138.00;513;Elektronik kategorisi için mavi renkli, premium laptop soğutucu ürünü.;2026-07-31 14:58:24.000;1;8,69E+12;1
+598;Kaliteli Yeşil Mekanik Klavye C Serisi 01-0598;2901956.00;777;Elektronik kategorisi için yeşil renkli, kaliteli mekanik klavye ürünü.;2026-07-28 21:28:24.000;1;8,69E+12;1
+599;Hafif Kahverengi Kablosuz Kulaklık C Serisi 01-0599;812088.00;197;Elektronik kategorisi için kahverengi renkli, hafif kablosuz kulaklık ürünü.;2026-07-05 06:40:25.000;1;8,69E+12;1
+600;Günlük Kırmızı Taşınabilir Şarj Cihazı B Serisi 01-0600;2997396.00;37;Elektronik kategorisi için kırmızı renkli, günlük taşınabilir şarj cihazı ürünü.;2026-07-29 19:02:33.000;1;8,69E+12;1
+601;Günlük Bej Kablosuz Kulaklık B Serisi 01-0601;138713.00;16;Elektronik kategorisi için bej renkli, günlük kablosuz kulaklık ürünü.;2026-07-07 21:47:14.000;1;8,69E+12;1
+602;Profesyonel Turuncu Bluetooth Hoparlör B Serisi 01-0602;2357787.00;576;Elektronik kategorisi için turuncu renkli, profesyonel bluetooth hoparlör ürünü.;2026-07-12 03:11:25.000;1;8,69E+12;1
+603;Hafif Pembe Bluetooth Hoparlör Mini 01-0603;617975.00;941;Elektronik kategorisi için pembe renkli, hafif bluetooth hoparlör ürünü.;2026-07-13 07:18:02.000;1;8,69E+12;1
+604;Kompakt Bej Laptop Soğutucu Plus 01-0604;130051.00;238;Elektronik kategorisi için bej renkli, kompakt laptop soğutucu ürünü.;2026-07-02 21:20:52.000;1;8,69E+12;1
+605;Premium Bej Laptop Soğutucu Luna 01-0605;61277.00;247;Elektronik kategorisi için bej renkli, premium laptop soğutucu ürünü.;2026-07-12 10:05:25.000;1;8,69E+12;1
+606;Şık Bej Oyuncu Mouse Pro 01-0606;1631174.00;960;Elektronik kategorisi için bej renkli, şık oyuncu mouse ürünü.;2026-07-16 04:54:04.000;1;8,69E+12;1
+607;Kaliteli Pembe Laptop Soğutucu Standart 01-0607;1484285.00;313;Elektronik kategorisi için pembe renkli, kaliteli laptop soğutucu ürünü.;2026-07-13 01:33:31.000;1;8,69E+12;1
+608;Kompakt Mavi Telefon Kılıfı Standart 01-0608;457070.00;488;Elektronik kategorisi için mavi renkli, kompakt telefon kılıfı ürünü.;2026-07-14 20:04:18.000;1;8,69E+12;1
+609;Dayanıklı Lacivert Web Kamera Plus 01-0609;3392152.00;827;Elektronik kategorisi için lacivert renkli, dayanıklı web kamera ürünü.;2026-07-19 16:34:27.000;1;8,69E+12;1
+610;Modern Beyaz Bluetooth Hoparlör Elite 01-0610;1562098.00;655;Elektronik kategorisi için beyaz renkli, modern bluetooth hoparlör ürünü.;2026-08-01 23:39:39.000;1;8,69E+12;1
+611;Kompakt Mavi USB Bellek Max 01-0611;1858140.00;576;Elektronik kategorisi için mavi renkli, kompakt usb bellek ürünü.;2026-07-22 23:50:33.000;1;8,69E+12;1
+612;Pratik Beyaz Kablosuz Kulaklık A Serisi 01-0612;336669.00;885;Elektronik kategorisi için beyaz renkli, pratik kablosuz kulaklık ürünü.;2026-07-22 02:21:12.000;1;8,69E+12;1
+613;Hafif Mavi Oyuncu Mouse Plus 01-0613;180542.00;834;Elektronik kategorisi için mavi renkli, hafif oyuncu mouse ürünü.;2026-07-19 08:26:26.000;1;8,69E+12;1
+614;Profesyonel Kırmızı Akıllı Saat Elite 01-0614;3208794.00;512;Elektronik kategorisi için kırmızı renkli, profesyonel akıllı saat ürünü.;2026-07-16 20:37:42.000;1;8,69E+12;1
+615;Profesyonel Siyah Akıllı Saat Standart 01-0615;3381555.00;119;Elektronik kategorisi için siyah renkli, profesyonel akıllı saat ürünü.;2026-07-13 18:38:35.000;1;8,69E+12;1
+616;Modern Kahverengi Mekanik Klavye Max 01-0616;2311460.00;679;Elektronik kategorisi için kahverengi renkli, modern mekanik klavye ürünü.;2026-07-05 20:38:36.000;1;8,69E+12;1
+617;Modern Beyaz Web Kamera B Serisi 01-0617;1772841.00;908;Elektronik kategorisi için beyaz renkli, modern web kamera ürünü.;2026-07-30 13:02:29.000;1;8,69E+12;1
+618;Ekonomik Pembe Tablet Standı B Serisi 01-0618;3348541.00;542;Elektronik kategorisi için pembe renkli, ekonomik tablet standı ürünü.;2026-07-12 07:44:51.000;1;8,69E+12;1
+619;Premium Beyaz Bluetooth Hoparlör Standart 01-0619;3264662.00;930;Elektronik kategorisi için beyaz renkli, premium bluetooth hoparlör ürünü.;2026-07-17 11:47:11.000;1;8,69E+12;1
+620;Premium Beyaz Web Kamera Standart 01-0620;443585.00;715;Elektronik kategorisi için beyaz renkli, premium web kamera ürünü.;2026-07-07 18:21:28.000;1;8,69E+12;1
+621;Şık Kırmızı Laptop Soğutucu Pro 01-0621;2338051.00;54;Elektronik kategorisi için kırmızı renkli, şık laptop soğutucu ürünü.;2026-07-25 16:20:43.000;1;8,69E+12;1
+622;Günlük Beyaz Bluetooth Hoparlör A Serisi 01-0622;2781436.00;967;Elektronik kategorisi için beyaz renkli, günlük bluetooth hoparlör ürünü.;2026-07-02 05:21:38.000;1;8,69E+12;1
+623;Şık Siyah HDMI Kablo B Serisi 01-0623;2442323.00;193;Elektronik kategorisi için siyah renkli, şık hdmi kablo ürünü.;2026-07-29 04:43:38.000;1;8,69E+12;1
+624;Şık Lacivert Telefon Kılıfı Pro 01-0624;1024123.00;607;Elektronik kategorisi için lacivert renkli, şık telefon kılıfı ürünü.;2026-07-31 13:42:10.000;1;8,69E+12;1
+625;Günlük Siyah Mekanik Klavye Eco 01-0625;2394372.00;30;Elektronik kategorisi için siyah renkli, günlük mekanik klavye ürünü.;2026-07-16 07:45:08.000;1;8,69E+12;1
+626;Dayanıklı Pembe USB Bellek Pro 01-0626;2333294.00;352;Elektronik kategorisi için pembe renkli, dayanıklı usb bellek ürünü.;2026-07-12 15:36:41.000;1;8,69E+12;1
+627;Kaliteli Mavi Web Kamera Mini 01-0627;699434.00;117;Elektronik kategorisi için mavi renkli, kaliteli web kamera ürünü.;2026-07-04 13:09:28.000;1;8,69E+12;1
+628;Premium Siyah Oyuncu Mouse Luna 01-0628;1184216.00;84;Elektronik kategorisi için siyah renkli, premium oyuncu mouse ürünü.;2026-07-21 10:49:44.000;1;8,69E+12;1
+629;Yeni Nesil Bej Tablet Standı Max 01-0629;1043366.00;520;Elektronik kategorisi için bej renkli, yeni nesil tablet standı ürünü.;2026-07-16 22:05:01.000;1;8,69E+12;1
+630;Pratik Beyaz Web Kamera Mini 01-0630;333861.00;528;Elektronik kategorisi için beyaz renkli, pratik web kamera ürünü.;2026-07-07 03:56:37.000;1;8,69E+12;1
+631;Dayanıklı Kahverengi Mekanik Klavye A Serisi 01-0631;622614.00;978;Elektronik kategorisi için kahverengi renkli, dayanıklı mekanik klavye ürünü.;2026-07-14 21:57:10.000;1;8,69E+12;1
+632;Pratik Mavi Telefon Kılıfı Standart 01-0632;1567720.00;31;Elektronik kategorisi için mavi renkli, pratik telefon kılıfı ürünü.;2026-07-06 14:58:20.000;1;8,69E+12;1
+633;Hafif Beyaz Bluetooth Hoparlör Pro 01-0633;267124.00;421;Elektronik kategorisi için beyaz renkli, hafif bluetooth hoparlör ürünü.;2026-07-30 16:39:17.000;1;8,69E+12;1
+634;Kaliteli Siyah Oyuncu Mouse Max 01-0634;1269164.00;840;Elektronik kategorisi için siyah renkli, kaliteli oyuncu mouse ürünü.;2026-07-06 02:12:30.000;1;8,69E+12;1
+635;Profesyonel Lacivert HDMI Kablo Luna 01-0635;3179439.00;375;Elektronik kategorisi için lacivert renkli, profesyonel hdmi kablo ürünü.;2026-07-20 06:53:27.000;1;8,69E+12;1
+636;Kaliteli Yeşil Telefon Kılıfı Plus 01-0636;307563.00;249;Elektronik kategorisi için yeşil renkli, kaliteli telefon kılıfı ürünü.;2026-07-02 23:41:48.000;1;8,69E+12;1
+637;Hafif Yeşil Telefon Kılıfı Max 01-0637;3302626.00;350;Elektronik kategorisi için yeşil renkli, hafif telefon kılıfı ürünü.;2026-07-06 14:03:33.000;1;8,69E+12;1
+638;Kaliteli Bej Mekanik Klavye Plus 01-0638;502247.00;979;Elektronik kategorisi için bej renkli, kaliteli mekanik klavye ürünü.;2026-07-05 17:36:24.000;1;8,69E+12;1
+639;Dayanıklı Turuncu Laptop Soğutucu Elite 01-0639;1209231.00;308;Elektronik kategorisi için turuncu renkli, dayanıklı laptop soğutucu ürünü.;2026-07-31 18:23:23.000;1;8,69E+12;1
+640;Günlük Turuncu Kablosuz Kulaklık B Serisi 01-0640;386073.00;738;Elektronik kategorisi için turuncu renkli, günlük kablosuz kulaklık ürünü.;2026-07-17 12:54:25.000;1;8,69E+12;1
+641;Şık Kırmızı Laptop Soğutucu C Serisi 01-0641;1000603.00;571;Elektronik kategorisi için kırmızı renkli, şık laptop soğutucu ürünü.;2026-08-01 03:55:55.000;1;8,69E+12;1
+642;Ekonomik Pembe Akıllı Saat Elite 01-0642;1675912.00;936;Elektronik kategorisi için pembe renkli, ekonomik akıllı saat ürünü.;2026-07-03 16:57:34.000;1;8,69E+12;1
+643;Ekonomik Siyah USB Bellek A Serisi 01-0643;1059438.00;951;Elektronik kategorisi için siyah renkli, ekonomik usb bellek ürünü.;2026-07-13 06:05:25.000;1;8,69E+12;1
+644;Kaliteli Pembe Taşınabilir Şarj Cihazı Luna 01-0644;2127703.00;756;Elektronik kategorisi için pembe renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-16 21:15:50.000;1;8,69E+12;1
+645;Kompakt Lacivert HDMI Kablo Nova 01-0645;1240723.00;546;Elektronik kategorisi için lacivert renkli, kompakt hdmi kablo ürünü.;2026-07-25 15:53:19.000;1;8,69E+12;1
+646;Ekonomik Mor Bluetooth Hoparlör A Serisi 01-0646;2366169.00;907;Elektronik kategorisi için mor renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-13 06:29:14.000;1;8,69E+12;1
+647;Kompakt Siyah HDMI Kablo C Serisi 01-0647;303793.00;416;Elektronik kategorisi için siyah renkli, kompakt hdmi kablo ürünü.;2026-07-14 00:38:44.000;1;8,69E+12;1
+648;Ekonomik Yeşil Telefon Kılıfı Plus 01-0648;2999011.00;998;Elektronik kategorisi için yeşil renkli, ekonomik telefon kılıfı ürünü.;2026-07-14 21:45:46.000;1;8,69E+12;1
+649;Yeni Nesil Mavi USB Bellek A Serisi 01-0649;2774863.00;665;Elektronik kategorisi için mavi renkli, yeni nesil usb bellek ürünü.;2026-07-07 02:13:29.000;1;8,69E+12;1
+650;Hafif Turuncu Taşınabilir Şarj Cihazı Eco 01-0650;2609709.00;254;Elektronik kategorisi için turuncu renkli, hafif taşınabilir şarj cihazı ürünü.;2026-07-11 15:42:46.000;1;8,69E+12;1
+651;Dayanıklı Bej Kablosuz Kulaklık Luna 01-0651;3366735.00;622;Elektronik kategorisi için bej renkli, dayanıklı kablosuz kulaklık ürünü.;2026-07-25 11:13:52.000;1;8,69E+12;1
+652;Kaliteli Turuncu Telefon Kılıfı Plus 01-0652;1310061.00;168;Elektronik kategorisi için turuncu renkli, kaliteli telefon kılıfı ürünü.;2026-07-05 16:08:08.000;1;8,69E+12;1
+653;Yeni Nesil Bej Tablet Standı Eco 01-0653;2218026.00;561;Elektronik kategorisi için bej renkli, yeni nesil tablet standı ürünü.;2026-07-25 11:10:24.000;1;8,69E+12;1
+654;Dayanıklı Mor Web Kamera A Serisi 01-0654;2513123.00;725;Elektronik kategorisi için mor renkli, dayanıklı web kamera ürünü.;2026-07-15 06:54:25.000;1;8,69E+12;1
+655;Hafif Kırmızı Tablet Standı Luna 01-0655;541745.00;462;Elektronik kategorisi için kırmızı renkli, hafif tablet standı ürünü.;2026-07-08 15:31:14.000;1;8,69E+12;1
+656;Dayanıklı Mor Laptop Soğutucu Max 01-0656;338737.00;514;Elektronik kategorisi için mor renkli, dayanıklı laptop soğutucu ürünü.;2026-07-28 03:06:44.000;1;8,69E+12;1
+657;Yeni Nesil Beyaz Bluetooth Hoparlör Luna 01-0657;2510829.00;992;Elektronik kategorisi için beyaz renkli, yeni nesil bluetooth hoparlör ürünü.;2026-07-06 00:49:57.000;1;8,69E+12;1
+658;Kaliteli Mor Taşınabilir Şarj Cihazı Standart 01-0658;62412.00;424;Elektronik kategorisi için mor renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-27 18:22:26.000;1;8,69E+12;1
+659;Hafif Siyah Laptop Soğutucu Eco 01-0659;1210890.00;425;Elektronik kategorisi için siyah renkli, hafif laptop soğutucu ürünü.;2026-07-30 06:56:06.000;1;8,69E+12;1
+660;Dayanıklı Gri Akıllı Saat B Serisi 01-0660;2152215.00;74;Elektronik kategorisi için gri renkli, dayanıklı akıllı saat ürünü.;2026-07-07 02:39:09.000;1;8,69E+12;1
+661;Dayanıklı Mavi Laptop Soğutucu Nova 01-0661;3341393.00;839;Elektronik kategorisi için mavi renkli, dayanıklı laptop soğutucu ürünü.;2026-07-07 00:42:59.000;1;8,69E+12;1
+662;Yeni Nesil Mavi USB Bellek Nova 01-0662;1830283.00;794;Elektronik kategorisi için mavi renkli, yeni nesil usb bellek ürünü.;2026-07-05 16:12:06.000;1;8,69E+12;1
+663;Dayanıklı Pembe Telefon Kılıfı Elite 01-0663;1966709.00;339;Elektronik kategorisi için pembe renkli, dayanıklı telefon kılıfı ürünü.;2026-07-13 03:39:05.000;1;8,69E+12;1
+664;Pratik Lacivert HDMI Kablo C Serisi 01-0664;453383.00;740;Elektronik kategorisi için lacivert renkli, pratik hdmi kablo ürünü.;2026-07-08 10:22:21.000;1;8,69E+12;1
+665;Modern Kırmızı Laptop Soğutucu Plus 01-0665;555121.00;260;Elektronik kategorisi için kırmızı renkli, modern laptop soğutucu ürünü.;2026-07-19 11:05:43.000;1;8,69E+12;1
+666;Modern Lacivert Bluetooth Hoparlör B Serisi 01-0666;2398952.00;539;Elektronik kategorisi için lacivert renkli, modern bluetooth hoparlör ürünü.;2026-07-23 17:41:07.000;1;8,69E+12;1
+667;Pratik Bej Taşınabilir Şarj Cihazı Max 01-0667;562290.00;602;Elektronik kategorisi için bej renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-21 05:24:34.000;1;8,69E+12;1
+668;Hafif Kahverengi Akıllı Saat Standart 01-0668;700500.00;252;Elektronik kategorisi için kahverengi renkli, hafif akıllı saat ürünü.;2026-07-26 08:10:42.000;1;8,69E+12;1
+669;Hafif Lacivert Kablosuz Kulaklık A Serisi 01-0669;2797721.00;253;Elektronik kategorisi için lacivert renkli, hafif kablosuz kulaklık ürünü.;2026-07-02 01:17:56.000;1;8,69E+12;1
+670;Kaliteli Lacivert HDMI Kablo B Serisi 01-0670;614310.00;830;Elektronik kategorisi için lacivert renkli, kaliteli hdmi kablo ürünü.;2026-07-14 22:25:50.000;1;8,69E+12;1
+671;Günlük Yeşil Mekanik Klavye A Serisi 01-0671;3338675.00;932;Elektronik kategorisi için yeşil renkli, günlük mekanik klavye ürünü.;2026-07-02 20:26:50.000;1;8,69E+12;1
+672;Pratik Turuncu Telefon Kılıfı A Serisi 01-0672;210363.00;986;Elektronik kategorisi için turuncu renkli, pratik telefon kılıfı ürünü.;2026-07-12 23:47:19.000;1;8,69E+12;1
+673;Premium Turuncu Telefon Kılıfı B Serisi 01-0673;1077027.00;179;Elektronik kategorisi için turuncu renkli, premium telefon kılıfı ürünü.;2026-07-18 13:33:45.000;1;8,69E+12;1
+674;Günlük Beyaz USB Bellek Standart 01-0674;207506.00;575;Elektronik kategorisi için beyaz renkli, günlük usb bellek ürünü.;2026-07-17 18:24:03.000;1;8,69E+12;1
+675;Ekonomik Kırmızı Akıllı Saat B Serisi 01-0675;2438373.00;902;Elektronik kategorisi için kırmızı renkli, ekonomik akıllı saat ürünü.;2026-07-09 15:50:29.000;1;8,69E+12;1
+676;Pratik Yeşil Akıllı Saat A Serisi 01-0676;93719.00;611;Elektronik kategorisi için yeşil renkli, pratik akıllı saat ürünü.;2026-07-09 23:10:19.000;1;8,69E+12;1
+677;Yeni Nesil Siyah Bluetooth Hoparlör Nova 01-0677;2664747.00;390;Elektronik kategorisi için siyah renkli, yeni nesil bluetooth hoparlör ürünü.;2026-07-12 22:12:38.000;1;8,69E+12;1
+678;Kaliteli Pembe Laptop Soğutucu Eco 01-0678;2485813.00;455;Elektronik kategorisi için pembe renkli, kaliteli laptop soğutucu ürünü.;2026-07-08 06:44:18.000;1;8,69E+12;1
+679;Şık Kahverengi Kablosuz Kulaklık Elite 01-0679;3093356.00;862;Elektronik kategorisi için kahverengi renkli, şık kablosuz kulaklık ürünü.;2026-07-17 16:06:56.000;1;8,69E+12;1
+680;Şık Turuncu Web Kamera Eco 01-0680;1204099.00;772;Elektronik kategorisi için turuncu renkli, şık web kamera ürünü.;2026-07-01 08:42:40.000;1;8,69E+12;1
+681;Yeni Nesil Gri Akıllı Saat Max 01-0681;650747.00;775;Elektronik kategorisi için gri renkli, yeni nesil akıllı saat ürünü.;2026-07-28 02:01:16.000;1;8,69E+12;1
+682;Kaliteli Kırmızı Mekanik Klavye Mini 01-0682;611149.00;908;Elektronik kategorisi için kırmızı renkli, kaliteli mekanik klavye ürünü.;2026-07-30 16:25:33.000;1;8,69E+12;1
+683;Profesyonel Gri HDMI Kablo Nova 01-0683;1029967.00;237;Elektronik kategorisi için gri renkli, profesyonel hdmi kablo ürünü.;2026-07-10 13:03:48.000;1;8,69E+12;1
+684;Profesyonel Kırmızı USB Bellek Elite 01-0684;2260126.00;402;Elektronik kategorisi için kırmızı renkli, profesyonel usb bellek ürünü.;2026-07-21 12:42:38.000;1;8,69E+12;1
+685;Yeni Nesil Kahverengi HDMI Kablo Nova 01-0685;3019985.00;649;Elektronik kategorisi için kahverengi renkli, yeni nesil hdmi kablo ürünü.;2026-07-07 16:29:31.000;1;8,69E+12;1
+686;Profesyonel Kahverengi Oyuncu Mouse A Serisi 01-0686;2142877.00;363;Elektronik kategorisi için kahverengi renkli, profesyonel oyuncu mouse ürünü.;2026-07-27 18:05:35.000;1;8,69E+12;1
+687;Modern Mor Kablosuz Kulaklık Mini 01-0687;1429470.00;298;Elektronik kategorisi için mor renkli, modern kablosuz kulaklık ürünü.;2026-07-03 07:58:08.000;1;8,69E+12;1
+688;Şık Mor Taşınabilir Şarj Cihazı Nova 01-0688;710826.00;149;Elektronik kategorisi için mor renkli, şık taşınabilir şarj cihazı ürünü.;2026-07-16 15:05:37.000;1;8,69E+12;1
+689;Kompakt Pembe Bluetooth Hoparlör Eco 01-0689;122360.00;784;Elektronik kategorisi için pembe renkli, kompakt bluetooth hoparlör ürünü.;2026-07-14 13:15:54.000;1;8,69E+12;1
+690;Günlük Siyah Laptop Soğutucu C Serisi 01-0690;1307991.00;718;Elektronik kategorisi için siyah renkli, günlük laptop soğutucu ürünü.;2026-07-30 06:08:12.000;1;8,69E+12;1
+691;Kompakt Mor Oyuncu Mouse C Serisi 01-0691;2769009.00;319;Elektronik kategorisi için mor renkli, kompakt oyuncu mouse ürünü.;2026-07-16 06:56:05.000;1;8,69E+12;1
+692;Pratik Kırmızı Mekanik Klavye Plus 01-0692;2368593.00;930;Elektronik kategorisi için kırmızı renkli, pratik mekanik klavye ürünü.;2026-07-22 21:44:38.000;1;8,69E+12;1
+693;Premium Turuncu Mekanik Klavye Pro 01-0693;3467412.00;291;Elektronik kategorisi için turuncu renkli, premium mekanik klavye ürünü.;2026-07-14 19:41:29.000;1;8,69E+12;1
+694;Şık Lacivert Laptop Soğutucu A Serisi 01-0694;2008606.00;840;Elektronik kategorisi için lacivert renkli, şık laptop soğutucu ürünü.;2026-07-05 07:48:57.000;1;8,69E+12;1
+695;Dayanıklı Pembe HDMI Kablo Plus 01-0695;3264333.00;288;Elektronik kategorisi için pembe renkli, dayanıklı hdmi kablo ürünü.;2026-07-14 12:00:06.000;1;8,69E+12;1
+696;Modern Turuncu Laptop Soğutucu Standart 01-0696;1086736.00;325;Elektronik kategorisi için turuncu renkli, modern laptop soğutucu ürünü.;2026-07-19 00:38:52.000;1;8,69E+12;1
+697;Premium Kırmızı HDMI Kablo Luna 01-0697;1865414.00;458;Elektronik kategorisi için kırmızı renkli, premium hdmi kablo ürünü.;2026-07-18 00:28:52.000;1;8,69E+12;1
+698;Kaliteli Mavi Laptop Soğutucu B Serisi 01-0698;714707.00;289;Elektronik kategorisi için mavi renkli, kaliteli laptop soğutucu ürünü.;2026-07-20 11:19:42.000;1;8,69E+12;1
+699;Yeni Nesil Lacivert Akıllı Saat Nova 01-0699;3301946.00;735;Elektronik kategorisi için lacivert renkli, yeni nesil akıllı saat ürünü.;2026-07-15 22:02:47.000;1;8,69E+12;1
+700;Şık Mor Akıllı Saat Plus 01-0700;2672619.00;983;Elektronik kategorisi için mor renkli, şık akıllı saat ürünü.;2026-07-06 15:51:23.000;1;8,69E+12;1
+701;Ekonomik Mor Oyuncu Mouse Max 01-0701;2244077.00;895;Elektronik kategorisi için mor renkli, ekonomik oyuncu mouse ürünü.;2026-07-14 09:07:58.000;1;8,69E+12;1
+702;Yeni Nesil Yeşil Akıllı Saat C Serisi 01-0702;2367818.00;801;Elektronik kategorisi için yeşil renkli, yeni nesil akıllı saat ürünü.;2026-07-03 08:19:36.000;1;8,69E+12;1
+703;Kompakt Lacivert Bluetooth Hoparlör Elite 01-0703;3202942.00;169;Elektronik kategorisi için lacivert renkli, kompakt bluetooth hoparlör ürünü.;2026-07-14 14:24:07.000;1;8,69E+12;1
+704;Premium Beyaz Mekanik Klavye Max 01-0704;1872159.00;771;Elektronik kategorisi için beyaz renkli, premium mekanik klavye ürünü.;2026-07-20 13:13:41.000;1;8,69E+12;1
+705;Dayanıklı Yeşil HDMI Kablo Plus 01-0705;2657547.00;833;Elektronik kategorisi için yeşil renkli, dayanıklı hdmi kablo ürünü.;2026-08-01 21:42:57.000;1;8,69E+12;1
+706;Ekonomik Kırmızı Oyuncu Mouse Plus 01-0706;3492859.00;533;Elektronik kategorisi için kırmızı renkli, ekonomik oyuncu mouse ürünü.;2026-07-21 08:30:21.000;1;8,69E+12;1
+707;Premium Pembe USB Bellek B Serisi 01-0707;2949945.00;287;Elektronik kategorisi için pembe renkli, premium usb bellek ürünü.;2026-07-05 14:09:10.000;1;8,69E+12;1
+708;Hafif Mor Web Kamera Elite 01-0708;1098853.00;339;Elektronik kategorisi için mor renkli, hafif web kamera ürünü.;2026-07-21 17:17:19.000;1;8,69E+12;1
+709;Yeni Nesil Mavi Mekanik Klavye Luna 01-0709;1389101.00;961;Elektronik kategorisi için mavi renkli, yeni nesil mekanik klavye ürünü.;2026-07-23 13:31:48.000;1;8,69E+12;1
+710;Dayanıklı Turuncu HDMI Kablo C Serisi 01-0710;838441.00;82;Elektronik kategorisi için turuncu renkli, dayanıklı hdmi kablo ürünü.;2026-07-10 03:22:23.000;1;8,69E+12;1
+711;Modern Kırmızı Telefon Kılıfı Elite 01-0711;901721.00;997;Elektronik kategorisi için kırmızı renkli, modern telefon kılıfı ürünü.;2026-07-22 07:52:18.000;1;8,69E+12;1
+712;Hafif Bej Tablet Standı A Serisi 01-0712;902371.00;278;Elektronik kategorisi için bej renkli, hafif tablet standı ürünü.;2026-07-11 06:44:42.000;1;8,69E+12;1
+713;Dayanıklı Beyaz Tablet Standı C Serisi 01-0713;1060683.00;870;Elektronik kategorisi için beyaz renkli, dayanıklı tablet standı ürünü.;2026-07-01 10:36:37.000;1;8,69E+12;1
+714;Hafif Gri Bluetooth Hoparlör Elite 01-0714;500528.00;573;Elektronik kategorisi için gri renkli, hafif bluetooth hoparlör ürünü.;2026-07-20 01:49:35.000;1;8,69E+12;1
+715;Kaliteli Mor Akıllı Saat C Serisi 01-0715;2372260.00;464;Elektronik kategorisi için mor renkli, kaliteli akıllı saat ürünü.;2026-07-06 15:41:06.000;1;8,69E+12;1
+716;Hafif Mor Taşınabilir Şarj Cihazı Elite 01-0716;2033571.00;707;Elektronik kategorisi için mor renkli, hafif taşınabilir şarj cihazı ürünü.;2026-07-28 10:42:16.000;1;8,69E+12;1
+717;Pratik Yeşil Oyuncu Mouse Luna 01-0717;1812890.00;752;Elektronik kategorisi için yeşil renkli, pratik oyuncu mouse ürünü.;2026-07-17 21:23:38.000;1;8,69E+12;1
+718;Premium Pembe Oyuncu Mouse Max 01-0718;294745.00;762;Elektronik kategorisi için pembe renkli, premium oyuncu mouse ürünü.;2026-07-01 08:23:19.000;1;8,69E+12;1
+719;Dayanıklı Turuncu Oyuncu Mouse Max 01-0719;1965902.00;866;Elektronik kategorisi için turuncu renkli, dayanıklı oyuncu mouse ürünü.;2026-07-01 11:29:05.000;1;8,69E+12;1
+720;Günlük Gri Oyuncu Mouse C Serisi 01-0720;615182.00;973;Elektronik kategorisi için gri renkli, günlük oyuncu mouse ürünü.;2026-07-21 02:44:37.000;1;8,69E+12;1
+721;Kompakt Pembe Kablosuz Kulaklık Mini 01-0721;1754181.00;393;Elektronik kategorisi için pembe renkli, kompakt kablosuz kulaklık ürünü.;2026-07-20 20:46:17.000;1;8,69E+12;1
+722;Günlük Kırmızı Taşınabilir Şarj Cihazı Nova 01-0722;165276.00;775;Elektronik kategorisi için kırmızı renkli, günlük taşınabilir şarj cihazı ürünü.;2026-07-13 08:22:37.000;1;8,69E+12;1
+723;Premium Pembe Mekanik Klavye Standart 01-0723;495745.00;595;Elektronik kategorisi için pembe renkli, premium mekanik klavye ürünü.;2026-07-24 23:00:05.000;1;8,69E+12;1
+724;Pratik Bej Oyuncu Mouse Pro 01-0724;2980591.00;885;Elektronik kategorisi için bej renkli, pratik oyuncu mouse ürünü.;2026-07-18 01:10:42.000;1;8,69E+12;1
+725;Günlük Kırmızı Tablet Standı B Serisi 01-0725;3455185.00;700;Elektronik kategorisi için kırmızı renkli, günlük tablet standı ürünü.;2026-07-16 01:11:50.000;1;8,69E+12;1
+726;Kaliteli Mavi Web Kamera Plus 01-0726;2410684.00;117;Elektronik kategorisi için mavi renkli, kaliteli web kamera ürünü.;2026-07-08 08:26:09.000;1;8,69E+12;1
+727;Yeni Nesil Kırmızı Akıllı Saat Pro 01-0727;123618.00;122;Elektronik kategorisi için kırmızı renkli, yeni nesil akıllı saat ürünü.;2026-07-06 18:06:14.000;1;8,69E+12;1
+728;Kompakt Gri USB Bellek Elite 01-0728;134559.00;881;Elektronik kategorisi için gri renkli, kompakt usb bellek ürünü.;2026-07-26 08:15:10.000;1;8,69E+12;1
+729;Hafif Bej Mekanik Klavye Luna 01-0729;2554030.00;283;Elektronik kategorisi için bej renkli, hafif mekanik klavye ürünü.;2026-07-02 18:25:16.000;1;8,69E+12;1
+730;Kaliteli Lacivert Bluetooth Hoparlör Luna 01-0730;504787.00;561;Elektronik kategorisi için lacivert renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-31 20:20:57.000;1;8,69E+12;1
+731;Modern Turuncu Web Kamera Elite 01-0731;3440112.00;725;Elektronik kategorisi için turuncu renkli, modern web kamera ürünü.;2026-07-21 09:43:39.000;1;8,69E+12;1
+732;Pratik Kahverengi Web Kamera Eco 01-0732;400991.00;750;Elektronik kategorisi için kahverengi renkli, pratik web kamera ürünü.;2026-07-29 16:40:27.000;1;8,69E+12;1
+733;Şık Gri Telefon Kılıfı Standart 01-0733;3066197.00;749;Elektronik kategorisi için gri renkli, şık telefon kılıfı ürünü.;2026-07-22 21:36:40.000;1;8,69E+12;1
+734;Şık Turuncu USB Bellek Nova 01-0734;2606027.00;42;Elektronik kategorisi için turuncu renkli, şık usb bellek ürünü.;2026-07-30 07:11:11.000;1;8,69E+12;1
+735;Premium Beyaz Telefon Kılıfı A Serisi 01-0735;2691988.00;690;Elektronik kategorisi için beyaz renkli, premium telefon kılıfı ürünü.;2026-07-26 05:40:14.000;1;8,69E+12;1
+736;Hafif Mor Mekanik Klavye Luna 01-0736;3169268.00;749;Elektronik kategorisi için mor renkli, hafif mekanik klavye ürünü.;2026-07-13 11:16:00.000;1;8,69E+12;1
+737;Yeni Nesil Turuncu HDMI Kablo Luna 01-0737;1300487.00;554;Elektronik kategorisi için turuncu renkli, yeni nesil hdmi kablo ürünü.;2026-07-25 06:32:37.000;1;8,69E+12;1
+738;Premium Mavi Taşınabilir Şarj Cihazı Pro 01-0738;2955772.00;84;Elektronik kategorisi için mavi renkli, premium taşınabilir şarj cihazı ürünü.;2026-07-29 07:18:36.000;1;8,69E+12;1
+739;Pratik Lacivert Bluetooth Hoparlör Plus 01-0739;939829.00;623;Elektronik kategorisi için lacivert renkli, pratik bluetooth hoparlör ürünü.;2026-07-03 14:17:40.000;1;8,69E+12;1
+740;Yeni Nesil Lacivert Oyuncu Mouse Nova 01-0740;1461512.00;90;Elektronik kategorisi için lacivert renkli, yeni nesil oyuncu mouse ürünü.;2026-07-09 20:16:37.000;1;8,69E+12;1
+741;Şık Kırmızı Kablosuz Kulaklık Plus 01-0741;3210947.00;965;Elektronik kategorisi için kırmızı renkli, şık kablosuz kulaklık ürünü.;2026-07-13 02:46:28.000;1;8,69E+12;1
+742;Profesyonel Mor HDMI Kablo Eco 01-0742;1520320.00;31;Elektronik kategorisi için mor renkli, profesyonel hdmi kablo ürünü.;2026-07-19 09:37:11.000;1;8,69E+12;1
+743;Modern Kırmızı Oyuncu Mouse Eco 01-0743;975220.00;276;Elektronik kategorisi için kırmızı renkli, modern oyuncu mouse ürünü.;2026-07-14 03:08:07.000;1;8,69E+12;1
+744;Yeni Nesil Kırmızı HDMI Kablo Mini 01-0744;1327560.00;564;Elektronik kategorisi için kırmızı renkli, yeni nesil hdmi kablo ürünü.;2026-07-17 01:21:53.000;1;8,69E+12;1
+745;Kaliteli Pembe Tablet Standı B Serisi 01-0745;3486563.00;336;Elektronik kategorisi için pembe renkli, kaliteli tablet standı ürünü.;2026-07-13 03:37:11.000;1;8,69E+12;1
+746;Şık Lacivert USB Bellek Luna 01-0746;3099469.00;765;Elektronik kategorisi için lacivert renkli, şık usb bellek ürünü.;2026-07-23 02:26:54.000;1;8,69E+12;1
+747;Günlük Kahverengi Mekanik Klavye Elite 01-0747;468259.00;655;Elektronik kategorisi için kahverengi renkli, günlük mekanik klavye ürünü.;2026-07-25 23:08:47.000;1;8,69E+12;1
+748;Kompakt Siyah Tablet Standı B Serisi 01-0748;3386017.00;879;Elektronik kategorisi için siyah renkli, kompakt tablet standı ürünü.;2026-07-25 02:54:23.000;1;8,69E+12;1
+749;Kaliteli Lacivert Bluetooth Hoparlör C Serisi 01-0749;3478840.00;382;Elektronik kategorisi için lacivert renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-29 13:51:40.000;1;8,69E+12;1
+750;Profesyonel Bej Taşınabilir Şarj Cihazı Pro 01-0750;529399.00;351;Elektronik kategorisi için bej renkli, profesyonel taşınabilir şarj cihazı ürünü.;2026-07-18 06:37:57.000;1;8,69E+12;1
+751;Şık Turuncu Telefon Kılıfı Pro 01-0751;570371.00;283;Elektronik kategorisi için turuncu renkli, şık telefon kılıfı ürünü.;2026-07-21 21:52:37.000;1;8,69E+12;1
+752;Kaliteli Mavi Taşınabilir Şarj Cihazı B Serisi 01-0752;275134.00;522;Elektronik kategorisi için mavi renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-15 06:08:46.000;1;8,69E+12;1
+753;Günlük Bej Laptop Soğutucu Luna 01-0753;620698.00;646;Elektronik kategorisi için bej renkli, günlük laptop soğutucu ürünü.;2026-07-07 22:26:28.000;1;8,69E+12;1
+754;Hafif Bej Taşınabilir Şarj Cihazı Eco 01-0754;2332482.00;139;Elektronik kategorisi için bej renkli, hafif taşınabilir şarj cihazı ürünü.;2026-07-30 21:41:30.000;1;8,69E+12;1
+755;Premium Gri Taşınabilir Şarj Cihazı C Serisi 01-0755;546689.00;401;Elektronik kategorisi için gri renkli, premium taşınabilir şarj cihazı ürünü.;2026-07-20 05:20:09.000;1;8,69E+12;1
+756;Premium Kırmızı Tablet Standı Pro 01-0756;328654.00;198;Elektronik kategorisi için kırmızı renkli, premium tablet standı ürünü.;2026-07-28 14:57:13.000;1;8,69E+12;1
+757;Dayanıklı Beyaz Taşınabilir Şarj Cihazı Standart 01-0757;754778.00;479;Elektronik kategorisi için beyaz renkli, dayanıklı taşınabilir şarj cihazı ürünü.;2026-07-28 05:36:09.000;1;8,69E+12;1
+758;Premium Pembe Oyuncu Mouse Pro 01-0758;3496427.00;946;Elektronik kategorisi için pembe renkli, premium oyuncu mouse ürünü.;2026-08-01 11:41:55.000;1;8,69E+12;1
+759;Dayanıklı Pembe Laptop Soğutucu Plus 01-0759;196631.00;453;Elektronik kategorisi için pembe renkli, dayanıklı laptop soğutucu ürünü.;2026-07-08 08:45:08.000;1;8,69E+12;1
+760;Hafif Mavi Tablet Standı Nova 01-0760;1470684.00;268;Elektronik kategorisi için mavi renkli, hafif tablet standı ürünü.;2026-07-15 17:40:30.000;1;8,69E+12;1
+761;Profesyonel Pembe Telefon Kılıfı Max 01-0761;1694817.00;37;Elektronik kategorisi için pembe renkli, profesyonel telefon kılıfı ürünü.;2026-07-15 21:30:41.000;1;8,69E+12;1
+762;Günlük Kırmızı USB Bellek Standart 01-0762;2924716.00;891;Elektronik kategorisi için kırmızı renkli, günlük usb bellek ürünü.;2026-07-21 19:00:43.000;1;8,69E+12;1
+763;Ekonomik Kahverengi HDMI Kablo C Serisi 01-0763;320943.00;567;Elektronik kategorisi için kahverengi renkli, ekonomik hdmi kablo ürünü.;2026-07-08 13:22:59.000;1;8,69E+12;1
+764;Günlük Kırmızı Taşınabilir Şarj Cihazı Elite 01-0764;895103.00;78;Elektronik kategorisi için kırmızı renkli, günlük taşınabilir şarj cihazı ürünü.;2026-07-18 17:03:05.000;1;8,69E+12;1
+765;Pratik Mavi Taşınabilir Şarj Cihazı Elite 01-0765;2727985.00;97;Elektronik kategorisi için mavi renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-31 01:38:29.000;1;8,69E+12;1
+766;Modern Gri Oyuncu Mouse B Serisi 01-0766;901601.00;892;Elektronik kategorisi için gri renkli, modern oyuncu mouse ürünü.;2026-07-09 18:10:07.000;1;8,69E+12;1
+767;Hafif Kırmızı Oyuncu Mouse Standart 01-0767;1882851.00;731;Elektronik kategorisi için kırmızı renkli, hafif oyuncu mouse ürünü.;2026-07-23 12:24:50.000;1;8,69E+12;1
+768;Modern Pembe Kablosuz Kulaklık Eco 01-0768;2394919.00;622;Elektronik kategorisi için pembe renkli, modern kablosuz kulaklık ürünü.;2026-07-15 07:36:17.000;1;8,69E+12;1
+769;Modern Pembe Kablosuz Kulaklık Mini 01-0769;470817.00;729;Elektronik kategorisi için pembe renkli, modern kablosuz kulaklık ürünü.;2026-07-14 16:37:01.000;1;8,69E+12;1
+770;Ekonomik Turuncu Bluetooth Hoparlör C Serisi 01-0770;349666.00;200;Elektronik kategorisi için turuncu renkli, ekonomik bluetooth hoparlör ürünü.;2026-07-09 07:14:14.000;1;8,69E+12;1
+771;Ekonomik Pembe Akıllı Saat Pro 01-0771;3448392.00;629;Elektronik kategorisi için pembe renkli, ekonomik akıllı saat ürünü.;2026-07-30 16:50:46.000;1;8,69E+12;1
+772;Modern Beyaz USB Bellek Eco 01-0772;2849895.00;516;Elektronik kategorisi için beyaz renkli, modern usb bellek ürünü.;2026-07-12 08:00:00.000;1;8,69E+12;1
+773;Şık Kahverengi Laptop Soğutucu Nova 01-0773;2833984.00;136;Elektronik kategorisi için kahverengi renkli, şık laptop soğutucu ürünü.;2026-07-14 05:32:16.000;1;8,69E+12;1
+774;Kaliteli Turuncu Kablosuz Kulaklık Standart 01-0774;1483328.00;95;Elektronik kategorisi için turuncu renkli, kaliteli kablosuz kulaklık ürünü.;2026-07-16 15:21:41.000;1;8,69E+12;1
+775;Ekonomik Siyah USB Bellek C Serisi 01-0775;387583.00;157;Elektronik kategorisi için siyah renkli, ekonomik usb bellek ürünü.;2026-07-04 11:03:15.000;1;8,69E+12;1
+776;Ekonomik Kahverengi Oyuncu Mouse Luna 01-0776;1390978.00;750;Elektronik kategorisi için kahverengi renkli, ekonomik oyuncu mouse ürünü.;2026-07-17 09:37:13.000;1;8,69E+12;1
+777;Pratik Kırmızı Taşınabilir Şarj Cihazı Plus 01-0777;3085881.00;717;Elektronik kategorisi için kırmızı renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-12 14:42:56.000;1;8,69E+12;1
+778;Ekonomik Gri Taşınabilir Şarj Cihazı B Serisi 01-0778;699022.00;551;Elektronik kategorisi için gri renkli, ekonomik taşınabilir şarj cihazı ürünü.;2026-08-01 21:08:55.000;1;8,69E+12;1
+779;Şık Pembe USB Bellek Max 01-0779;1277722.00;308;Elektronik kategorisi için pembe renkli, şık usb bellek ürünü.;2026-07-18 01:37:52.000;1;8,69E+12;1
+780;Şık Kırmızı Web Kamera Mini 01-0780;1689561.00;885;Elektronik kategorisi için kırmızı renkli, şık web kamera ürünü.;2026-07-10 07:02:53.000;1;8,69E+12;1
+781;Kompakt Bej Web Kamera Eco 01-0781;1393295.00;314;Elektronik kategorisi için bej renkli, kompakt web kamera ürünü.;2026-07-09 14:20:12.000;1;8,69E+12;1
+782;Günlük Bej Akıllı Saat B Serisi 01-0782;2769829.00;547;Elektronik kategorisi için bej renkli, günlük akıllı saat ürünü.;2026-07-01 04:26:19.000;1;8,69E+12;1
+783;Şık Beyaz Telefon Kılıfı Eco 01-0783;106100.00;354;Elektronik kategorisi için beyaz renkli, şık telefon kılıfı ürünü.;2026-07-26 05:13:11.000;1;8,69E+12;1
+784;Yeni Nesil Lacivert Akıllı Saat Plus 01-0784;1086484.00;880;Elektronik kategorisi için lacivert renkli, yeni nesil akıllı saat ürünü.;2026-07-15 14:12:46.000;1;8,69E+12;1
+785;Modern Mor Telefon Kılıfı B Serisi 01-0785;1449419.00;477;Elektronik kategorisi için mor renkli, modern telefon kılıfı ürünü.;2026-07-10 05:49:10.000;1;8,69E+12;1
+786;Kaliteli Kırmızı Telefon Kılıfı Elite 01-0786;3491664.00;688;Elektronik kategorisi için kırmızı renkli, kaliteli telefon kılıfı ürünü.;2026-07-23 11:41:03.000;1;8,69E+12;1
+787;Kompakt Mor Bluetooth Hoparlör Max 01-0787;2517147.00;33;Elektronik kategorisi için mor renkli, kompakt bluetooth hoparlör ürünü.;2026-07-26 11:16:27.000;1;8,69E+12;1
+788;Profesyonel Kırmızı Kablosuz Kulaklık Max 01-0788;528811.00;87;Elektronik kategorisi için kırmızı renkli, profesyonel kablosuz kulaklık ürünü.;2026-07-13 08:47:07.000;1;8,69E+12;1
+789;Pratik Turuncu Kablosuz Kulaklık A Serisi 01-0789;217468.00;58;Elektronik kategorisi için turuncu renkli, pratik kablosuz kulaklık ürünü.;2026-07-31 08:27:01.000;1;8,69E+12;1
+790;Hafif Kahverengi Kablosuz Kulaklık Elite 01-0790;3194839.00;475;Elektronik kategorisi için kahverengi renkli, hafif kablosuz kulaklık ürünü.;2026-07-06 10:00:08.000;1;8,69E+12;1
+791;Yeni Nesil Beyaz Taşınabilir Şarj Cihazı Nova 01-0791;3306624.00;306;Elektronik kategorisi için beyaz renkli, yeni nesil taşınabilir şarj cihazı ürünü.;2026-07-10 01:45:16.000;1;8,69E+12;1
+792;Günlük Mor HDMI Kablo Eco 01-0792;3086971.00;696;Elektronik kategorisi için mor renkli, günlük hdmi kablo ürünü.;2026-07-03 10:35:44.000;1;8,69E+12;1
+793;Günlük Mor Bluetooth Hoparlör C Serisi 01-0793;2353894.00;264;Elektronik kategorisi için mor renkli, günlük bluetooth hoparlör ürünü.;2026-07-09 06:03:55.000;1;8,69E+12;1
+794;Dayanıklı Beyaz Oyuncu Mouse Standart 01-0794;902984.00;288;Elektronik kategorisi için beyaz renkli, dayanıklı oyuncu mouse ürünü.;2026-07-14 11:11:47.000;1;8,69E+12;1
+795;Hafif Beyaz Telefon Kılıfı A Serisi 01-0795;1249133.00;152;Elektronik kategorisi için beyaz renkli, hafif telefon kılıfı ürünü.;2026-07-16 23:55:31.000;1;8,69E+12;1
+796;Modern Bej Tablet Standı B Serisi 01-0796;2776159.00;909;Elektronik kategorisi için bej renkli, modern tablet standı ürünü.;2026-07-23 20:37:47.000;1;8,69E+12;1
+797;Dayanıklı Bej Telefon Kılıfı C Serisi 01-0797;2673688.00;849;Elektronik kategorisi için bej renkli, dayanıklı telefon kılıfı ürünü.;2026-07-23 09:00:21.000;1;8,69E+12;1
+798;Yeni Nesil Gri Mekanik Klavye Plus 01-0798;3167343.00;380;Elektronik kategorisi için gri renkli, yeni nesil mekanik klavye ürünü.;2026-07-24 00:23:12.000;1;8,69E+12;1
+799;Günlük Mavi USB Bellek Luna 01-0799;1899767.00;479;Elektronik kategorisi için mavi renkli, günlük usb bellek ürünü.;2026-07-11 07:07:07.000;1;8,69E+12;1
+800;Pratik Kahverengi Tablet Standı A Serisi 01-0800;2134757.00;837;Elektronik kategorisi için kahverengi renkli, pratik tablet standı ürünü.;2026-07-10 12:10:26.000;1;8,69E+12;1
+801;Günlük Mavi Telefon Kılıfı Elite 01-0801;2194882.00;12;Elektronik kategorisi için mavi renkli, günlük telefon kılıfı ürünü.;2026-07-17 15:52:28.000;1;8,69E+12;1
+802;Dayanıklı Lacivert USB Bellek Luna 01-0802;1126749.00;732;Elektronik kategorisi için lacivert renkli, dayanıklı usb bellek ürünü.;2026-07-02 12:18:31.000;1;8,69E+12;1
+803;Profesyonel Kırmızı USB Bellek A Serisi 01-0803;1579313.00;407;Elektronik kategorisi için kırmızı renkli, profesyonel usb bellek ürünü.;2026-07-14 16:58:38.000;1;8,69E+12;1
+804;Dayanıklı Mavi Web Kamera Plus 01-0804;3183287.00;776;Elektronik kategorisi için mavi renkli, dayanıklı web kamera ürünü.;2026-07-13 10:15:05.000;1;8,69E+12;1
+805;Kompakt Yeşil HDMI Kablo Max 01-0805;2995575.00;166;Elektronik kategorisi için yeşil renkli, kompakt hdmi kablo ürünü.;2026-07-21 17:58:51.000;1;8,69E+12;1
+806;Şık Kahverengi HDMI Kablo C Serisi 01-0806;589634.00;334;Elektronik kategorisi için kahverengi renkli, şık hdmi kablo ürünü.;2026-07-28 03:13:24.000;1;8,69E+12;1
+807;Modern Pembe Web Kamera Nova 01-0807;934144.00;922;Elektronik kategorisi için pembe renkli, modern web kamera ürünü.;2026-07-28 21:08:46.000;1;8,69E+12;1
+808;Yeni Nesil Beyaz Taşınabilir Şarj Cihazı Max 01-0808;665989.00;299;Elektronik kategorisi için beyaz renkli, yeni nesil taşınabilir şarj cihazı ürünü.;2026-07-25 10:16:09.000;1;8,69E+12;1
+809;Modern Pembe Oyuncu Mouse Standart 01-0809;661012.00;148;Elektronik kategorisi için pembe renkli, modern oyuncu mouse ürünü.;2026-07-08 15:09:41.000;1;8,69E+12;1
+810;Profesyonel Siyah Tablet Standı B Serisi 01-0810;994796.00;709;Elektronik kategorisi için siyah renkli, profesyonel tablet standı ürünü.;2026-07-13 03:45:09.000;1;8,69E+12;1
+811;Günlük Kırmızı Taşınabilir Şarj Cihazı C Serisi 01-0811;1675666.00;968;Elektronik kategorisi için kırmızı renkli, günlük taşınabilir şarj cihazı ürünü.;2026-07-08 22:34:36.000;1;8,69E+12;1
+812;Ekonomik Gri Tablet Standı B Serisi 01-0812;1300948.00;547;Elektronik kategorisi için gri renkli, ekonomik tablet standı ürünü.;2026-07-26 19:50:39.000;1;8,69E+12;1
+813;Şık Kahverengi Kablosuz Kulaklık Eco 01-0813;701310.00;558;Elektronik kategorisi için kahverengi renkli, şık kablosuz kulaklık ürünü.;2026-07-26 01:53:15.000;1;8,69E+12;1
+814;Yeni Nesil Mor Taşınabilir Şarj Cihazı Mini 01-0814;3077051.00;548;Elektronik kategorisi için mor renkli, yeni nesil taşınabilir şarj cihazı ürünü.;2026-07-14 19:09:54.000;1;8,69E+12;1
+815;Modern Kahverengi Oyuncu Mouse Standart 01-0815;2742332.00;789;Elektronik kategorisi için kahverengi renkli, modern oyuncu mouse ürünü.;2026-07-29 16:43:19.000;1;8,69E+12;1
+816;Hafif Pembe Taşınabilir Şarj Cihazı Luna 01-0816;2436978.00;952;Elektronik kategorisi için pembe renkli, hafif taşınabilir şarj cihazı ürünü.;2026-07-08 03:05:00.000;1;8,69E+12;1
+817;Hafif Kahverengi Bluetooth Hoparlör Eco 01-0817;3036254.00;633;Elektronik kategorisi için kahverengi renkli, hafif bluetooth hoparlör ürünü.;2026-08-01 10:49:04.000;1;8,69E+12;1
+818;Dayanıklı Pembe HDMI Kablo A Serisi 01-0818;2160958.00;153;Elektronik kategorisi için pembe renkli, dayanıklı hdmi kablo ürünü.;2026-07-25 18:59:16.000;1;8,69E+12;1
+819;Günlük Siyah Kablosuz Kulaklık Nova 01-0819;2970558.00;195;Elektronik kategorisi için siyah renkli, günlük kablosuz kulaklık ürünü.;2026-07-07 12:28:34.000;1;8,69E+12;1
+820;Yeni Nesil Kahverengi Web Kamera Plus 01-0820;3160130.00;567;Elektronik kategorisi için kahverengi renkli, yeni nesil web kamera ürünü.;2026-07-08 00:40:46.000;1;8,69E+12;1
+821;Hafif Lacivert Bluetooth Hoparlör Luna 01-0821;2280122.00;248;Elektronik kategorisi için lacivert renkli, hafif bluetooth hoparlör ürünü.;2026-07-30 07:19:14.000;1;8,69E+12;1
+822;Pratik Yeşil Akıllı Saat B Serisi 01-0822;313582.00;794;Elektronik kategorisi için yeşil renkli, pratik akıllı saat ürünü.;2026-07-04 13:17:31.000;1;8,69E+12;1
+823;Kompakt Lacivert Tablet Standı Plus 01-0823;626129.00;941;Elektronik kategorisi için lacivert renkli, kompakt tablet standı ürünü.;2026-07-15 23:51:32.000;1;8,69E+12;1
+824;Kompakt Kahverengi Web Kamera Plus 01-0824;1906097.00;472;Elektronik kategorisi için kahverengi renkli, kompakt web kamera ürünü.;2026-07-27 01:37:44.000;1;8,69E+12;1
+825;Ekonomik Beyaz Telefon Kılıfı Luna 01-0825;3463770.00;730;Elektronik kategorisi için beyaz renkli, ekonomik telefon kılıfı ürünü.;2026-07-16 06:57:55.000;1;8,69E+12;1
+826;Günlük Bej Oyuncu Mouse Standart 01-0826;31118.00;910;Elektronik kategorisi için bej renkli, günlük oyuncu mouse ürünü.;2026-07-17 22:28:30.000;1;8,69E+12;1
+827;Şık Yeşil Taşınabilir Şarj Cihazı Plus 01-0827;2674415.00;503;Elektronik kategorisi için yeşil renkli, şık taşınabilir şarj cihazı ürünü.;2026-07-27 12:30:10.000;1;8,69E+12;1
+828;Şık Gri Web Kamera Nova 01-0828;490450.00;669;Elektronik kategorisi için gri renkli, şık web kamera ürünü.;2026-07-20 07:53:45.000;1;8,69E+12;1
+829;Premium Mor Laptop Soğutucu Pro 01-0829;2041674.00;278;Elektronik kategorisi için mor renkli, premium laptop soğutucu ürünü.;2026-07-14 07:20:23.000;1;8,69E+12;1
+830;Kompakt Lacivert USB Bellek A Serisi 01-0830;1728748.00;786;Elektronik kategorisi için lacivert renkli, kompakt usb bellek ürünü.;2026-07-21 07:28:25.000;1;8,69E+12;1
+831;Profesyonel Turuncu Akıllı Saat Mini 01-0831;3079727.00;355;Elektronik kategorisi için turuncu renkli, profesyonel akıllı saat ürünü.;2026-07-07 21:54:27.000;1;8,69E+12;1
+832;Premium Siyah Web Kamera Max 01-0832;1667755.00;508;Elektronik kategorisi için siyah renkli, premium web kamera ürünü.;2026-07-08 03:29:25.000;1;8,69E+12;1
+833;Kompakt Gri HDMI Kablo Plus 01-0833;2205133.00;991;Elektronik kategorisi için gri renkli, kompakt hdmi kablo ürünü.;2026-07-05 16:18:31.000;1;8,69E+12;1
+834;Kaliteli Siyah Bluetooth Hoparlör B Serisi 01-0834;213798.00;377;Elektronik kategorisi için siyah renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-14 05:55:18.000;1;8,69E+12;1
+835;Yeni Nesil Gri Mekanik Klavye Max 01-0835;2498325.00;885;Elektronik kategorisi için gri renkli, yeni nesil mekanik klavye ürünü.;2026-07-06 23:09:16.000;1;8,69E+12;1
+836;Günlük Mavi Web Kamera Mini 01-0836;165197.00;375;Elektronik kategorisi için mavi renkli, günlük web kamera ürünü.;2026-07-08 23:28:41.000;1;8,69E+12;1
+837;Günlük Kırmızı Bluetooth Hoparlör Plus 01-0837;2274101.00;904;Elektronik kategorisi için kırmızı renkli, günlük bluetooth hoparlör ürünü.;2026-07-15 12:23:27.000;1;8,69E+12;1
+838;Kompakt Pembe Taşınabilir Şarj Cihazı C Serisi 01-0838;2757205.00;196;Elektronik kategorisi için pembe renkli, kompakt taşınabilir şarj cihazı ürünü.;2026-07-16 19:37:11.000;1;8,69E+12;1
+839;Şık Gri Telefon Kılıfı Nova 01-0839;931117.00;394;Elektronik kategorisi için gri renkli, şık telefon kılıfı ürünü.;2026-07-02 06:28:18.000;1;8,69E+12;1
+840;Yeni Nesil Mavi USB Bellek B Serisi 01-0840;3072332.00;95;Elektronik kategorisi için mavi renkli, yeni nesil usb bellek ürünü.;2026-07-30 23:03:33.000;1;8,69E+12;1
+841;Profesyonel Kırmızı Kablosuz Kulaklık Pro 01-0841;492227.00;535;Elektronik kategorisi için kırmızı renkli, profesyonel kablosuz kulaklık ürünü.;2026-07-18 18:00:08.000;1;8,69E+12;1
+842;Günlük Beyaz Laptop Soğutucu Eco 01-0842;1000400.00;107;Elektronik kategorisi için beyaz renkli, günlük laptop soğutucu ürünü.;2026-07-09 13:27:39.000;1;8,69E+12;1
+843;Pratik Yeşil Taşınabilir Şarj Cihazı Plus 01-0843;2948904.00;851;Elektronik kategorisi için yeşil renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-10 00:20:21.000;1;8,69E+12;1
+844;Premium Siyah Tablet Standı Pro 01-0844;1696720.00;401;Elektronik kategorisi için siyah renkli, premium tablet standı ürünü.;2026-07-15 06:19:00.000;1;8,69E+12;1
+845;Yeni Nesil Kırmızı Tablet Standı Luna 01-0845;2585408.00;1000;Elektronik kategorisi için kırmızı renkli, yeni nesil tablet standı ürünü.;2026-07-24 03:25:39.000;1;8,69E+12;1
+846;Şık Mor Mekanik Klavye Eco 01-0846;1645476.00;282;Elektronik kategorisi için mor renkli, şık mekanik klavye ürünü.;2026-07-20 12:36:43.000;1;8,69E+12;1
+847;Pratik Bej Telefon Kılıfı C Serisi 01-0847;1466368.00;983;Elektronik kategorisi için bej renkli, pratik telefon kılıfı ürünü.;2026-07-28 13:22:15.000;1;8,69E+12;1
+848;Modern Pembe Tablet Standı C Serisi 01-0848;2241015.00;945;Elektronik kategorisi için pembe renkli, modern tablet standı ürünü.;2026-07-18 23:09:27.000;1;8,69E+12;1
+849;Ekonomik Kırmızı Kablosuz Kulaklık Plus 01-0849;1748894.00;754;Elektronik kategorisi için kırmızı renkli, ekonomik kablosuz kulaklık ürünü.;2026-07-19 01:50:10.000;1;8,69E+12;1
+850;Modern Kırmızı Tablet Standı Pro 01-0850;2159118.00;56;Elektronik kategorisi için kırmızı renkli, modern tablet standı ürünü.;2026-07-03 05:46:40.000;1;8,69E+12;1
+851;Pratik Beyaz USB Bellek Nova 01-0851;1666445.00;890;Elektronik kategorisi için beyaz renkli, pratik usb bellek ürünü.;2026-07-19 19:26:43.000;1;8,69E+12;1
+852;Dayanıklı Lacivert Bluetooth Hoparlör Mini 01-0852;3077800.00;125;Elektronik kategorisi için lacivert renkli, dayanıklı bluetooth hoparlör ürünü.;2026-07-16 18:10:29.000;1;8,69E+12;1
+853;Profesyonel Mavi Telefon Kılıfı Plus 01-0853;1207576.00;224;Elektronik kategorisi için mavi renkli, profesyonel telefon kılıfı ürünü.;2026-07-15 05:03:17.000;1;8,69E+12;1
+854;Pratik Kırmızı HDMI Kablo Pro 01-0854;548796.00;952;Elektronik kategorisi için kırmızı renkli, pratik hdmi kablo ürünü.;2026-07-14 11:01:08.000;1;8,69E+12;1
+855;Günlük Turuncu Kablosuz Kulaklık Mini 01-0855;2409044.00;799;Elektronik kategorisi için turuncu renkli, günlük kablosuz kulaklık ürünü.;2026-07-30 10:17:40.000;1;8,69E+12;1
+856;Modern Mor Bluetooth Hoparlör Pro 01-0856;482803.00;835;Elektronik kategorisi için mor renkli, modern bluetooth hoparlör ürünü.;2026-07-08 15:37:48.000;1;8,69E+12;1
+857;Günlük Beyaz USB Bellek B Serisi 01-0857;3140476.00;252;Elektronik kategorisi için beyaz renkli, günlük usb bellek ürünü.;2026-07-13 19:47:05.000;1;8,69E+12;1
+858;Yeni Nesil Turuncu Oyuncu Mouse C Serisi 01-0858;2548257.00;636;Elektronik kategorisi için turuncu renkli, yeni nesil oyuncu mouse ürünü.;2026-07-25 03:46:22.000;1;8,69E+12;1
+859;Profesyonel Beyaz Laptop Soğutucu Pro 01-0859;528745.00;40;Elektronik kategorisi için beyaz renkli, profesyonel laptop soğutucu ürünü.;2026-07-24 05:22:42.000;1;8,69E+12;1
+860;Profesyonel Beyaz Akıllı Saat Max 01-0860;1325552.00;692;Elektronik kategorisi için beyaz renkli, profesyonel akıllı saat ürünü.;2026-07-31 22:39:49.000;1;8,69E+12;1
+861;Dayanıklı Lacivert Laptop Soğutucu B Serisi 01-0861;1974705.00;140;Elektronik kategorisi için lacivert renkli, dayanıklı laptop soğutucu ürünü.;2026-08-01 09:28:59.000;1;8,69E+12;1
+862;Günlük Pembe Oyuncu Mouse Luna 01-0862;3307716.00;223;Elektronik kategorisi için pembe renkli, günlük oyuncu mouse ürünü.;2026-07-29 04:18:51.000;1;8,69E+12;1
+863;Kaliteli Mavi Telefon Kılıfı Standart 01-0863;1371481.00;288;Elektronik kategorisi için mavi renkli, kaliteli telefon kılıfı ürünü.;2026-07-04 06:54:32.000;1;8,69E+12;1
+864;Ekonomik Mor USB Bellek C Serisi 01-0864;231455.00;81;Elektronik kategorisi için mor renkli, ekonomik usb bellek ürünü.;2026-07-13 21:29:33.000;1;8,69E+12;1
+865;Dayanıklı Yeşil Laptop Soğutucu Plus 01-0865;148678.00;746;Elektronik kategorisi için yeşil renkli, dayanıklı laptop soğutucu ürünü.;2026-07-14 04:25:53.000;1;8,69E+12;1
+866;Kaliteli Kırmızı Bluetooth Hoparlör Plus 01-0866;1544223.00;462;Elektronik kategorisi için kırmızı renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-30 13:58:51.000;1;8,69E+12;1
+867;Kaliteli Bej Mekanik Klavye B Serisi 01-0867;3120266.00;462;Elektronik kategorisi için bej renkli, kaliteli mekanik klavye ürünü.;2026-07-10 05:28:48.000;1;8,69E+12;1
+868;Yeni Nesil Mor USB Bellek Standart 01-0868;827977.00;934;Elektronik kategorisi için mor renkli, yeni nesil usb bellek ürünü.;2026-07-21 15:46:23.000;1;8,69E+12;1
+869;Yeni Nesil Siyah USB Bellek C Serisi 01-0869;2089808.00;293;Elektronik kategorisi için siyah renkli, yeni nesil usb bellek ürünü.;2026-07-09 15:03:29.000;1;8,69E+12;1
+870;Hafif Mor Kablosuz Kulaklık Eco 01-0870;2005292.00;521;Elektronik kategorisi için mor renkli, hafif kablosuz kulaklık ürünü.;2026-07-05 07:30:50.000;1;8,69E+12;1
+871;Kaliteli Kırmızı USB Bellek A Serisi 01-0871;891857.00;425;Elektronik kategorisi için kırmızı renkli, kaliteli usb bellek ürünü.;2026-07-25 00:15:20.000;1;8,69E+12;1
+872;Kompakt Gri Kablosuz Kulaklık Standart 01-0872;856249.00;414;Elektronik kategorisi için gri renkli, kompakt kablosuz kulaklık ürünü.;2026-07-01 21:10:19.000;1;8,69E+12;1
+873;Profesyonel Bej Web Kamera Plus 01-0873;1961367.00;53;Elektronik kategorisi için bej renkli, profesyonel web kamera ürünü.;2026-07-21 09:50:53.000;1;8,69E+12;1
+874;Kaliteli Bej Telefon Kılıfı Plus 01-0874;3468193.00;708;Elektronik kategorisi için bej renkli, kaliteli telefon kılıfı ürünü.;2026-07-18 15:07:38.000;1;8,69E+12;1
+875;Yeni Nesil Kırmızı Mekanik Klavye Nova 01-0875;1611316.00;631;Elektronik kategorisi için kırmızı renkli, yeni nesil mekanik klavye ürünü.;2026-07-04 04:38:35.000;1;8,69E+12;1
+876;Ekonomik Yeşil Tablet Standı C Serisi 01-0876;2563372.00;601;Elektronik kategorisi için yeşil renkli, ekonomik tablet standı ürünü.;2026-07-06 11:48:53.000;1;8,69E+12;1
+877;Premium Kahverengi Bluetooth Hoparlör Max 01-0877;2790368.00;695;Elektronik kategorisi için kahverengi renkli, premium bluetooth hoparlör ürünü.;2026-07-24 04:29:18.000;1;8,69E+12;1
+878;Yeni Nesil Beyaz USB Bellek Nova 01-0878;2669532.00;68;Elektronik kategorisi için beyaz renkli, yeni nesil usb bellek ürünü.;2026-07-22 10:45:30.000;1;8,69E+12;1
+879;Hafif Mavi HDMI Kablo Max 01-0879;3340164.00;68;Elektronik kategorisi için mavi renkli, hafif hdmi kablo ürünü.;2026-07-03 14:54:07.000;1;8,69E+12;1
+880;Premium Bej Mekanik Klavye Mini 01-0880;2983592.00;376;Elektronik kategorisi için bej renkli, premium mekanik klavye ürünü.;2026-07-07 06:41:52.000;1;8,69E+12;1
+881;Günlük Beyaz Mekanik Klavye Luna 01-0881;3485080.00;216;Elektronik kategorisi için beyaz renkli, günlük mekanik klavye ürünü.;2026-07-11 09:33:20.000;1;8,69E+12;1
+882;Ekonomik Mavi Laptop Soğutucu Luna 01-0882;218334.00;181;Elektronik kategorisi için mavi renkli, ekonomik laptop soğutucu ürünü.;2026-07-09 13:01:44.000;1;8,69E+12;1
+883;Şık Beyaz Kablosuz Kulaklık Elite 01-0883;1643638.00;586;Elektronik kategorisi için beyaz renkli, şık kablosuz kulaklık ürünü.;2026-07-17 06:33:36.000;1;8,69E+12;1
+884;Kaliteli Beyaz Web Kamera Nova 01-0884;75376.00;999;Elektronik kategorisi için beyaz renkli, kaliteli web kamera ürünü.;2026-07-25 21:49:45.000;1;8,69E+12;1
+885;Modern Yeşil HDMI Kablo Pro 01-0885;351510.00;780;Elektronik kategorisi için yeşil renkli, modern hdmi kablo ürünü.;2026-07-05 00:10:56.000;1;8,69E+12;1
+886;Şık Yeşil Taşınabilir Şarj Cihazı Eco 01-0886;2509388.00;438;Elektronik kategorisi için yeşil renkli, şık taşınabilir şarj cihazı ürünü.;2026-07-27 00:57:11.000;1;8,69E+12;1
+887;Ekonomik Kahverengi Taşınabilir Şarj Cihazı A Serisi 01-0887;1987001.00;748;Elektronik kategorisi için kahverengi renkli, ekonomik taşınabilir şarj cihazı ürünü.;2026-07-27 02:32:39.000;1;8,69E+12;1
+888;Kaliteli Yeşil Web Kamera Pro 01-0888;2306886.00;360;Elektronik kategorisi için yeşil renkli, kaliteli web kamera ürünü.;2026-07-29 09:25:34.000;1;8,69E+12;1
+889;Premium Gri Laptop Soğutucu Nova 01-0889;3195417.00;670;Elektronik kategorisi için gri renkli, premium laptop soğutucu ürünü.;2026-08-01 15:10:00.000;1;8,69E+12;1
+890;Günlük Siyah HDMI Kablo Max 01-0890;2658026.00;119;Elektronik kategorisi için siyah renkli, günlük hdmi kablo ürünü.;2026-07-17 07:51:53.000;1;8,69E+12;1
+891;Kaliteli Mor Taşınabilir Şarj Cihazı Luna 01-0891;2601330.00;877;Elektronik kategorisi için mor renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-21 10:49:06.000;1;8,69E+12;1
+892;Dayanıklı Kahverengi Mekanik Klavye Pro 01-0892;1926934.00;248;Elektronik kategorisi için kahverengi renkli, dayanıklı mekanik klavye ürünü.;2026-07-21 15:54:25.000;1;8,69E+12;1
+893;Yeni Nesil Kırmızı Laptop Soğutucu Standart 01-0893;210286.00;503;Elektronik kategorisi için kırmızı renkli, yeni nesil laptop soğutucu ürünü.;2026-07-19 15:03:32.000;1;8,69E+12;1
+894;Profesyonel Yeşil Laptop Soğutucu Luna 01-0894;1308904.00;678;Elektronik kategorisi için yeşil renkli, profesyonel laptop soğutucu ürünü.;2026-07-04 17:52:10.000;1;8,69E+12;1
+895;Profesyonel Kahverengi Laptop Soğutucu Standart 01-0895;984084.00;973;Elektronik kategorisi için kahverengi renkli, profesyonel laptop soğutucu ürünü.;2026-07-28 08:35:24.000;1;8,69E+12;1
+896;Günlük Kırmızı HDMI Kablo Nova 01-0896;2071899.00;941;Elektronik kategorisi için kırmızı renkli, günlük hdmi kablo ürünü.;2026-07-25 23:45:27.000;1;8,69E+12;1
+897;Kaliteli Beyaz Kablosuz Kulaklık B Serisi 01-0897;1061620.00;102;Elektronik kategorisi için beyaz renkli, kaliteli kablosuz kulaklık ürünü.;2026-08-01 00:56:17.000;1;8,69E+12;1
+898;Premium Kahverengi Mekanik Klavye Mini 01-0898;1032374.00;480;Elektronik kategorisi için kahverengi renkli, premium mekanik klavye ürünü.;2026-07-01 10:49:24.000;1;8,69E+12;1
+899;Ekonomik Mor Laptop Soğutucu Eco 01-0899;1133714.00;623;Elektronik kategorisi için mor renkli, ekonomik laptop soğutucu ürünü.;2026-07-03 15:39:45.000;1;8,69E+12;1
+900;Pratik Pembe Akıllı Saat Standart 01-0900;722388.00;670;Elektronik kategorisi için pembe renkli, pratik akıllı saat ürünü.;2026-07-28 14:42:55.000;1;8,69E+12;1
+901;Premium Beyaz Tablet Standı Nova 01-0901;2703950.00;948;Elektronik kategorisi için beyaz renkli, premium tablet standı ürünü.;2026-07-11 12:11:06.000;1;8,69E+12;1
+902;Pratik Pembe Oyuncu Mouse Eco 01-0902;525683.00;11;Elektronik kategorisi için pembe renkli, pratik oyuncu mouse ürünü.;2026-07-24 00:38:09.000;1;8,69E+12;1
+903;Premium Yeşil Telefon Kılıfı Mini 01-0903;3344222.00;920;Elektronik kategorisi için yeşil renkli, premium telefon kılıfı ürünü.;2026-07-29 09:46:08.000;1;8,69E+12;1
+904;Modern Yeşil Tablet Standı Plus 01-0904;1647435.00;660;Elektronik kategorisi için yeşil renkli, modern tablet standı ürünü.;2026-07-07 11:08:55.000;1;8,69E+12;1
+905;Kompakt Turuncu Taşınabilir Şarj Cihazı Max 01-0905;681558.00;200;Elektronik kategorisi için turuncu renkli, kompakt taşınabilir şarj cihazı ürünü.;2026-07-10 17:57:46.000;1;8,69E+12;1
+906;Kaliteli Gri Tablet Standı Standart 01-0906;1944494.00;163;Elektronik kategorisi için gri renkli, kaliteli tablet standı ürünü.;2026-07-14 23:09:10.000;1;8,69E+12;1
+907;Profesyonel Kırmızı Bluetooth Hoparlör Standart 01-0907;1491051.00;231;Elektronik kategorisi için kırmızı renkli, profesyonel bluetooth hoparlör ürünü.;2026-07-21 06:53:57.000;1;8,69E+12;1
+908;Şık Beyaz Web Kamera Mini 01-0908;2498192.00;735;Elektronik kategorisi için beyaz renkli, şık web kamera ürünü.;2026-08-01 12:12:17.000;1;8,69E+12;1
+909;Yeni Nesil Turuncu HDMI Kablo C Serisi 01-0909;2891101.00;262;Elektronik kategorisi için turuncu renkli, yeni nesil hdmi kablo ürünü.;2026-07-28 00:55:13.000;1;8,69E+12;1
+910;Dayanıklı Mor Oyuncu Mouse Plus 01-0910;769089.00;130;Elektronik kategorisi için mor renkli, dayanıklı oyuncu mouse ürünü.;2026-07-31 14:08:55.000;1;8,69E+12;1
+911;Günlük Beyaz Akıllı Saat Max 01-0911;1918753.00;393;Elektronik kategorisi için beyaz renkli, günlük akıllı saat ürünü.;2026-07-04 08:24:34.000;1;8,69E+12;1
+912;Günlük Mavi Bluetooth Hoparlör Max 01-0912;2347723.00;772;Elektronik kategorisi için mavi renkli, günlük bluetooth hoparlör ürünü.;2026-07-05 22:38:07.000;1;8,69E+12;1
+913;Yeni Nesil Beyaz Web Kamera Max 01-0913;782934.00;428;Elektronik kategorisi için beyaz renkli, yeni nesil web kamera ürünü.;2026-07-25 21:34:05.000;1;8,69E+12;1
+914;Şık Bej Tablet Standı Plus 01-0914;845237.00;726;Elektronik kategorisi için bej renkli, şık tablet standı ürünü.;2026-07-14 02:33:43.000;1;8,69E+12;1
+915;Kaliteli Mavi Akıllı Saat A Serisi 01-0915;914415.00;217;Elektronik kategorisi için mavi renkli, kaliteli akıllı saat ürünü.;2026-07-29 15:29:57.000;1;8,69E+12;1
+916;Kaliteli Kırmızı Web Kamera Plus 01-0916;3370942.00;395;Elektronik kategorisi için kırmızı renkli, kaliteli web kamera ürünü.;2026-07-26 16:44:54.000;1;8,69E+12;1
+917;Modern Siyah USB Bellek Mini 01-0917;3155517.00;341;Elektronik kategorisi için siyah renkli, modern usb bellek ürünü.;2026-07-25 01:18:31.000;1;8,69E+12;1
+918;Yeni Nesil Kahverengi HDMI Kablo B Serisi 01-0918;3298397.00;436;Elektronik kategorisi için kahverengi renkli, yeni nesil hdmi kablo ürünü.;2026-07-02 09:14:02.000;1;8,69E+12;1
+919;Profesyonel Pembe USB Bellek Luna 01-0919;1536864.00;165;Elektronik kategorisi için pembe renkli, profesyonel usb bellek ürünü.;2026-07-27 22:00:42.000;1;8,69E+12;1
+920;Pratik Gri Telefon Kılıfı Max 01-0920;2758735.00;984;Elektronik kategorisi için gri renkli, pratik telefon kılıfı ürünü.;2026-07-01 02:05:51.000;1;8,69E+12;1
+921;Şık Yeşil Oyuncu Mouse B Serisi 01-0921;1708660.00;459;Elektronik kategorisi için yeşil renkli, şık oyuncu mouse ürünü.;2026-07-07 01:23:10.000;1;8,69E+12;1
+922;Profesyonel Bej Telefon Kılıfı B Serisi 01-0922;1865940.00;670;Elektronik kategorisi için bej renkli, profesyonel telefon kılıfı ürünü.;2026-07-01 22:53:49.000;1;8,69E+12;1
+923;Kompakt Beyaz Web Kamera A Serisi 01-0923;3476618.00;635;Elektronik kategorisi için beyaz renkli, kompakt web kamera ürünü.;2026-07-10 13:04:48.000;1;8,69E+12;1
+924;Premium Beyaz USB Bellek Eco 01-0924;3382790.00;959;Elektronik kategorisi için beyaz renkli, premium usb bellek ürünü.;2026-07-20 13:44:08.000;1;8,69E+12;1
+925;Kaliteli Kırmızı HDMI Kablo Luna 01-0925;430477.00;744;Elektronik kategorisi için kırmızı renkli, kaliteli hdmi kablo ürünü.;2026-07-17 17:32:15.000;1;8,69E+12;1
+926;Kaliteli Turuncu Kablosuz Kulaklık A Serisi 01-0926;647906.00;969;Elektronik kategorisi için turuncu renkli, kaliteli kablosuz kulaklık ürünü.;2026-07-13 15:00:05.000;1;8,69E+12;1
+927;Modern Mor Tablet Standı Nova 01-0927;1250216.00;501;Elektronik kategorisi için mor renkli, modern tablet standı ürünü.;2026-07-23 09:40:35.000;1;8,69E+12;1
+928;Şık Mavi Oyuncu Mouse Plus 01-0928;2303784.00;688;Elektronik kategorisi için mavi renkli, şık oyuncu mouse ürünü.;2026-07-30 00:20:37.000;1;8,69E+12;1
+929;Yeni Nesil Mavi Web Kamera Pro 01-0929;2206540.00;643;Elektronik kategorisi için mavi renkli, yeni nesil web kamera ürünü.;2026-07-22 06:17:26.000;1;8,69E+12;1
+930;Şık Mor Web Kamera Max 01-0930;2610285.00;897;Elektronik kategorisi için mor renkli, şık web kamera ürünü.;2026-07-12 15:00:16.000;1;8,69E+12;1
+931;Kompakt Bej Mekanik Klavye A Serisi 01-0931;631443.00;250;Elektronik kategorisi için bej renkli, kompakt mekanik klavye ürünü.;2026-07-12 19:38:04.000;1;8,69E+12;1
+932;Premium Bej Akıllı Saat Plus 01-0932;1747198.00;247;Elektronik kategorisi için bej renkli, premium akıllı saat ürünü.;2026-07-27 00:50:42.000;1;8,69E+12;1
+933;Kompakt Siyah USB Bellek Eco 01-0933;2919563.00;608;Elektronik kategorisi için siyah renkli, kompakt usb bellek ürünü.;2026-07-01 03:53:07.000;1;8,69E+12;1
+934;Premium Turuncu Taşınabilir Şarj Cihazı Mini 01-0934;2989379.00;729;Elektronik kategorisi için turuncu renkli, premium taşınabilir şarj cihazı ürünü.;2026-07-04 10:28:34.000;1;8,69E+12;1
+935;Dayanıklı Mor Web Kamera Plus 01-0935;2285919.00;349;Elektronik kategorisi için mor renkli, dayanıklı web kamera ürünü.;2026-08-01 02:16:42.000;1;8,69E+12;1
+936;Kompakt Siyah HDMI Kablo Plus 01-0936;500078.00;827;Elektronik kategorisi için siyah renkli, kompakt hdmi kablo ürünü.;2026-07-04 23:21:24.000;1;8,69E+12;1
+937;Kompakt Turuncu Kablosuz Kulaklık Pro 01-0937;3095987.00;341;Elektronik kategorisi için turuncu renkli, kompakt kablosuz kulaklık ürünü.;2026-07-14 15:59:20.000;1;8,69E+12;1
+938;Hafif Turuncu Bluetooth Hoparlör Max 01-0938;1762009.00;711;Elektronik kategorisi için turuncu renkli, hafif bluetooth hoparlör ürünü.;2026-07-06 20:25:14.000;1;8,69E+12;1
+939;Şık Lacivert Akıllı Saat Pro 01-0939;2874939.00;137;Elektronik kategorisi için lacivert renkli, şık akıllı saat ürünü.;2026-07-06 15:52:28.000;1;8,69E+12;1
+940;Şık Mor Mekanik Klavye B Serisi 01-0940;577326.00;595;Elektronik kategorisi için mor renkli, şık mekanik klavye ürünü.;2026-07-09 22:55:05.000;1;8,69E+12;1
+941;Şık Beyaz Akıllı Saat Standart 01-0941;1154810.00;92;Elektronik kategorisi için beyaz renkli, şık akıllı saat ürünü.;2026-07-29 18:57:44.000;1;8,69E+12;1
+942;Günlük Mavi Web Kamera Max 01-0942;323976.00;745;Elektronik kategorisi için mavi renkli, günlük web kamera ürünü.;2026-07-12 19:51:23.000;1;8,69E+12;1
+943;Günlük Siyah Tablet Standı B Serisi 01-0943;941847.00;918;Elektronik kategorisi için siyah renkli, günlük tablet standı ürünü.;2026-07-31 17:31:44.000;1;8,69E+12;1
+944;Günlük Beyaz Oyuncu Mouse Plus 01-0944;1560404.00;625;Elektronik kategorisi için beyaz renkli, günlük oyuncu mouse ürünü.;2026-07-11 19:22:26.000;1;8,69E+12;1
+945;Kaliteli Turuncu Taşınabilir Şarj Cihazı B Serisi 01-0945;2934452.00;322;Elektronik kategorisi için turuncu renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-03 04:32:27.000;1;8,69E+12;1
+946;Şık Kahverengi Web Kamera B Serisi 01-0946;1921228.00;585;Elektronik kategorisi için kahverengi renkli, şık web kamera ürünü.;2026-07-20 07:39:29.000;1;8,69E+12;1
+947;Profesyonel Turuncu Bluetooth Hoparlör Max 01-0947;3418573.00;722;Elektronik kategorisi için turuncu renkli, profesyonel bluetooth hoparlör ürünü.;2026-07-04 19:00:05.000;1;8,69E+12;1
+948;Hafif Bej Oyuncu Mouse C Serisi 01-0948;1722355.00;261;Elektronik kategorisi için bej renkli, hafif oyuncu mouse ürünü.;2026-07-10 12:31:09.000;1;8,69E+12;1
+949;Günlük Turuncu Web Kamera C Serisi 01-0949;3089959.00;734;Elektronik kategorisi için turuncu renkli, günlük web kamera ürünü.;2026-07-19 22:49:57.000;1;8,69E+12;1
+950;Kompakt Turuncu Taşınabilir Şarj Cihazı Luna 01-0950;35476.00;942;Elektronik kategorisi için turuncu renkli, kompakt taşınabilir şarj cihazı ürünü.;2026-07-23 12:08:27.000;1;8,69E+12;1
+951;Şık Beyaz Bluetooth Hoparlör B Serisi 01-0951;3275080.00;965;Elektronik kategorisi için beyaz renkli, şık bluetooth hoparlör ürünü.;2026-07-06 06:12:40.000;1;8,69E+12;1
+952;Pratik Lacivert Bluetooth Hoparlör Nova 01-0952;1737490.00;503;Elektronik kategorisi için lacivert renkli, pratik bluetooth hoparlör ürünü.;2026-08-01 07:05:33.000;1;8,69E+12;1
+953;Hafif Mavi Kablosuz Kulaklık Nova 01-0953;320624.00;630;Elektronik kategorisi için mavi renkli, hafif kablosuz kulaklık ürünü.;2026-07-06 23:52:33.000;1;8,69E+12;1
+954;Dayanıklı Mor USB Bellek Standart 01-0954;3496735.00;194;Elektronik kategorisi için mor renkli, dayanıklı usb bellek ürünü.;2026-07-16 08:50:19.000;1;8,69E+12;1
+955;Kaliteli Mor Bluetooth Hoparlör Max 01-0955;1842947.00;36;Elektronik kategorisi için mor renkli, kaliteli bluetooth hoparlör ürünü.;2026-07-25 03:52:15.000;1;8,69E+12;1
+956;Modern Turuncu Mekanik Klavye Mini 01-0956;354952.00;691;Elektronik kategorisi için turuncu renkli, modern mekanik klavye ürünü.;2026-07-21 02:45:55.000;1;8,69E+12;1
+957;Kaliteli Pembe Taşınabilir Şarj Cihazı Standart 01-0957;3116892.00;92;Elektronik kategorisi için pembe renkli, kaliteli taşınabilir şarj cihazı ürünü.;2026-07-10 03:22:14.000;1;8,69E+12;1
+958;Premium Mavi Web Kamera Pro 01-0958;390589.00;551;Elektronik kategorisi için mavi renkli, premium web kamera ürünü.;2026-07-13 00:13:28.000;1;8,69E+12;1
+959;Hafif Turuncu Web Kamera Elite 01-0959;1891899.00;277;Elektronik kategorisi için turuncu renkli, hafif web kamera ürünü.;2026-07-16 08:14:20.000;1;8,69E+12;1
+960;Kaliteli Kırmızı Laptop Soğutucu Eco 01-0960;1613476.00;571;Elektronik kategorisi için kırmızı renkli, kaliteli laptop soğutucu ürünü.;2026-07-27 07:26:49.000;1;8,69E+12;1
+961;Premium Turuncu Oyuncu Mouse Standart 01-0961;3224586.00;17;Elektronik kategorisi için turuncu renkli, premium oyuncu mouse ürünü.;2026-07-31 16:52:28.000;1;8,69E+12;1
+962;Modern Turuncu HDMI Kablo Elite 01-0962;42499.00;322;Elektronik kategorisi için turuncu renkli, modern hdmi kablo ürünü.;2026-07-24 03:10:05.000;1;8,69E+12;1
+963;Dayanıklı Pembe Oyuncu Mouse Eco 01-0963;547028.00;738;Elektronik kategorisi için pembe renkli, dayanıklı oyuncu mouse ürünü.;2026-07-03 03:59:11.000;1;8,69E+12;1
+964;Günlük Kırmızı Bluetooth Hoparlör B Serisi 01-0964;1598163.00;71;Elektronik kategorisi için kırmızı renkli, günlük bluetooth hoparlör ürünü.;2026-07-12 01:38:33.000;1;8,69E+12;1
+965;Şık Pembe Akıllı Saat C Serisi 01-0965;1777503.00;732;Elektronik kategorisi için pembe renkli, şık akıllı saat ürünü.;2026-07-16 10:46:46.000;1;8,69E+12;1
+966;Pratik Gri Akıllı Saat C Serisi 01-0966;2229456.00;58;Elektronik kategorisi için gri renkli, pratik akıllı saat ürünü.;2026-07-02 06:48:38.000;1;8,69E+12;1
+967;Modern Beyaz Telefon Kılıfı A Serisi 01-0967;1803859.00;241;Elektronik kategorisi için beyaz renkli, modern telefon kılıfı ürünü.;2026-07-28 19:08:49.000;1;8,69E+12;1
+968;Günlük Mor Telefon Kılıfı Elite 01-0968;3406691.00;818;Elektronik kategorisi için mor renkli, günlük telefon kılıfı ürünü.;2026-07-09 04:26:53.000;1;8,69E+12;1
+969;Premium Mor Laptop Soğutucu Plus 01-0969;2714404.00;745;Elektronik kategorisi için mor renkli, premium laptop soğutucu ürünü.;2026-07-11 22:14:27.000;1;8,69E+12;1
+970;Ekonomik Bej Telefon Kılıfı Standart 01-0970;3156597.00;816;Elektronik kategorisi için bej renkli, ekonomik telefon kılıfı ürünü.;2026-08-01 02:43:58.000;1;8,69E+12;1
+971;Kompakt Pembe Oyuncu Mouse B Serisi 01-0971;2447894.00;221;Elektronik kategorisi için pembe renkli, kompakt oyuncu mouse ürünü.;2026-07-23 09:49:01.000;1;8,69E+12;1
+972;Ekonomik Pembe Oyuncu Mouse Plus 01-0972;263402.00;285;Elektronik kategorisi için pembe renkli, ekonomik oyuncu mouse ürünü.;2026-08-01 11:45:42.000;1;8,69E+12;1
+973;Yeni Nesil Yeşil Laptop Soğutucu Eco 01-0973;3053823.00;732;Elektronik kategorisi için yeşil renkli, yeni nesil laptop soğutucu ürünü.;2026-07-19 20:04:23.000;1;8,69E+12;1
+974;Kaliteli Kırmızı Mekanik Klavye Eco 01-0974;1145781.00;492;Elektronik kategorisi için kırmızı renkli, kaliteli mekanik klavye ürünü.;2026-07-24 10:52:34.000;1;8,69E+12;1
+975;Pratik Kahverengi Taşınabilir Şarj Cihazı Elite 01-0975;2141055.00;284;Elektronik kategorisi için kahverengi renkli, pratik taşınabilir şarj cihazı ürünü.;2026-07-08 02:15:16.000;1;8,69E+12;1
+976;Profesyonel Turuncu Kablosuz Kulaklık B Serisi 01-0976;2508606.00;680;Elektronik kategorisi için turuncu renkli, profesyonel kablosuz kulaklık ürünü.;2026-07-07 00:11:59.000;1;8,69E+12;1
+977;Profesyonel Kırmızı Bluetooth Hoparlör Luna 01-0977;479471.00;635;Elektronik kategorisi için kırmızı renkli, profesyonel bluetooth hoparlör ürünü.;2026-07-26 14:08:44.000;1;8,69E+12;1
+978;Modern Bej Bluetooth Hoparlör Mini 01-0978;267284.00;338;Elektronik kategorisi için bej renkli, modern bluetooth hoparlör ürünü.;2026-07-31 05:19:59.000;1;8,69E+12;1
+979;Hafif Gri Oyuncu Mouse A Serisi 01-0979;2308603.00;233;Elektronik kategorisi için gri renkli, hafif oyuncu mouse ürünü.;2026-07-12 11:39:47.000;1;8,69E+12;1
+980;Ekonomik Siyah Telefon Kılıfı Plus 01-0980;1954085.00;823;Elektronik kategorisi için siyah renkli, ekonomik telefon kılıfı ürünü.;2026-07-28 11:24:33.000;1;8,69E+12;1
+981;Kompakt Bej Telefon Kılıfı Max 01-0981;1874053.00;818;Elektronik kategorisi için bej renkli, kompakt telefon kılıfı ürünü.;2026-07-11 12:24:51.000;1;8,69E+12;1
+982;Profesyonel Bej Oyuncu Mouse Mini 01-0982;930397.00;393;Elektronik kategorisi için bej renkli, profesyonel oyuncu mouse ürünü.;2026-07-11 03:53:12.000;1;8,69E+12;1
+983;Premium Beyaz Laptop Soğutucu Standart 01-0983;2082317.00;521;Elektronik kategorisi için beyaz renkli, premium laptop soğutucu ürünü.;2026-07-01 12:35:12.000;1;8,69E+12;1
+984;Ekonomik Beyaz Tablet Standı Mini 01-0984;2048159.00;868;Elektronik kategorisi için beyaz renkli, ekonomik tablet standı ürünü.;2026-07-15 05:04:03.000;1;8,69E+12;1
+985;Profesyonel Kahverengi Oyuncu Mouse Max 01-0985;2128565.00;660;Elektronik kategorisi için kahverengi renkli, profesyonel oyuncu mouse ürünü.;2026-07-12 13:49:38.000;1;8,69E+12;1
+986;Kompakt Kırmızı Taşınabilir Şarj Cihazı Plus 01-0986;107359.00;116;Elektronik kategorisi için kırmızı renkli, kompakt taşınabilir şarj cihazı ürünü.;2026-08-01 04:38:59.000;1;8,69E+12;1
+987;Ekonomik Turuncu Laptop Soğutucu Max 01-0987;1937419.00;451;Elektronik kategorisi için turuncu renkli, ekonomik laptop soğutucu ürünü.;2026-07-14 13:21:29.000;1;8,69E+12;1
+988;Günlük Mavi Laptop Soğutucu Elite 01-0988;3067241.00;337;Elektronik kategorisi için mavi renkli, günlük laptop soğutucu ürünü.;2026-07-20 19:47:23.000;1;8,69E+12;1
+989;Yeni Nesil Mavi Web Kamera Nova 01-0989;612679.00;126;Elektronik kategorisi için mavi renkli, yeni nesil web kamera ürünü.;2026-07-17 16:17:12.000;1;8,69E+12;1
+990;Ekonomik Lacivert Mekanik Klavye Elite 01-0990;1310069.00;308;Elektronik kategorisi için lacivert renkli, ekonomik mekanik klavye ürünü.;2026-07-21 18:45:13.000;1;8,69E+12;1
+991;Kompakt Mor Bluetooth Hoparlör Mini 01-0991;2543559.00;947;Elektronik kategorisi için mor renkli, kompakt bluetooth hoparlör ürünü.;2026-07-16 14:28:17.000;1;8,69E+12;1
+992;Kompakt Kahverengi Web Kamera C Serisi 01-0992;366292.00;564;Elektronik kategorisi için kahverengi renkli, kompakt web kamera ürünü.;2026-07-21 14:33:55.000;1;8,69E+12;1
+993;Ekonomik Mor Web Kamera Pro 01-0993;2070568.00;622;Elektronik kategorisi için mor renkli, ekonomik web kamera ürünü.;2026-07-20 07:44:57.000;1;8,69E+12;1
+994;Dayanıklı Mor Kablosuz Kulaklık Eco 01-0994;2458578.00;630;Elektronik kategorisi için mor renkli, dayanıklı kablosuz kulaklık ürünü.;2026-07-10 06:27:09.000;1;8,69E+12;1
+995;Modern Pembe Mekanik Klavye B Serisi 01-0995;3470801.00;266;Elektronik kategorisi için pembe renkli, modern mekanik klavye ürünü.;2026-07-27 21:10:25.000;1;8,69E+12;1
+996;Şık Mor Telefon Kılıfı C Serisi 01-0996;1234779.00;234;Elektronik kategorisi için mor renkli, şık telefon kılıfı ürünü.;2026-07-16 19:56:01.000;1;8,69E+12;1
+997;Ekonomik Beyaz Taşınabilir Şarj Cihazı Standart 01-0997;323982.00;545;Elektronik kategorisi için beyaz renkli, ekonomik taşınabilir şarj cihazı ürünü.;2026-07-14 11:03:58.000;1;8,69E+12;1
+998;Profesyonel Kırmızı USB Bellek Elite 01-0998;630849.00;883;Elektronik kategorisi için kırmızı renkli, profesyonel usb bellek ürünü.;2026-07-05 01:59:32.000;1;8,69E+12;1
+999;Ekonomik Beyaz Laptop Soğutucu A Serisi 01-0999;2995178.00;113;Elektronik kategorisi için beyaz renkli, ekonomik laptop soğutucu ürünü.;2026-07-15 01:49:49.000;1;8,69E+12;1
+1000;Profesyonel Beyaz Tablet Standı Eco 01-1000;3051125.00;554;Elektronik kategorisi için beyaz renkli, profesyonel tablet standı ürünü.;2026-07-26 02:45:58.000;1;8,69E+12;1
